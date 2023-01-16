@@ -1,0 +1,22 @@
+Strings: Easy 
+344. Reverse String
+415. Add Strings
+125. Valid Palindrome
+242. Valid Anagram
+20. Valid Parentheses **
+*find Duplicate charecter in string
+*write a code to check whether one sting is rotation of another
+
+Strings: Medium
+647. Palindromic Substrings *
+316. Remove Duplicate Letters *
+*word break problem 
+*write a program to check whether a string is valid shuffle of two strings or not
+*count and say problem
+*find the longest palindrome in a string
+*find longerst recurring subsequece in string
+*print all subsequece of a string
+*
+Strings: Hard
+
+
