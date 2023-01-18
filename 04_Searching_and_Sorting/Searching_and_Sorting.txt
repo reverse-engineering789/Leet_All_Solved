@@ -5,9 +5,19 @@ Searching and Sorting: Medium
 * Searching and Sorting - Leetcode Premium - Amazon FactSet Hike Flipkart 
 * Find a fixed point(Value equal to index) in a given array.
 33. Search in Rotated Sorted Array - Adobe Amazon BankBazaar D-E-Shaw FactSet Flipkart Hike Intuit MakeMyTripMicrosoftPaytmSnapdealTimes InternetGoogle
+69. Sqrt(x)
+* maximum and minimum of an array using minimum number of comparisons -gfg -
+bellow questionis is similar to above question
+1991. find the middle index in array
+* Optimum location of point to minimize total distance
 
 
 
+
+
+* search in an array where adjecent differ by at most k
+the bellow question is similar(not exactly but its 50% similar) to above question
+* 532. k-diff Pairs in an array
 
 
 Searching and Sorting: Hard
