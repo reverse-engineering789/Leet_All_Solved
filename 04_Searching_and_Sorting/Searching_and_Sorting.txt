@@ -1,4 +1,7 @@
 Searching and Sorting: Easy 
+169. Majority Element
+
+
 
 Searching and Sorting: Medium
 34. Find First and Last Position of Element in Sorted Array - Amazon
@@ -10,8 +13,7 @@ Searching and Sorting: Medium
 bellow questionis is similar to above question
 1991. find the middle index in array
 * Optimum location of point to minimize total distance
-
-
+287. Find the Duplicate Number
 
 
 
