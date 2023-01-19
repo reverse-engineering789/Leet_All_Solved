@@ -13,13 +13,20 @@ Searching and Sorting: Medium
 bellow questionis is similar to above question
 1991. find the middle index in array
 * Optimum location of point to minimize total distance
-287. Find the Duplicate Number
-
-
-
+287. Find the Duplicate Number Amazon Samsung D-E-Shaw Goldman Sachs MAQ Software
+268. Missing Number Amazon Samsung D-E-Shaw Goldman Sachs MAQ Software
 * search in an array where adjecent differ by at most k
-the bellow question is similar(not exactly but its 50% similar) to above question
-* 532. k-diff Pairs in an array
+
+19-1
+
+ 532. K-diff Pairs in an Array                                  - Medium - Amazon Visa
+  18. 4Sum                                                      - Medium - Adobe Amazon Google Microsoft OYO Rooms
+ 198. House Robber                                              - Medium - Amazon OYO Rooms Paytm Walmart Google Flipkart
+1534. Count Good Triplets                                       - Easy   - Amazon SAP Labs
+  88. Merge Sorted Array                                        - Easy   - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
+      vvip - Merge Sorted Array without exrtra space            - gfg    - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
+ 560. Subarray Sum Equals K                                     - Medium - Amazon Microsoft OYO Rooms
+ 238. Product of Array Except Self                              - Medium - Accolite Amazon D-E-Shaw Intuit Morgan Stanley Opera Microsoft Flipkart
 
 
 Searching and Sorting: Hard
