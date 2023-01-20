@@ -1,4 +1,4 @@
-Searching and Sorting: Easy 
+
 169. Majority Element
 
 
@@ -17,8 +17,11 @@ bellow questionis is similar to above question
 268. Missing Number Amazon Samsung D-E-Shaw Goldman Sachs MAQ Software
 * search in an array where adjecent differ by at most k
 
-19-1
 
+
+19-1
+sheet question - 110
+Easy and Medium
  532. K-diff Pairs in an Array                                  - Medium - Amazon Visa
   18. 4Sum                                                      - Medium - Adobe Amazon Google Microsoft OYO Rooms
  198. House Robber                                              - Medium - Amazon OYO Rooms Paytm Walmart Google Flipkart
@@ -29,7 +32,7 @@ bellow questionis is similar to above question
  238. Product of Array Except Self                              - Medium - Accolite Amazon D-E-Shaw Intuit Morgan Stanley Opera Microsoft Flipkart
 
 
-Searching and Sorting: Hard
+
 
 
 
