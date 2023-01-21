@@ -24,8 +24,13 @@ sheet question - 110
 Easy and Medium
  532. K-diff Pairs in an Array                                  - Medium - Amazon Visa
   18. 4Sum                                                      - Medium - Adobe Amazon Google Microsoft OYO Rooms
- 198. House Robber                                              - Medium - Amazon OYO Rooms Paytm Walmart Google Flipkart
+  // added my self beacuse they are similar to 4Sum
+   1. Two Sum                                                   - Easy   - Accolite Amazon CarWale FactSet Flipkart Google Hike Microsoft Morgan Stanley SAP Labs Wipro Zoho Adobe
+  15. 3Sum                                                      - Medium - 
+ * 198. House Robber                                              - Medium - Amazon OYO Rooms Paytm Walmart Google Flipkart
 1534. Count Good Triplets                                       - Easy   - Amazon SAP Labs
+bellow qustion is similar to above question
+2179. Count Good Triplets in an Array                           - Hard - but this question is just similar to the problem not important solve it later 
   88. Merge Sorted Array                                        - Easy   - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
       vvip - Merge Sorted Array without exrtra space            - gfg    - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
  560. Subarray Sum Equals K                                     - Medium - Amazon Microsoft OYO Rooms
@@ -33,6 +38,15 @@ Easy and Medium
 
 
 
-
-
+21-1
+sheet question - 117
+* sort array according to count of set bits  no company tags
+* Minimum number of swaps required to sort an array -gfg - Microsoft
+// bellow question is simalr to above question
+801. Minimum Swaps To Make Sequences Increasing Hard
+* Bishu and Soldiers - hackerearth
+* Rasta and Kheshtak - hackerearth
+* Kth smallest number again - hackerearth
+724. Find Pivot Index - Easy
+* kth element of two sorted arrays - gfg
 
