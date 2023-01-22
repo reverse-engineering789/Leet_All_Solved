@@ -34,7 +34,7 @@ bellow qustion is similar to above question
   88. Merge Sorted Array                                        - Easy   - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
       vvip - Merge Sorted Array without exrtra space            - gfg    - Amdocs Brocade Goldman Sach sJuniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
  560. Subarray Sum Equals K                                     - Medium - Amazon Microsoft OYO Rooms
- 238. Product of Array Except Self                              - Medium - Accolite Amazon D-E-Shaw Intuit Morgan Stanley Opera Microsoft Flipkart
+* 238. Product of Array Except Self                              - Medium - Accolite Amazon D-E-Shaw Intuit Morgan Stanley Opera Microsoft Flipkart
 
 
 
@@ -50,3 +50,4 @@ sheet question - 117
 724. Find Pivot Index - Easy
 * kth element of two sorted arrays - gfg
 
+23-1
