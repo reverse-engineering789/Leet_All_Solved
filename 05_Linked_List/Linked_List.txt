@@ -1,0 +1,2 @@
+206. Reverse Linked List:Recursively - Easy - Accolite  Adobe  Amazon  Cisco  Cognizant  D-E-Shaw   Goldman Sachs   IgniteWorld Intuit    Mahindra Comviva      MakeMyTrip Microsoft Paytm Qualcomm Samsung   SAP Labs   Snapdeal  Tejas NetworkT   eradata VMWare Walmart Zoho
+206. Reverse Linked List:Iteratively - Easy - Accolite  Adobe  Amazon  Cisco  Cognizant  D-E-Shaw   Goldman Sachs   IgniteWorld Intuit    Mahindra Comviva      MakeMyTrip Microsoft Paytm Qualcomm Samsung   SAP Labs   Snapdeal  Tejas NetworkT   eradata VMWare Walmart Zoho
