@@ -24,6 +24,16 @@ Arrays: Hard
 
 -----------------------------------------------------
 
-
+* Reverse the array - gfg -  
 2091. Removing Minimum and Maximum From Array
 Medium
+* find Kth smallest element - gfg -    ABCOAccoliteAmazonCiscoHikeMicrosoftSnapdealVMWareGoogleAdobe
+bellow simalr to above
+215. Kth Largest Element in an Array - ABCOAccoliteAmazonCiscoHikeMicrosoftSnapdealVMWareGoogleAdobe
+* Sort an array of 0s, 1s and 2s AdobeAmazonHikeMakeMyTripMAQ SoftwareMicrosoftMorgan StanleyOla CabsOYO RoomsPaytmQualcommSamsungSAP LabsSnapdealWalmartYatra.comFlipkart
+bellow simalr to above
+75. Sort Colors - Medium - AdobeAmazonHikeMakeMyTripMAQ SoftwareMicrosoftMorgan StanleyOla CabsOYO RoomsPaytmQualcommSamsungSAP LabsSnapdealWalmartYatra.comFlipkart
+* Move all negative numbers to beginning and positive to end with constant extra space
+bellow simalr to above
+2149. Rearrange Array Elements by Sign - Medium - 
+
