@@ -3,8 +3,15 @@ L B vid probs and solns
 
 206. Reverse Linked List:Recursively - Easy - Accolite  Adobe  Amazon  Cisco  Cognizant  D-E-Shaw   Goldman Sachs   IgniteWorld Intuit    Mahindra Comviva      MakeMyTrip Microsoft Paytm Qualcomm Samsung   SAP Labs   Snapdeal  Tejas NetworkT   eradata VMWare Walmart Zoho
 206. Reverse Linked List:Iteratively - Easy - Accolite  Adobe  Amazon  Cisco  Cognizant  D-E-Shaw   Goldman Sachs   IgniteWorld Intuit    Mahindra Comviva      MakeMyTrip Microsoft Paytm Qualcomm Samsung   SAP Labs   Snapdeal  Tejas NetworkT   eradata VMWare Walmart Zoho
+
+* original question: Find the middle of the linked list - codestudio 
+bellow simalar to above:
 876. Middle of the Linked List
 Easy
 VMWareZohoFlipkartMorgan StanleyAmazonMicrosoftSamsungHikePayuMAQ SoftwareAdobeWiproSAP LabsQualcommNagarroGEVeritasIgniteWorldNetskope
+25. Reverse Nodes in k-Group
+Hard
+PaytmVMWareAccoliteAmazonMicrosoftSnapdealHikeMakeMyTripWalmartGoldman SachsAdobeSAP Labs
+
 
 
