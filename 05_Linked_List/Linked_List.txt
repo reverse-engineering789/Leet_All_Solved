@@ -12,6 +12,12 @@ VMWareZohoFlipkartMorgan StanleyAmazonMicrosoftSamsungHikePayuMAQ SoftwareAdobeW
 25. Reverse Nodes in k-Group
 Hard
 PaytmVMWareAccoliteAmazonMicrosoftSnapdealHikeMakeMyTripWalmartGoldman SachsAdobeSAP Labs
+* check circular linked list or not - code stdio - MicrosoftMAQ SoftwareSAP Labs\
+above simalar to bellow
+141. Linked List Cycle Amazon Samsung Microsoft
+Easy  &&
+142. Linked List Cycle II
+Medium
 
 
 
