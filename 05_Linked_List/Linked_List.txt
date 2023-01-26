@@ -42,3 +42,6 @@ Middle node - 876. Middle of the Linked List
 Easy 
 
 
+83. Remove Duplicates from Sorted List - Leetcode - MicrosoftOYO RoomsOracleVisaAdobeMyntra
+    Remove Duplicates from Unsorted List - Leetcode - Leetcode Premium - AmazonIntuit
+
