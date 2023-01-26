@@ -45,3 +45,7 @@ Easy
 83. Remove Duplicates from Sorted List - Leetcode - MicrosoftOYO RoomsOracleVisaAdobeMyntra
     Remove Duplicates from Unsorted List - Leetcode - Leetcode Premium - AmazonIntuit
 
+* Given a linked list of 0s, 1s and 2s, sort it. - AmazonMicrosoftMakeMyTrip
+above simalar to bellow
+148. Sort List
+Merge two sorted linked lists - ZohoFlipkartAccoliteAmazonMicrosoftSamsungFactSetMakeMyTripOracleBrocadeSynopsysOATS SystemsBelzabar
