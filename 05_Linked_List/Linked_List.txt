@@ -19,5 +19,17 @@ Easy  &&
 142. Linked List Cycle II
 Medium
 
+* Detect and remove loop in a linked list -  codestudio - VMWareMorgan StanleyAmazonMicrosoftSnapdealMakeMyTripOracleWalmartGoldman SachsAdobeQualcommKulizaNetskope
+the above question has 5 variants: you need to solve these using: floyds method\
+Linked List Cycle - 141. Linked List Cycle
+Easy
+Starting node of loop - 142. Linked List Cycle II
+Medium
+Length of loop - Find length of Loop
+Easy - gfg 
+Remove loop - Remove loop in Linked List
+Medium - gfg 
+Middle node - 876. Middle of the Linked List
+Easy 
 
 
