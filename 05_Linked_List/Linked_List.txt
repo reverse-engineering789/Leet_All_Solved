@@ -14,11 +14,20 @@ Hard
 PaytmVMWareAccoliteAmazonMicrosoftSnapdealHikeMakeMyTripWalmartGoldman SachsAdobeSAP Labs
 * check circular linked list or not - code stdio - MicrosoftMAQ SoftwareSAP Labs\
 above simalar to bellow
+NOTE: LOOPS RELATED QUESTIONS CAN BE SOLVED IN TWO WAYS: 
+1. USING HASH MAP // BRUTEFORCE APPROACJH
+2. FLOYEDS Cycle // MOST OPTIMAL APPROACH 
+SOLVE THE QUESTIONS IN BOTH WAYS
+
+
 141. Linked List Cycle Amazon Samsung Microsoft
 Easy  &&
 142. Linked List Cycle II
 Medium
-
+NOTE: LOOPS RELATED QUESTIONS CAN BE SOLVED IN TWO WAYS: 
+1. USING HASH MAP // BRUTEFORCE APPROACJH
+2. FLOYEDS Cycle // MOST OPTIMAL APPROACH 
+SOLVE THE QUESTIONS IN BOTH WAYS
 * Detect and remove loop in a linked list -  codestudio - VMWareMorgan StanleyAmazonMicrosoftSnapdealMakeMyTripOracleWalmartGoldman SachsAdobeQualcommKulizaNetskope
 the above question has 5 variants: you need to solve these using: floyds method\
 Linked List Cycle - 141. Linked List Cycle
