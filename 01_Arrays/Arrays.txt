@@ -36,4 +36,6 @@ bellow simalr to above
 * Move all negative numbers to beginning and positive to end with constant extra space
 bellow simalr to above
 2149. Rearrange Array Elements by Sign - Medium - 
-
+* Find the union and Intersection of two sorted arrays - gfg -
+above similar to bellow
+349. Intersection of Two Arrays -Easy - Zoho Rockstand AccoliteAmazonMicrosoftPayPalRockstand
