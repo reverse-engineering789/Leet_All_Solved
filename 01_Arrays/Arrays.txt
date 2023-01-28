@@ -39,3 +39,4 @@ bellow simalr to above
 * Find the union and Intersection of two sorted arrays - gfg -
 above similar to bellow
 349. Intersection of Two Arrays -Easy - Zoho Rockstand AccoliteAmazonMicrosoftPayPalRockstand
+need to learn to solve the problem - find union of two arrays - this question is not in leetcode.
