@@ -7,3 +7,6 @@ Find Leaves of Binary Tree - LeetCode Premium
 104. Maximum Depth of Binary Tree - Easy - VMWareZohoAmazonMicrosoftSnapdealD-E-ShawFactSetMakeMyTripTeradataSynopsysCouponDuniaCadence IndiaMonotype SolutionsFreeCharge
 543. Diameter of Binary Tree - Easy - AmazonMicrosoftOYO Rooms
 110. Balanced Binary Tree-Easy-AmazonMicrosoftWalmart
+100. Same Tree - Easy - FlipkartAmazonMicrosoft
+* Sum Tree -gfg- AmazonMicrosoftD-E-ShawGoldman SachsAdobe 
+103. Binary Tree Zigzag Level Order Traversal-Medium-FlipkartAmazonMicrosoftSnapdealFactSetHikeWalmartCisco
