@@ -14,5 +14,6 @@ boundary traversal of binary tree-leetcode  Premium - FlipkartMorgan StanleyAcco
 987. Vertical Order Traversal of a Binary Tree - Hard - FlipkartAccoliteAmazonMicrosoftMakeMyTripWalmartBrowserStackDellGrofersNetskope
 * Top View of Binary Tree-gfg-PaytmOla CabsWalmart
 * bottom View of Binary Tree-gfg-PaytmFlipkartAccoliteAmazonOYO RoomsWalmartCouponDunia
+* left View of Binary - gfg - PaytmFlipkartAccoliteAmazonOYO RoomsSamsungSnapdealMakeMyTripOla CabsAdobeQualcommTwitterKnowlarityOpen Solutions
 above QUESTIONS simalar to bellow
 199. Binary Tree Right Side View-Medium-AccoliteAmazonSnapdealMakeMyTripAdobe
