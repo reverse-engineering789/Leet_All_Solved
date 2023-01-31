@@ -17,3 +17,26 @@ boundary traversal of binary tree-leetcode  Premium - FlipkartMorgan StanleyAcco
 * left View of Binary - gfg - PaytmFlipkartAccoliteAmazonOYO RoomsSamsungSnapdealMakeMyTripOla CabsAdobeQualcommTwitterKnowlarityOpen Solutions
 above QUESTIONS simalar to bellow
 199. Binary Tree Right Side View-Medium-AccoliteAmazonSnapdealMakeMyTripAdobe
+* Sum of the Longest Bloodline of a Tree (Sum of nodes on the longest path from root to leaf node) - gfg - no compaines
+no similar problem in leetcode
+236. Lowest Common Ancestor of a Binary Tree-Medium-FlipkartAccoliteAmazonMicrosoftOYO RoomsSnapdealMakeMyTripPayuGoogleTimes InternetCiscoPayPalExpediaTwitterAmerican Express
+* K Sum Paths - gfg - FlipkartAmazonWalmart
+above similar to bellow  3  questions 
+112. Path Sum - Easy - 
+113. Path Sum II - Medium - 
+437. Path Sum III - Medium -
+* Maximum sum of Non-adjacent nodes-gfg-FlipkartAmazonGoogle
+no similar problem in leetcode
+105. Construct Binary Tree from Preorder and Inorder Traversal - AmazonMicrosoftHikeAdobe
+106. Construct Binary Tree from Inorder and Postorder Traversal -  AccoliteAmazonMicrosoft
+3 basic problems related to the above two problems(105, 106)
+94. Binary Tree Inorder Traversal - AmazonSnapdealAdobe
+144. Binary Tree Preorder Traversal - FlipkartAmazonMicrosoftWalmart
+145. Binary Tree Postorder Traversal - Morgan StanleySnapdealWalmart
+
+//////////////////////////////////////////////////////////////////////////
+
+important questions found randomly:
+124. Binary Tree Maximum Path Sum
+Hard
+13.4K likes
