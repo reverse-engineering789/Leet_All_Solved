@@ -35,6 +35,18 @@ no similar problem in leetcode
 145. Binary Tree Postorder Traversal - Morgan StanleySnapdealWalmart
 * Burn the binary tree starting from the target node - gfg - FlipkartAmazonMicrosoftAdobe
 114. Flatten Binary Tree to Linked List - Microsoft
+700. Search in a Binary Search Tree - Easy - Linkedin
+* Minimum element in BST - gfg - Microsoft
+* Maximum element in BST - gfg - no code spnippet 
+
+--------------------------------------------------
+
+-optimize the code -vid - 69 - - 700. Search in a Binary Search Tree - Easy - 
+-write the code - list prob - 69 - 450. Delete Node in a BST - Medium - 
+
+---------------------------------------------------
+
+
 
 //////////////////////////////////////////////////////////////////////////
 
@@ -42,3 +54,9 @@ important questions found randomly:
 124. Binary Tree Maximum Path Sum
 Hard
 13.4K likes
+654. Maximum Binary Tree
+Medium
+4.5K
+671. Second Minimum Node In a Binary Tree
+Easy
+1.5K 1.7k dislikes
