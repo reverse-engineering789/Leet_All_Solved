@@ -33,7 +33,8 @@ no similar problem in leetcode
 94. Binary Tree Inorder Traversal - AmazonSnapdealAdobe
 144. Binary Tree Preorder Traversal - FlipkartAmazonMicrosoftWalmart
 145. Binary Tree Postorder Traversal - Morgan StanleySnapdealWalmart
-* Burn the binary tree starting from the target node - gfg -
+* Burn the binary tree starting from the target node - gfg - FlipkartAmazonMicrosoftAdobe
+Flatten binary tree to linked list - gfg - Microsoft
 
 //////////////////////////////////////////////////////////////////////////
 
