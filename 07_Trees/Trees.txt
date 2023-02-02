@@ -48,6 +48,14 @@ no similar problem in leetcode
 
 98. Validate Binary Search Tree-Medium-VMWareFlipkartAccoliteAmazonMicrosoftOYO RoomsSamsungSnapdealFactSetHikeMakeMyTripOla CabsWalmartGoldman SachsMAQ SoftwareAdobeLinkedinQualcommBoomerang CommerceGreyOrangeWooker
 230. Kth Smallest Element in a BST-Medium-AccoliteAmazonGoogle
+*    Kth largest Element in a BST - gfg - AccoliteAmazonMicrosoftSamsungSAP Labs
+no similar qeustions for above quesiton
+* Predecessor and Successor In BST - gfg - Ola Cabs
+235. Lowest Common Ancestor of a Binary Search Tree - Medium - FlipkartAccoliteAmazonMicrosoftOYO RoomsSnapdealMakeMyTripPayuGoogleTimes InternetCiscoPayPalExpediaTwitterAmerican Express
+* Build Heap (Build max heap) - codestudio - no quesiton available in gfg/leetcode
+* Build Min Heap - codestudio - no question available in gfg/leetcode
+no simalar quesiton available for above 2 qeustions
+
 //////////////////////////////////////////////////////////////////////////
 
 important questions found randomly:

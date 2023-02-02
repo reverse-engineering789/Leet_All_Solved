@@ -1,0 +1,3 @@
+* Build Heap (Build max heap) - codestudio - no quesiton available in gfg/leetcode
+* Build Min Heap - codestudio - no question available in gfg/leetcode
+no simalar quesiton available for above 2 qeustions
