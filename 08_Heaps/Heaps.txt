@@ -8,4 +8,17 @@ above similar to bellow
 no simalar quesiton available for above qeustion
 * Merge two binary max heap - gfg - no compaines
 no simalar quesiton available for above qeustion
-* Minimum cost of ropes - gfg - AmazonMicrosoftOYO RoomsGoldman Sachs
+
+* 1000. Minimum Cost to Merge Stones - Hard - AmazonMicrosoftOYO RoomsGoldman Sachs
+mejority of the soutions related to the above questions are using dp to 
+solve the problem, so we can't solve it now. and B L solved in gfg, 
+but the problem is code snippet and format of gfg and leetcode are different.
+
+* convert BST to min heap - gfg - DE Shaw
+need to search, till now simalar question not found.
+* K-th Largest Sum Subarray - Easy - codestudio - need to search for company
+bellow similar to above
+53. Maximum Subarray - Medium - need to search for company
+* merge k sorted arrays - Medium - codestudio - VMWareFlipkartAmazonMicrosoftCitrix
+no simalar quesiton available for above qeustion
+23. Merge k Sorted Lists - Hard - VMWareAmazonMicrosoft
