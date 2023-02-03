@@ -52,9 +52,7 @@ no similar problem in leetcode
 no similar qeustions for above quesiton
 * Predecessor and Successor In BST - gfg - Ola Cabs
 235. Lowest Common Ancestor of a Binary Search Tree - Medium - FlipkartAccoliteAmazonMicrosoftOYO RoomsSnapdealMakeMyTripPayuGoogleTimes InternetCiscoPayPalExpediaTwitterAmerican Express
-* Build Heap (Build max heap) - codestudio - no quesiton available in gfg/leetcode
-* Build Min Heap - codestudio - no question available in gfg/leetcode
-no simalar quesiton available for above 2 qeustions
+
 
 //////////////////////////////////////////////////////////////////////////
 

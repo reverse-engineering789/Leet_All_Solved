@@ -1,3 +1,11 @@
 * Build Heap (Build max heap) - codestudio - no quesiton available in gfg/leetcode
 * Build Min Heap - codestudio - no question available in gfg/leetcode
 no simalar quesiton available for above 2 qeustions
+* Kth smallest element-Medium-gfg-VMWareAccoliteAmazonMicrosoftSnapdealHikeAdobe Google ABCOCisco
+above similar to bellow
+215. Kth Largest Element in an Array-AmazonMicrosoftWalmartAdobe
+* Is Binary Tree Heap-gfg-Hike
+no simalar quesiton available for above qeustion
+* Merge two binary max heap - gfg - no compaines
+no simalar quesiton available for above qeustion
+* Minimum cost of ropes - gfg - AmazonMicrosoftOYO RoomsGoldman Sachs
