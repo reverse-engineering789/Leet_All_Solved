@@ -2,3 +2,25 @@
 no simalar qeustion available
 * BFS in Garaph - codestudio - FlipkartAmazonMicrosoftSamsungOla CabsAdobeSAP Labs
 no simalar qeustion available
+* DFS Traversal - codestudio - AccoliteAmazonSamsungIntuit
+
+* cycle detection in undirected graph - TWO WAYS TO SOLVE:
+ USING BFS 
+ USING dFS   - codestudio - FlipkartAmazonMicrosoftSamsungMakeMyTripOracleAdobe
+ no simalar qeustion available
+
+ * Detect Cycle In A Directed Graph - codestudio - FlipkartAmazonMicrosoftSamsungMakeMyTripOracleGoldman SachsAdobeBankBazaarRockstand
+ no simalar qeustion available
+
+* Topological sort - (using DFS) codestudio - Moonfrog LabsFlipkartMorgan StanleyAccoliteAmazonMicrosoftOYO RoomsSamsungD-E-ShawVisa
+no simalar qeustion available
+* Topological sort - (using BFS) (using kahn's algorithm)
+
+* Detect Cycle In A Directed Graph - codestudio - FlipkartAmazonMicrosoftSamsungMakeMyTripOracleGoldman SachsAdobeBankBazaarRockstand
+  (Cycle detection in Directed graph using BFS)
+
+//--------------------------------------------------------------
+Note: You can apply Topological sort only for DIRECTED ACYCLIC GRAPH only.
+      if you apply Topological sort for CYCLIC GRAPH then you will get INVALID 
+      Topological sort.
+//--------------------------------------------------------------
