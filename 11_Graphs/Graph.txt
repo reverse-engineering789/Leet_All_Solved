@@ -16,11 +16,28 @@ no simalar qeustion available
 no simalar qeustion available
 * Topological sort - (using BFS) (using kahn's algorithm)
 
-* Detect Cycle In A Directed Graph - codestudio - FlipkartAmazonMicrosoftSamsungMakeMyTripOracleGoldman SachsAdobeBankBazaarRockstand
-  (Cycle detection in Directed graph using BFS)
 
 //--------------------------------------------------------------
 Note: You can apply Topological sort only for DIRECTED ACYCLIC GRAPH only.
       if you apply Topological sort for CYCLIC GRAPH then you will get INVALID 
       Topological sort.
 //--------------------------------------------------------------
+
+
+* Detect Cycle In A Directed Graph - codestudio - FlipkartAmazonMicrosoftSamsungMakeMyTripOracleGoldman SachsAdobeBankBazaarRockstand
+  (Cycle detection in Directed graph using BFS)
+
+
+* Shortest path in an unweighted graph - codestudio - no question available PRACTICE gfg
+no simalar qustion found
+
+* Shortest path in a directed acyclic graph - codestudio -  no question available PRACTICE gfg
+no simalar qustion found
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+847. Shortest Path Visiting All Nodes
+Hard
+3.1K
