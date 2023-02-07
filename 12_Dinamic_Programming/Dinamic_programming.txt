@@ -15,6 +15,7 @@ no simalar qeustions found
 above simalar to bellow
 Paint Fence - leetcode Premium - no compaines yet
 
-Bellow problems are the variants of Knapsack problem from gfg and leetcode
-* FlipkartMorgan StanleyAmazonMicrosoftSnapdealOraclePayuVisaDirectiGreyOrangeMobicip
+Bellow problems are the variants of Knapsack problem from gfg and codestudio
+* 0 1 Knapsack - codestudio - Twitter FlipkartMorgan StanleyAmazonMicrosoftSnapdealOraclePayuVisaDirectiGreyOrangeMobicip
 * Fractional Knapsack - gfg - Microsoft
+* Knapsack with Duplicate Items - gfg - AmazonGoogle
