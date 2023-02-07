@@ -2,3 +2,19 @@
 no simalar qeustions found
 70. Climbing Stairs - FlipkartAmazonMicrosoftOYO RoomsAdobe
 746. Min Cost Climbing Stairs - no qusestion available in gfg 
+322. Coin Change - PaytmFlipkartMorgan StanleyAccoliteAmazonMicrosoftOYO RoomsSamsungSnapdeal
+* Maximum sum of non-adjacent elements- codestudio - PaytmFlipkartAmazonOYO RoomsFactSetWalmartAdobeOxigen WalletYahoo
+no simalar qeustions found
+198. House Robber - Medium - tmFlipkartAmazonOYO RoomsWalmartGoogle
+1547. Minimum Cost to Cut a Stick - Hard - AmazonMicrosoftOYO Rooms
+* above question is almost similar to B L, but the numbers are passed as sets,
+  and not as individual numbers, need to solve in a little different way.
+* Count derangements - no question available in gfg 
+no simalar qeustions found
+* Ninja And The Fence - codestudio - no compaines yet
+above simalar to bellow
+Paint Fence - leetcode Premium - no compaines yet
+
+Bellow problems are the variants of Knapsack problem from gfg and leetcode
+* FlipkartMorgan StanleyAmazonMicrosoftSnapdealOraclePayuVisaDirectiGreyOrangeMobicip
+* Fractional Knapsack - gfg - Microsoft
