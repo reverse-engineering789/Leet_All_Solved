@@ -21,3 +21,7 @@ NOTE: tere are no question related to Knapsack in leetcode
 * Fractional Knapsack - gfg - Microsoft
 * Knapsack with Duplicate Items - gfg - AmazonGoogle
 377. Combination Sum IV - asked similar qn in gfg - Combination Sum - AmazonMicrosoftAdobe
+* Get Minimum Squares - gfg - AmazonMicrosoftWipro
+above LIKELY similar to bellow
+279. Perfect Squares -  no question found in gfg
+
