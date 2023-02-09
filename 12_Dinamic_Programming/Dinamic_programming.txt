@@ -24,4 +24,10 @@ NOTE: tere are no question related to Knapsack in leetcode
 * Get Minimum Squares - gfg - AmazonMicrosoftWipro
 above LIKELY similar to bellow
 279. Perfect Squares -  no question found in gfg
+983. Minimum Cost For Tickets - no question found in gfg
+983. Minimum Cost For Tickets - Part 2 (optimisation)
 
+////////////////////////////////////////////////////////////////////////////////
+
+
+Minimum Cost Path - gfg - no question in gfg
