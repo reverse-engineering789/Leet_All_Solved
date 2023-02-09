@@ -26,7 +26,7 @@ above LIKELY similar to bellow
 279. Perfect Squares -  no question found in gfg
 983. Minimum Cost For Tickets - no question found in gfg
 983. Minimum Cost For Tickets - Part 2 (optimisation)
-
+221. Maximal Square - AmazonSamsung
 ////////////////////////////////////////////////////////////////////////////////
 
 
