@@ -27,7 +27,10 @@ above LIKELY similar to bellow
 983. Minimum Cost For Tickets - no question found in gfg
 983. Minimum Cost For Tickets - Part 2 (optimisation)
 221. Maximal Square - AmazonSamsung
+1824. Minimum Sideway Jumps - no quesiton in gfg 
+
 ////////////////////////////////////////////////////////////////////////////////
 
 
-Minimum Cost Path - gfg - no question in gfg
+Minimum Cost Path - gfg - AmazonMicrosoftSamsungMakeMyTripGoldman Sachs
+Minimum number of jumps - gfg - Moonfrog LabsFlipkartAmazonMicrosoftHousing.comWalmartAdobeGoogle
