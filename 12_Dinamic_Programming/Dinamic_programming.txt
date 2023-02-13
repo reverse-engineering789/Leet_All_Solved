@@ -28,6 +28,8 @@ above LIKELY similar to bellow
 983. Minimum Cost For Tickets - Part 2 (optimisation)
 221. Maximal Square - AmazonSamsung
 1824. Minimum Sideway Jumps - no quesiton in gfg 
+1402. Reducing Dishes - no quesiton in gfg 
+300. Longest Increasing Subsequence - PaytmAmazonMicrosoftOYO RoomsSamsungBankBazaar
 
 ////////////////////////////////////////////////////////////////////////////////
 
