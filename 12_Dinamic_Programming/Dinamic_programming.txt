@@ -33,9 +33,13 @@ above LIKELY similar to bellow
 TRY - 354. Russian Doll Envelopes - Hard - question not found
 1691. Maximum Height by Stacking Cuboids - Hard - AmazonMicrosoftCodenation
 1388. Pizza With 3n Slices - Hard - question not found
+* need to code the tabuation approach
 1155. Number of Dice Rolls With Target Sum - Medium - AmazonMicrosoft
 * need to convert to leetcode - bellow qn
 416. Partition Equal Subset Sum - Medium -  AccoliteAmazonMicrosoftOYO RoomsAdobeDrishti-Soft
+801. Minimum Swaps To Make Sequences Increasing - Hard -  question not found
+1027. Longest Arithmetic Subsequence - Medium - mazonMicrosoftSnapdealGoogle
+
 
 
 ////////////////////////////////////////////////////////////////////////////////
