@@ -50,8 +50,8 @@ TRY - 354. Russian Doll Envelopes - Hard - question not found
 123. Best Time to Buy and Sell Stock III - Hard - question not found 
 188. Best Time to Buy and Sell Stock IV - Hard -  question not found 
 714. Best Time to Buy and Sell Stock with Transaction Fee - Medium -  tap of the question not found 
-1143. Longest Common Subsequence - Medium - 
-
+1143. Longest Common Subsequence - Medium - question not found 
+516. Longest Palindromic Subsequence - Medium - question not found
 ////////////////////////////////////////////////////////////////////////////////
 
 
