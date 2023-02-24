@@ -1,5 +1,5 @@
-#NDR - New Consept + difficult revise 
-#DR - difficult revise 
+#NDR - New Consept + difficult + revise 
+#DR - difficult + revise 
 #ER - Easy revise
 C - Completed 
 # - Tried but, Not solved yet, need to solve
@@ -25,3 +25,10 @@ above similar to bellow
 6. Find union and intersection of two sorted arrays
 #NDR 349. Intersection of Two Arrays
 
+7. Write a program to cyclically rotate an array by one
+#NDR 189. Rotate Array
+
+8. Find largest sum cotiguous subrray - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
+53. Maximum Subarray - Medium - Actual question
+523. Continuous Subarray Sum - similar  
+53. Maximum Subarray - similar
