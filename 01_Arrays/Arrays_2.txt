@@ -1,0 +1,14 @@
+1.Reverse the array - Easy - gfg
+no simlar found
+
+2. Maximum and minimum of an array using minimum number of comparisons
+above similar to bellow
+# 2091. Removing Minimum and Maximum From Array
+
+3. find the kth max and min element of an array 
+above similar to bellow
+# 215. Kth Largest Element in an Array
+
+4. given an array which consits of only 0,1, and 2, sort the array without using any sorting algo 
+above similar to bellow
+75. Sort Colors

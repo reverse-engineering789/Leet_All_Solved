@@ -53,6 +53,7 @@ TRY - 354. Russian Doll Envelopes - Hard - question not found
 1143. Longest Common Subsequence - Medium - question not found 
 516. Longest Palindromic Subsequence - Medium - question not found
 72. Edit Distance - Hard - AmazonMicrosoftGoldman SachsGoogle
+85. Maximal Rectangle - Hard - FlipkartAmazonMicrosoftSamsungMakeMyTripDirectiIntuitGoogle
 44. Wildcard Matching - Hard - ZohoAmazonMicrosoftOla CabsWalmartGoogleInMobiUnited Health Group
 
 ////////////////////////////////////////////////////////////////////////////////
