@@ -1,3 +1,9 @@
+#NDR - New Consept + difficult revise 
+#DR - difficult revise 
+#ER - Easy revise
+C - Completed 
+# - Tried but, Not solved yet, need to solve
+
 1.Reverse the array - Easy - gfg
 no simlar found
 
@@ -11,4 +17,11 @@ above similar to bellow
 
 4. given an array which consits of only 0,1, and 2, sort the array without using any sorting algo 
 above similar to bellow
-75. Sort Colors
+#DR 75. Sort Colors
+
+5. Move all negative elements to one side of array.
+#ER 283. Move Zeroes
+
+6. Find union and intersection of two sorted arrays
+#NDR 349. Intersection of Two Arrays
+
