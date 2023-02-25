@@ -21,15 +21,19 @@ above similar to bellow
 #DR 75. Sort Colors
 
 5. Move all negative elements to one side of array.
+above similar to bellow
 #ER 283. Move Zeroes
 
 6. Find union and intersection of two sorted arrays
+above similar to bellow
 #NDR 349. Intersection of Two Arrays
 
 7. Write a program to cyclically rotate an array by one
+above similar to bellow
 #NDR 189. Rotate Array
 
 8. Find largest sum cotiguous subrray - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
+above similar to bellow
 #NER 53. Maximum Subarray - Medium - Actual question
 #NER 523. Continuous Subarray Sum - similar  
 
@@ -58,7 +62,39 @@ Medium
 
 
 
-11. 
+11. 287. Find the Duplicate Number - Medium -  
+
+12. Merge 2 sorted arrays without using Extra space - question not found 404 
+
+13. Kadane's Algo [V.V.V.V.V IMP] - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
+no question found, but  qn 53 is using  the algo to slove 
+
+
+14. 56. Merge Intervals
+
+
+15. 31. Next Permutation
+
+
+16. count inversions - FlipkartAmazonMicrosoftMakeMyTripAdobeBankBazaarMyntra
+
+
+17. 121. Best Time to Buy and Sell Stock
+
+
+18. find all pairs on integer array whose sum is equal to given number - FlipkartAccoliteAmazonFactSetHikeMakeMyTripGoldman SachsAdobeSalesforce
+above similar to bellow
+1865. Finding Pairs With a Certain Sum
+
+
+19. find common elements In 3 sorted arrays - VMWareMicrosoftMAQ Software
+above similar to bellow
+intersection of three sorted arrays - leetocde Premium
+
+
+20. Rearrange the array in alternating positive and negative items with O(1) extra space - PaytmVMWareAmazonMicrosoftIntuit
+above similar to bellow
+2149. Rearrange Array Elements by Sign - Medium -
 
 
 //////////////////////////////////////////////////////////////////////////////////
