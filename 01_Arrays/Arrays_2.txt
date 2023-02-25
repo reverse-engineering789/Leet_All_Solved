@@ -1,4 +1,5 @@
 #NDR - New Consept + difficult + revise 
+#NER - New Consept + Easy revise
 #DR - difficult + revise 
 #ER - Easy revise
 C - Completed 
@@ -29,9 +30,55 @@ above similar to bellow
 #NDR 189. Rotate Array
 
 8. Find largest sum cotiguous subrray - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
-53. Maximum Subarray - Medium - Actual question
-523. Continuous Subarray Sum - similar  
+#NER 53. Maximum Subarray - Medium - Actual question
+#NER 523. Continuous Subarray Sum - similar  
 
 
-9. Minimise the maximum difference between heights - MicrosoftAdobe
+9. Minimise the maximum difference between heights - MicrosoftAdobe 
+no similar qns
 
+
+10. Minimum no. of Jumps to reach end of an array - Moonfrog LabsFlipkartAmazonMicrosoftHousing.comWalmartAdobeGoogle
+55. Jump Game - Medium - 
+similar:
+45. Jump Game II - Medium - 
+1306. Jump Game III - Medium - 
+Jump Game IV
+Hard
+Jump Game V
+Hard
+Jump Game VI
+Medium
+Jump Game VII
+Medium
+Jump Game VIII
+Medium
+Count Vowel Strings in Ranges
+Medium
+
+
+
+11. 
+
+
+//////////////////////////////////////////////////////////////////////////////////
+
+
+Jump Game II
+Medium
+Jump Game
+Medium
+Jump Game III
+Medium
+Jump Game IV
+Hard
+Jump Game V
+Hard
+Jump Game VI
+Medium
+Jump Game VII
+Medium
+Jump Game VIII
+Medium
+Count Vowel Strings in Ranges
+Medium
