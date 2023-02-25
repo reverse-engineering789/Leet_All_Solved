@@ -31,4 +31,7 @@ above similar to bellow
 8. Find largest sum cotiguous subrray - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
 53. Maximum Subarray - Medium - Actual question
 523. Continuous Subarray Sum - similar  
-53. Maximum Subarray - similar
+
+
+9. Minimise the maximum difference between heights - MicrosoftAdobe
+
