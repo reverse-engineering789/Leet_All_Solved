@@ -213,7 +213,22 @@ no similar quesiton found
 
 
 35. Median of 2 sorted arrays of equal size
+above similar to bellow
+4. Median of Two Sorted Arrays
+Hard
+
+
+
 36. Median of 2 sorted arrays of different size
+above similar to bellow
+4. Median of Two Sorted Arrays
+Hard
+
+
+
+
+
+
 
 above similar to bellow
 above similar to bellow
