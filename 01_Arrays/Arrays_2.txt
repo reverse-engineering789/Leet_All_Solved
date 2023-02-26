@@ -226,11 +226,51 @@ Hard
 
 
 
-
-
-
-
+37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
 above similar to bellow
+54. Spiral Matrix
+Medium
+
+38.	Search an element in a matriix
+Leetcode:
+74. Search a 2D Matrix
+240. Search a 2D Matrix II
+
+
+39.	Find median in a row wise sorted matrix - no tags found 
+above similar to bellow
+Median of a Row Wise Sorted Matrix - leetcode Premium 
+
+
+40.	Find row with maximum no. of 1's - AmazonMicrosoftSnapdeal
+no similar question found 
+
+
+41.	Print elements in sorted order using row-column wise sorted matrix - AmazonFactSet
+above similar to bellow
+
+42.	Maximum size rectangle - FlipkartAmazonMicrosoftSamsungMakeMyTripDirectiIntuitGoogle
+above similar to bellow
+85. Maximal Rectangle
+
+
+43.	Find a specific pair in matrix - no tags found
+no similar question found 
+
+44.	Rotate matrix by 90 degrees -  no tags found
+above similar to bellow
+48. Rotate Image
+
+45.	Kth smallest element in a row-cpumn wise sorted matrix - AccoliteAmazon
+above similar to bellow
+378. Kth Smallest Element in a Sorted Matrix - Medium
+
+46.	Common elements in all rows of a given matrix - no tags found
+above similar to bellow
+Find Smallest Common Element in All Rows - LeetCode Premium
+
+
+
 above similar to bellow
 above similar to bellow
 above similar to bellow
@@ -279,4 +319,7 @@ Medium
 
 
 209. Minimum Size Subarray Sum
+Medium
+
+240. Search a 2D Matrix II
 Medium
