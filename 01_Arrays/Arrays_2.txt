@@ -97,6 +97,60 @@ above similar to bellow
 2149. Rearrange Array Elements by Sign - Medium -
 
 
+21. Find if there is any subarray with sum equal to 0 - PaytmAdobe
+above similar to bellow
+560. Subarray Sum Equals K
+
+
+22. Find factorial of a large number - Morgan StanleyMicrosoftSamsungMakeMyTripMAQ SoftwareAdobePhilipsBrowserStack
+no similar qns found
+
+
+23. find maximum product subarray - Morgan StanleyAmazonMicrosoftOYO RoomsD-E-ShawGoogle
+above similar to bellow
+152. Maximum Product Subarray
+
+
+24. Find longest coinsecutive subsequence AmazonMicrosoftWalmart
+above similar to bellow
+128. Longest Consecutive Sequence
+
+
+25. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. - no tags found
+above similar to bellow
+169. Majority Element
+229. Majority Element II
+
+
+
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+
+
+
 //////////////////////////////////////////////////////////////////////////////////
 
 
