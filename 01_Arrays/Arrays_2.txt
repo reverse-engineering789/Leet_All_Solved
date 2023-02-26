@@ -106,6 +106,7 @@ above similar to bellow
 no similar qns found
 
 
+
 23. find maximum product subarray - Morgan StanleyAmazonMicrosoftOYO RoomsD-E-ShawGoogle
 above similar to bellow
 152. Maximum Product Subarray
@@ -122,8 +123,28 @@ above similar to bellow
 229. Majority Element II
 
 
-
+26. Maximum profit by buying and selling a share atmost twice
 above similar to bellow
+Best Time to Buy and Sell Stock
+Easy
+Best Time to Buy and Sell Stock II
+Medium
+123. Best Time to Buy and Sell Stock III
+Hard
+Best Time to Buy and Sell Stock IV
+Hard
+Best Time to Buy and Sell Stock with Cooldown
+Medium
+Best Time to Buy and Sell Stock with Transaction Fee
+Medium
+Maximum Profit From Trading Stocks
+Medium
+
+
+27. Find whether an array is a subset of another array
+no similar qusestion found
+
+
 above similar to bellow
 above similar to bellow
 above similar to bellow
