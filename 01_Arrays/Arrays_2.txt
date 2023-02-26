@@ -141,12 +141,30 @@ Maximum Profit From Trading Stocks
 Medium
 
 
-27. Find whether an array is a subset of another array
+27. Find whether an array is a subset of another array - no tags found
 no similar qusestion found
 
 
+28. Find the triplet that sum to a given value - AccoliteAmazonMicrosoftOYO RoomsSamsungCarWale
+above similar to Bellow
+15. 3Sum
+different type of qns on the same topic:
+Two Sum
+Easy
+3Sum Closest
+Medium
+4Sum
+Medium
+3Sum Smaller
+Medium
+Number of Arithmetic Triplets
+Easy
+
+
+
+
 above similar to bellow
-above similar to bellow
+
 above similar to bellow
 above similar to bellow
 above similar to bellow
