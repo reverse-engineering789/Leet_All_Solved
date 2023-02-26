@@ -162,10 +162,59 @@ Easy
 
 
 
-29. Trapping Rain water problem 
+29. Trapping Rain water problem - FlipkartAmazonMicrosoftGoogle
 above similar to bellow
+42. Trapping Rain Water
+Hard
+varients:
+Container With Most Water
+Medium
+Product of Array Except Self
+Medium
+Trapping Rain Water II
+Hard
+Pour Water
+Medium
 
+
+
+30. Chocolate Distribution problem - Flipkart
 above similar to bellow
+575. Distribute Candies
+Easy
+135. Candy
+Hard
+
+
+
+31. Smallest Subarray with sum greater than a given value - AccoliteAmazonGoldman SachsGoogleFacebook
+above similar to bellow
+862. Shortest Subarray with Sum at Least K
+Hard
+
+
+32. Three way partitioning of an array around a given value - Yahoo 
+no similar quesiton found
+related:
+2161. Partition Array According to Given Pivot
+Medium
+
+
+33. Minimum swaps required bring elements less equal K together
+no similar quesiton found
+related:
+801. Minimum Swaps To Make Sequences Increasing - Hard -
+1703. Minimum Adjacent Swaps for K Consecutive Ones - Hard -
+
+
+
+34. Minimum no. of operations required to make an array palindrome
+no similar quesiton found
+
+
+35. Median of 2 sorted arrays of equal size
+36. Median of 2 sorted arrays of different size
+
 above similar to bellow
 above similar to bellow
 above similar to bellow
@@ -210,4 +259,9 @@ Medium
 Jump Game VIII
 Medium
 Count Vowel Strings in Ranges
+Medium
+
+
+
+209. Minimum Size Subarray Sum
 Medium
