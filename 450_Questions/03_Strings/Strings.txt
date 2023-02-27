@@ -74,9 +74,18 @@ Easy
 
 
 59.	Word Wrap Problem [VERY IMP]. - FlipkartMicrosoft
-above simalar to bellow
+no similar quesiton found 
 
-60.	EDIT Distance [Very Imp]-
+
+
+60.	EDIT Distance [Very Imp]- - AmazonMicrosoftGoldman SachsGoogle
+above similar to bellow 
+72. Edit Distance
+Hard
+
+
+
+
 61.	Find next greater number with same set of digits. [Very Very IMP]
 62.	Balanced Parenthesis problem.[Imp]
 63.	Word break Problem[ Very Imp]

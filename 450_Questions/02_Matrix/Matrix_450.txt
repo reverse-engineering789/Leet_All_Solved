@@ -42,3 +42,28 @@ above similar to bellow
 46.	Common elements in all rows of a given matrix - no tags found
 above similar to bellow
 Find Smallest Common Element in All Rows - LeetCode Premium
+
+
+
+// --------------------------------------------------------------
+Find median in a row wise sorted matrix - gfg/letocde Premium 
+
+
+
+
+Find row with maximum nu of 1's - gfg - amazon microsoft snapdeel
+above similar to bellow 
+485. Max Consecutive Ones
+Easy
+
+
+
+
+1865. Finding Pairs With a Certain Sum -  Accolite Adobe Amazon FactSet Flipkart Goldman Sachs Hike MakeMyTrip Salesforce
+
+
+
+/////////////////////////////////////////////////////////////////
+
+
+ 867. Transpose Matrix-InfoEdge MakeMyTrip  

@@ -11,7 +11,7 @@ Matrix: Medium
 * 1865. Finding Pairs With a Certain Sum -  Accolite Adobe Amazon FactSet Flipkart Goldman Sachs Hike MakeMyTrip Salesforce
   48. Rotate Image - Microsoft Paytm Samsung Adobe
   
-* Find Smallest Common Element in All Rows - LeetCode Premium
+#* Find Smallest Common Element in All Rows - LeetCode Premium
 bellow question is similar to above qusestion in gfg platfrom.
 * Common elements in all rows of a given matrix-gfg
 
