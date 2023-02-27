@@ -1,0 +1,136 @@
+47.	Reverse a String
+Leetcode:
+344. Reverse String
+
+
+48.	Check whether a String is Palindrome or not - PaytmZohoMorgan StanleyAmazonD-E-ShawFactSetCiscoFacebook
+above similar to bellow 
+125. Valid Palindrome
+
+ 
+ 49. Find Duplicate characters in a string - no tags found
+above similar to bellow 
+316. Remove Duplicate Letters
+Medium
+
+
+50.	Why strings are immutable in Java?
+
+
+
+51.	Write a Code to check whether one string is a rotation of another - no tags found 
+above similar to bellow 
+796. Rotate String
+Easy
+
+
+52.	Write a Program to check whether a string is a valid shuffle of two strings or not - programiz.com
+question not found 
+varients:
+1528. Shuffle String
+Easy
+
+
+
+53.	Count and Say problem 
+leetocde:
+38. Count and Say
+Medium
+
+
+
+54.	Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring] - ZohoAccoliteAmazonMicrosoftSamsungMakeMyTripVisaWalmartGoogleQualcommGroupon
+above similar to bellow
+5. Longest Palindromic Substring
+Medium
+
+
+
+55.	Find Longest Recurring Subsequence in String - AmazonGoogle
+above similar to bellow(Hard)
+2014. Longest Subsequence Repeated k Times
+Hard
+
+
+
+56.	Print all Subsequences of a string. no tags found 
+no similar quesiton 
+ 
+
+
+57.	Print all the permutations of the given string - ZohoAccoliteAmazonMicrosoftOYO RoomsSamsungSnapdealCitrixWalmartMAQ SoftwareCisco
+no similar question found 
+variants:
+567. Permutation in String
+Medium
+
+
+
+58.	Split the Binary string into two substring with equal 0’s and 1’s
+above simalar to bellow
+696. Count Binary Substrings
+Easy
+
+
+
+59.	Word Wrap Problem [VERY IMP]. - FlipkartMicrosoft
+above simalar to bellow
+
+60.	EDIT Distance [Very Imp]-
+61.	Find next greater number with same set of digits. [Very Very IMP]
+62.	Balanced Parenthesis problem.[Imp]
+63.	Word break Problem[ Very Imp]
+64.	Rabin Karp Algo
+65.	KMP Algo
+66.	Convert a Sentence into its equivalent mobile numeric keypad sequence.
+67.	Minimum number of bracket reversals needed to make an expression balanced.
+68.	Count All Palindromic Subsequence in a given String.
+69.	Count of number of given string in 2D character array
+70.	Search a Word in a 2D Grid of characters.
+71.	Boyer Moore Algorithm for Pattern Searching.
+72.	Converting Roman Numerals to Decimal
+73.	Longest Common Prefix
+74.	Number of flips to make binary string alternate
+75.	Find the first repeated word in string.
+76.	Minimum number of swaps for bracket balancing.
+77.	Find the longest common subsequence between two strings.
+78.	Program to generate all possible valid IP addresses from given  string.
+79.	Write a program tofind the smallest window that contains all characters of string itself.
+80.	Rearrange characters in a string such that no two adjacent are same
+81.	Minimum characters to be added at front to make string palindrome
+82.	Given a sequence of words, print all anagrams together
+83.	Find the smallest window in a string containing all characters of another string
+84.	Recursively remove all adjacent duplicates
+85.	String matching where one string contains wildcard characters
+86.	Function to find Number of customers who could not get a computer
+87.	Transform One String to Another using Minimum Number of Given Operation
+88.	Check if two given strings are isomorphic to each other
+89.	Recursively print all sentences that can be formed from list of word lists
+
+
+
+// varients of valid palindrom problem:
+139. Word Break
+Medium
+Palindrome Linked List
+Easy
+Valid Palindrome II
+Easy
+Valid Palindrome III
+Hard
+Maximum Product of the Length of Two Palindromic Subsequences
+Medium
+Find First Palindromic String in the Array
+Easy
+Valid Palindrome IV
+Medium
+
+
+
+
+
+Arrays:
+46. Permutations
+
+47. Permutations II
+Medium
