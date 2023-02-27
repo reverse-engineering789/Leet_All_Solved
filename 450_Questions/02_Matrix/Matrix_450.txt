@@ -46,9 +46,11 @@ Find Smallest Common Element in All Rows - LeetCode Premium
 
 
 // --------------------------------------------------------------
+
+Vid problems:
+
+
 Find median in a row wise sorted matrix - gfg/letocde Premium 
-
-
 
 
 Find row with maximum nu of 1's - gfg - amazon microsoft snapdeel
@@ -58,9 +60,16 @@ Easy
 
 
 
+print elements in sorted order in  row wise column wise sorted matrix - gfg - Amazon FactSet
+no questions found 
+
 
 1865. Finding Pairs With a Certain Sum -  Accolite Adobe Amazon FactSet Flipkart Goldman Sachs Hike MakeMyTrip Salesforce
 
+
+Common elements in all rows of a given matrix - gfg - VMWareMicrosoftMAQ Software
+above similar to bellow 
+Find Smallest Common Element in All Rows - LeetCode Premium
 
 
 /////////////////////////////////////////////////////////////////

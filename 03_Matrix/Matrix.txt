@@ -7,6 +7,9 @@ Matrix: Medium
  240. Search a 2D Matrix II
 * Find median in a row wise sorted matrix - gfg/letocde Premium 
 * Find row with maximum nu of 1's - gfg - amazon microsoft snapdeel
+
+
+
 * print elements in sorted order in  row wise column wise sorted matrix - gfg - Amazon FactSet
 * 1865. Finding Pairs With a Certain Sum -  Accolite Adobe Amazon FactSet Flipkart Goldman Sachs Hike MakeMyTrip Salesforce
   48. Rotate Image - Microsoft Paytm Samsung Adobe
