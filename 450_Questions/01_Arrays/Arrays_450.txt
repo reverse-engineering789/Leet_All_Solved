@@ -11,7 +11,7 @@ no simlar found
 2. Maximum and minimum of an array using minimum number of comparisons
 above similar to bellow
 # 2091. Removing Minimum and Maximum From Array
-
+ 
 3. find the kth max and min element of an array 
 above similar to bellow
 # 215. Kth Largest Element in an Array
@@ -43,9 +43,16 @@ no similar qns
 
 
 10. Minimum no. of Jumps to reach end of an array - Moonfrog LabsFlipkartAmazonMicrosoftHousing.comWalmartAdobeGoogle
-55. Jump Game - Medium - 
+#NER 55. Jump Game - Medium - 
 similar:
-45. Jump Game II - Medium - 
+
+
+#NER 45. Jump Game II - Medium - 
+
+
+
+
+
 1306. Jump Game III - Medium - 
 Jump Game IV
 Hard
@@ -64,22 +71,38 @@ Medium
 
 11. 287. Find the Duplicate Number - Medium -  
 
-12. Merge 2 sorted arrays without using Extra space - question not found 404 
+
+
+12. Merge 2 sorted arrays without using Extra space - question not found 404
+above similar to bellow 
+88. Merge Sorted Array
+
+
 
 13. Kadane's Algo [V.V.V.V.V IMP] - ZohoFlipkartMorgan StanleyAccoliteAmazonMicrosoftSamsungSnapdeal24*7 Innovation LabsCitrixD-E-ShawFactSetHikeHousing.comMetLifeOla CabsOraclePayuTeradataVisaWalmartAdobeGoogleArcesium
 no question found, but  qn 53 is using  the algo to slove 
 
 
+
+
 14. 56. Merge Intervals
+
+
 
 
 15. 31. Next Permutation
 
 
+
+
 16. count inversions - FlipkartAmazonMicrosoftMakeMyTripAdobeBankBazaarMyntra
 
 
+
+
 17. 121. Best Time to Buy and Sell Stock
+
+
 
 
 18. find all pairs on integer array whose sum is equal to given number - FlipkartAccoliteAmazonFactSetHikeMakeMyTripGoldman SachsAdobeSalesforce
@@ -87,9 +110,13 @@ above similar to bellow
 1865. Finding Pairs With a Certain Sum
 
 
+
+
 19. find common elements In 3 sorted arrays - VMWareMicrosoftMAQ Software
 above similar to bellow
 intersection of three sorted arrays - leetocde Premium
+
+
 
 
 20. Rearrange the array in alternating positive and negative items with O(1) extra space - PaytmVMWareAmazonMicrosoftIntuit
@@ -97,9 +124,13 @@ above similar to bellow
 2149. Rearrange Array Elements by Sign - Medium -
 
 
+
+
 21. Find if there is any subarray with sum equal to 0 - PaytmAdobe
 above similar to bellow
 560. Subarray Sum Equals K
+
+
 
 
 22. Find factorial of a large number - Morgan StanleyMicrosoftSamsungMakeMyTripMAQ SoftwareAdobePhilipsBrowserStack
@@ -112,15 +143,19 @@ above similar to bellow
 152. Maximum Product Subarray
 
 
+
 24. Find longest coinsecutive subsequence AmazonMicrosoftWalmart
 above similar to bellow
 128. Longest Consecutive Sequence
+
+
 
 
 25. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. - no tags found
 above similar to bellow
 169. Majority Element
 229. Majority Element II
+
 
 
 26. Maximum profit by buying and selling a share atmost twice
@@ -231,10 +266,13 @@ above similar to bellow
 54. Spiral Matrix
 Medium
 
+
+
 38.	Search an element in a matriix
 Leetcode:
 74. Search a 2D Matrix
 240. Search a 2D Matrix II
+
 
 
 39.	Find median in a row wise sorted matrix - no tags found 
@@ -242,55 +280,53 @@ above similar to bellow
 Median of a Row Wise Sorted Matrix - leetcode Premium 
 
 
+
 40.	Find row with maximum no. of 1's - AmazonMicrosoftSnapdeal
 no similar question found 
 
 
+
+
 41.	Print elements in sorted order using row-column wise sorted matrix - AmazonFactSet
 above similar to bellow
+
+
 
 42.	Maximum size rectangle - FlipkartAmazonMicrosoftSamsungMakeMyTripDirectiIntuitGoogle
 above similar to bellow
 85. Maximal Rectangle
 
 
+
 43.	Find a specific pair in matrix - no tags found
 no similar question found 
+
+
 
 44.	Rotate matrix by 90 degrees -  no tags found
 above similar to bellow
 48. Rotate Image
 
+
+
 45.	Kth smallest element in a row-cpumn wise sorted matrix - AccoliteAmazon
 above similar to bellow
 378. Kth Smallest Element in a Sorted Matrix - Medium
+
+
 
 46.	Common elements in all rows of a given matrix - no tags found
 above similar to bellow
 Find Smallest Common Element in All Rows - LeetCode Premium
 
 
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
+above similar to bellow
 
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
 
 
 
@@ -321,5 +357,15 @@ Medium
 209. Minimum Size Subarray Sum
 Medium
 
+
+
 240. Search a 2D Matrix II
+Medium
+
+
+496. Next Greater Element I
+Easy
+503. Next Greater Element II
+Medium
+556. Next Greater Element III
 Medium

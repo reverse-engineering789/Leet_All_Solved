@@ -66,7 +66,7 @@ Medium
 
 
 
-58.	Split the Binary string into two substring with equal 0’s and 1’s
+58.	Split the Binary string into two substring with equal 0’s and 1’s - tag not found
 above simalar to bellow
 696. Count Binary Substrings
 Easy
@@ -86,10 +86,35 @@ Hard
 
 
 
-61.	Find next greater number with same set of digits. [Very Very IMP]
-62.	Balanced Parenthesis problem.[Imp]
-63.	Word break Problem[ Very Imp]
-64.	Rabin Karp Algo
+61.	Find next greater number with same set of digits. [Very Very IMP] - InfosysFlipkartAmazonMicrosoftFactSetHikeMakeMyTripGoogleQualcommSalesforce
+above similar to bellow 
+31. Next Permutation
+Medium
+
+
+
+62.	Balanced Parenthesis problem.[Imp] - FlipkartAmazonMicrosoftOYO RoomsSnapdealOracleWalmartAdobeGoogleYatra.com
+above similar to bellow
+20. Valid Parentheses
+Easy
+678. Valid Parenthesis String
+Medium
+
+
+
+63.	Word break Problem[ Very Imp] - hoFlipkartAmazonMicrosoftHikeWalmartMAQ SoftwareGoogleIBM
+above similar to bellow 
+139. Word Break
+Medium
+
+
+
+64.	Rabin Karp Algo - no tags found 
+no similar questions 
+
+
+
+
 65.	KMP Algo
 66.	Convert a Sentence into its equivalent mobile numeric keypad sequence.
 67.	Minimum number of bracket reversals needed to make an expression balanced.
