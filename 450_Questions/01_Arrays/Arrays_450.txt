@@ -106,11 +106,12 @@ no question found, but  qn 53 is using  the algo to slove
 
 
 16. count inversions - FlipkartAmazonMicrosoftMakeMyTripAdobeBankBazaarMyntra
+no simialr quesiton 
 
 
 
 
-17. 121. Best Time to Buy and Sell Stock
+17. #ENR 121. Best Time to Buy and Sell Stock
 
 
 
