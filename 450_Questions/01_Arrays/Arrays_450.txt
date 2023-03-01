@@ -4,6 +4,7 @@ Insertion Sort
 Selection Sort
 Merge Sort
 Quick Sort
+Heap Sort
 using qn -> 912. Sort an Array - V V V IMP
 
 
