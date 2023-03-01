@@ -115,7 +115,12 @@ no similar questions
 
 
 
-65.	KMP Algo
+65.	KMP Algo - no tags found 
+no similar questions 
+
+
+
+
 66.	Convert a Sentence into its equivalent mobile numeric keypad sequence.
 67.	Minimum number of bracket reversals needed to make an expression balanced.
 68.	Count All Palindromic Subsequence in a given String.
