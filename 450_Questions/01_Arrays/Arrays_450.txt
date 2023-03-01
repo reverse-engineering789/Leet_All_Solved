@@ -1,3 +1,12 @@
+practice these sorting algorithms
+Bubble Sort
+Insertion Sort
+Selection Sort
+Merge Sort
+Quick Sort
+using qn -> 912. Sort an Array - V V V IMP
+
+
 #NDR - New Consept + difficult + revise 
 #NER - New Consept + Easy revise
 #DR - difficult + revise 
@@ -69,13 +78,13 @@ Medium
 
 
 
-11. 287. Find the Duplicate Number - Medium -  
+11. #ER 287. Find the Duplicate Number - Medium -  
 
 
 
 12. Merge 2 sorted arrays without using Extra space - question not found 404
 above similar to bellow 
-88. Merge Sorted Array
+#ER 88. Merge Sorted Array
 
 
 
@@ -85,12 +94,12 @@ no question found, but  qn 53 is using  the algo to slove
 
 
 
-14. 56. Merge Intervals
+14. #NER 56. Merge Intervals - AmazonMicrosoftGoogleNutanix
 
 
 
 
-15. 31. Next Permutation
+15. #NER 31. Next Permutation - InfosysFlipkartAmazonMicrosoftFactSetHikeMakeMyTripGoogleQualcommSalesforce
 
 
 
@@ -328,10 +337,14 @@ above similar to bellow
 above similar to bellow
 
 
+// -----------------------------------------------------
+
+
+
 
 
 //////////////////////////////////////////////////////////////////////////////////
-
+912. Sort an Array - V V V IMP
 
 Jump Game II
 Medium
