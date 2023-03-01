@@ -204,14 +204,75 @@ Medium
 
 
 
-75.	Find the first repeated word in string.
-76.	Minimum number of swaps for bracket balancing.
-77.	Find the longest common subsequence between two strings.
-78.	Program to generate all possible valid IP addresses from given  string.
-79.	Write a program tofind the smallest window that contains all characters of string itself.
-80.	Rearrange characters in a string such that no two adjacent are same
-81.	Minimum characters to be added at front to make string palindrome
-82.	Given a sequence of words, print all anagrams together
+75.	Find the first repeated word in string. - AmazonGoldman Sachs
+no similar quesiton found
+related varients:
+387. First Unique Character in a String
+Easy
+7.4K
+686. Repeated String Match
+Medium
+1.9K
+
+
+
+76.	Minimum number of swaps for bracket balancing. - no tag found
+above similar to bellow 
+1963. Minimum Number of Swaps to Make the String Balanced
+Medium
+
+
+
+77.	Find the longest common subsequence between two strings. - PaytmVMWareAmazonMicrosoftCitrixMakeMyTrip
+above similar to bellow 
+1143. Longest Common Subsequence
+Medium
+
+
+
+78.	Program to generate all possible valid IP addresses from given  string. - Amazon
+above similar to bellow 
+93. Restore IP Addresses
+Medium
+
+
+
+79.	Write a program tofind the smallest window that contains all characters of string itself. - AmazonDailyhunt
+above similar to beloow 
+76. Minimum Window Substring
+Hard
+14.4K
+
+
+
+80.	Rearrange characters in a string such that no two adjacent are same - question not found - 404
+above similar to bellow 
+767. Reorganize String
+Medium
+
+
+
+81.	Minimum characters to be added at front to make string palindrome - tag not found 
+above similar to bellow 
+1312. Minimum Insertion Steps to Make a String Palindrome
+Hard
+
+
+
+
+82.	Given a sequence of words, print all anagrams together - 
+above simiar to bellow 
+49. Group Anagrams
+Medium
+14.4K
+related varient:
+438. Find All Anagrams in a String
+Medium
+10.8K
+
+
+
+
 83.	Find the smallest window in a string containing all characters of another string
 84.	Recursively remove all adjacent duplicates
 85.	String matching where one string contains wildcard characters
@@ -221,6 +282,8 @@ Medium
 89.	Recursively print all sentences that can be formed from list of word lists
 
 
+
+////////////////////////////////////////////////////////////////////
 
 // varients of valid palindrom problem:
 139. Word Break
@@ -238,6 +301,13 @@ Easy
 Valid Palindrome IV
 Medium
 
+
+
+
+
+
+214. Shortest Palindrome
+Hard
 
 
 
