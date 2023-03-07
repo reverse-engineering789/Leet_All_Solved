@@ -81,6 +81,19 @@ Medium
 
 
 100. find four elements that sum to a given value
+18. 4Sum
+Medium
+8.8.k
+
+Two Sum
+Easy
+3Sum
+Medium
+4Sum II
+Medium
+
+
+
 101. maximum sum such that no 2 elements are adjacent
 102. Count triplet with sum smaller than a given value
 103. merge 2 sorted arrays
@@ -136,3 +149,7 @@ Hard
 123. Findthe inversion count
 124. Implement Merge-sort in-place
 125. Partitioning and Sorting Arrays with Many Repeated Entries
+
+
+
+
