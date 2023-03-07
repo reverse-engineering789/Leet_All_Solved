@@ -1,0 +1,138 @@
+90.	Find first and last positions of an element in a sorted array
+34. Find First and Last Position of Element in Sorted Array
+Medium
+16.1K
+
+
+
+91.	Find a Fixed Point (Value equal to index) in a given array
+2057. Smallest Index With Equal Value
+Easy
+
+
+
+92.	Search in a rotated sorted array
+33. Search in Rotated Sorted Array
+Medium
+20.2K
+
+
+93.	square root of an integer
+69. Sqrt(x)
+Easy
+6K
+
+
+
+94.	Maximum and minimum of an array using minimum number of comparisons
+no similar question found
+related:
+2091. Removing Minimum and Maximum From Array
+Medium
+
+
+
+
+
+
+95.	Optimum location of point to minimize total distance
+no similar question found
+related: 
+1515. Best Position for a Service Centre
+Hard
+
+
+96.	Find the repeating and the missing
+268. Missing Number
+Easy
+8.9K
+287. Find the Duplicate Number
+Medium
+18.4K
+
+
+
+97.	find majority element
+169. Majority Element
+Easy
+13.9K
+
+
+
+
+98.	Searching in an array where adjacent differ by at most k
+no similar question found
+related: 
+164. Maximum Gap
+Hard
+2.7K
+532. K-diff Pairs in an Array
+Medium
+3.2K
+
+
+
+
+99.	find a pair with a given difference
+532. K-diff Pairs in an Array
+Medium
+3.2K
+
+
+
+100. find four elements that sum to a given value
+101. maximum sum such that no 2 elements are adjacent
+102. Count triplet with sum smaller than a given value
+103. merge 2 sorted arrays
+104. print all subarrays with 0 sum
+105. Product array Puzzle
+106. Sort array according to count of set bits
+
+
+
+107. minimum no. of swaps required to sort the array
+no similar question found 
+no related question found
+
+
+
+108. Bishu and Soldiers
+HackerEarth
+Bishu and Soldiers | Practice Problems - HackerEarth
+similar questions not searched yet 
+
+
+109. Rasta and Kheshtak
+HackerEarth:
+Rasta and Kheshtak | Practice Problems - HackerEarth
+similar questions not searched yet 
+
+
+
+110. Kth smallest number again
+no similar question found
+related: 
+378. Kth Smallest Element in a Sorted Matrix
+Medium
+8.8K
+668. Kth Smallest Number in Multiplication Table
+Hard
+1.9K
+
+
+
+111. Find pivot element in a sorted array
+112. K-th Element of Two Sorted Arrays
+113. Aggressive cows
+114. Book Allocation Problem
+115. EKOSPOJ:
+116. Job Scheduling Algo
+117. Missing Number in AP
+118. Smallest number with atleastn trailing zeroes infactorial
+119. Painters Partition Problem:
+120. ROTI-Prata SPOJ
+121. DoubleHelix SPOJ
+122. Subset Sums
+123. Findthe inversion count
+124. Implement Merge-sort in-place
+125. Partitioning and Sorting Arrays with Many Repeated Entries

@@ -260,7 +260,7 @@ Hard
 
 
 
-82.	Given a sequence of words, print all anagrams together - 
+82.	Given a sequence of words, print all anagrams together - Morgan StanleyAmazonMicrosoftSnapdealD-E-ShawGoldman Sachs
 above simiar to bellow 
 49. Group Anagrams
 Medium
@@ -273,13 +273,63 @@ Medium
 
 
 
-83.	Find the smallest window in a string containing all characters of another string
-84.	Recursively remove all adjacent duplicates
-85.	String matching where one string contains wildcard characters
-86.	Function to find Number of customers who could not get a computer
-87.	Transform One String to Another using Minimum Number of Given Operation
-88.	Check if two given strings are isomorphic to each other
-89.	Recursively print all sentences that can be formed from list of word lists
+83.	Find the smallest window in a string containing all characters of another string - FlipkartAmazonMicrosoftMakeMyTripGoogleStreamoid TechnologiesMedia.netAtlassian
+above simiar to bellow 
+76. Minimum Window Substring
+Hard
+14.4K
+
+
+
+
+84.	Recursively remove all adjacent duplicates - no tags yet 
+above similar to bellow 
+1047. Remove All Adjacent Duplicates In String
+Easy
+5.5K
+
+
+
+
+85.	String matching where one string contains wildcard characters - AmazonOla Cabs
+above similar to bellow 
+44. Wildcard Matching
+Hard
+6.5K
+
+
+
+
+
+86.	Function to find Number of customers who could not get a computer - no tags found
+no similar quesiton found 
+
+
+
+
+87.	Transform One String to Another using Minimum Number of Given Operation -  no tags found 
+no similar quesiton found 
+related varients:
+2027. Minimum Moves to Convert String
+Easy
+360
+
+
+
+
+88.	Check if two given strings are isomorphic to each other - Google
+205. Isomorphic Strings
+Easy
+6.2K
+
+
+
+89.	Recursively print all sentences that can be formed from list of word lists - no tags found 
+no similar quesiton found 
+realated variants:
+1160. Find Words That Can Be Formed by Characters
+Easy
+1.3K
 
 
 
