@@ -94,13 +94,47 @@ Medium
 
 
 
-101. maximum sum such that no 2 elements are adjacent
-102. Count triplet with sum smaller than a given value
-103. merge 2 sorted arrays
-104. print all subarrays with 0 sum
-105. Product array Puzzle
-106. Sort array according to count of set bits
+101. Maximum sum such that no 2 elements are adjacent
+no related question found
 
+
+
+102. Count triplet with sum smaller than a given value
+no simialr quesiton found 
+realated
+1534. Count Good Triplets
+Easy
+611
+
+
+103. merge 2 sorted arrays
+88. Merge Sorted Array
+Easy
+9.6K
+
+
+104. print all subarrays with 0 sum
+560. Subarray Sum Equals K
+Medium
+17.4K
+
+
+
+105. Product array Puzzle
+no similar question found 
+no related quesiton found
+
+
+
+106. Sort array according to count of set bits
+no similar question found 
+related quesiton
+1356. Sort Integers by The Number of 1 Bits
+Easy
+1.5K
+338. Counting Bits
+Easy
+8.5K
 
 
 107. minimum no. of swaps required to sort the array
