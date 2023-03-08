@@ -132,7 +132,7 @@ intersection of three sorted arrays - leetocde Premium
 
 20. Rearrange the array in alternating positive and negative items with O(1) extra space - PaytmVMWareAmazonMicrosoftIntuit
 above similar to bellow
-2149. Rearrange Array Elements by Sign - Medium -
+#ER 2149. Rearrange Array Elements by Sign - Medium -
 
 
 
@@ -347,6 +347,12 @@ above similar to bellow
 
 //////////////////////////////////////////////////////////////////////////////////
 912. Sort an Array - V V V IMP
+
+
+875. Koko Eating Bananas
+Medium
+6.5K
+
 
 Jump Game II
 Medium
