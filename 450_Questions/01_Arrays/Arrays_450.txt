@@ -117,8 +117,8 @@ no simialr quesiton
 
 
 18. find all pairs on integer array whose sum is equal to given number - FlipkartAccoliteAmazonFactSetHikeMakeMyTripGoldman SachsAdobeSalesforce
-above similar to bellow
-1865. Finding Pairs With a Certain Sum
+no simialr quesiton 
+
 
 
 
@@ -151,7 +151,7 @@ no similar qns found
 
 23. find maximum product subarray - Morgan StanleyAmazonMicrosoftOYO RoomsD-E-ShawGoogle
 above similar to bellow
-152. Maximum Product Subarray
+#ER 152. Maximum Product Subarray
 
 
 
