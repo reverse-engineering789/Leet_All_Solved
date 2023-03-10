@@ -164,8 +164,8 @@ above similar to bellow
 
 25. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. - no tags found
 above similar to bellow
-169. Majority Element
-229. Majority Element II
+#ER 169. Majority Element
+#ER 229. Majority Element II
 
 
 
