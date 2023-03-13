@@ -232,13 +232,53 @@ Medium
 
 
 119. Painters Partition Problem:
-120. ROTI-Prata SPOJ
-121. DoubleHelix SPOJ
-122. Subset Sums
-123. Findthe inversion count
-124. Implement Merge-sort in-place
-125. Partitioning and Sorting Arrays with Many Repeated Entries
+No similar quesiton found
+related:
+1482. Minimum Number of Days to Make m Bouquets
+Medium
+2.5K
 
+
+
+120. ROTI-Prata SPOJ
+410. Split Array Largest Sum
+Hard
+7.8K
+
+
+
+
+121. DoubleHelix SPOJ
+no similar questions found 
+no related questions found 
+
+
+
+122. Subset Sums
+no similar questions found 
+no related questions found 
+
+
+
+
+123. Findthe inversion count
+no similar questions found 
+no related questions found 
+
+
+
+
+124. Implement Merge-sort in-place
+88. Merge Sorted Array(SOLVE WITHYOUT EXTRA SPACE)
+Easy
+9.6K
+
+
+
+125. Partitioning and Sorting Arrays with Many Repeated Entries
+MAY BE: similar quesiton 
+912. Sort an Array
+Medium
 
 
 
