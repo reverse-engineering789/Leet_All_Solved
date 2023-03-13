@@ -353,6 +353,10 @@ above similar to bellow
 Medium
 6.5K
 
+153. Find Minimum in Rotated Sorted Array
+Medium
+10K
+
 
 Jump Game II
 Medium
