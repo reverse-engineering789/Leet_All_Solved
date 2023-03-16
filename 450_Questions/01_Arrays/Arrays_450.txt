@@ -267,22 +267,22 @@ Hard
 
 36. Median of 2 sorted arrays of different size
 above similar to bellow
-4. Median of Two Sorted Arrays
+#NER 4. Median of Two Sorted Arrays
 Hard
 
 
 
-37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
+#ER: 37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
 above similar to bellow
 54. Spiral Matrix
 Medium
 
-
+--------
 
 38.	Search an element in a matriix
 Leetcode:
-74. Search a 2D Matrix
-240. Search a 2D Matrix II
+#ER 74. Search a 2D Matrix
+#NER 240. Search a 2D Matrix II
 
 
 
@@ -312,7 +312,7 @@ above similar to bellow
 43.	Find a specific pair in matrix - no tags found
 no similar question found 
 
-
+///////////////////////////
 
 44.	Rotate matrix by 90 degrees -  no tags found
 above similar to bellow
