@@ -335,6 +335,12 @@ Easy
 
 ////////////////////////////////////////////////////////////////////
 
+211. Design Add and Search Words Data Structure
+Medium
+6.3K   
+
+
+
 // varients of valid palindrom problem:
 139. Word Break
 Medium
@@ -367,3 +373,8 @@ Arrays:
 
 47. Permutations II
 Medium
+
+
+424. Longest Repeating Character Replacement
+Medium
+7.6K

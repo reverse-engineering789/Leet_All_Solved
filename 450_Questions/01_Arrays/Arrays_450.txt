@@ -249,8 +249,8 @@ Medium
 33. Minimum swaps required bring elements less equal K together
 no similar quesiton found
 related:
-801. Minimum Swaps To Make Sequences Increasing - Hard -
-1703. Minimum Adjacent Swaps for K Consecutive Ones - Hard -
+LATER 801. Minimum Swaps To Make Sequences Increasing - Hard -
+LATER 1703. Minimum Adjacent Swaps for K Consecutive Ones - Hard -
 
 
 
@@ -260,7 +260,7 @@ no similar quesiton found
 
 35. Median of 2 sorted arrays of equal size
 above similar to bellow
-4. Median of Two Sorted Arrays
+#NER 4. Median of Two Sorted Arrays
 Hard
 
 
@@ -346,14 +346,14 @@ above similar to bellow
 
 
 //////////////////////////////////////////////////////////////////////////////////
-912. Sort an Array - V V V IMP
+#LEARN ALL SORTING ALGORITHMS 912. Sort an Array - V V V IMP
 
 
-875. Koko Eating Bananas
+#ER 875. Koko Eating Bananas
 Medium
 6.5K
 
-153. Find Minimum in Rotated Sorted Array
+#ER 153. Find Minimum in Rotated Sorted Array
 Medium
 10K
 
@@ -371,10 +371,19 @@ Medium
 
 
 
-Jump Game II
+45. Jump Game II
 Medium
-Jump Game
+11.9K
+
+
+55. Jump Game
 Medium
+15.7K
+
+
+
+
+
 Jump Game III
 Medium
 Jump Game IV
@@ -392,16 +401,16 @@ Medium
 
 
 
-209. Minimum Size Subarray Sum
+#ER 209. Minimum Size Subarray Sum
 Medium
 
 
 
-240. Search a 2D Matrix II
+#ER 240. Search a 2D Matrix II
 Medium
 
 
-496. Next Greater Element I
+#LATER 496. Next Greater Element I
 Easy
 503. Next Greater Element II
 Medium
@@ -409,9 +418,24 @@ Medium
 Medium
 
 
-1539. Kth Missing Positive Number
+#DR 1539. Kth Missing Positive Number
 Easy 
 4.5k 
+
+
+
+605. Can Place Flowers
+Easy
+3.9K
+
+
+
+
+
+
+
+
+
 
 Application for the Front End Developer profile: 
 Good after noon Komal Ma'am. I have experience of 3 years in Front end. I have built different Projects. I have experience of using:React HTML CSS Tailwind JS in actual projects. please give chance to contribute in Capgemini. Please consider request
