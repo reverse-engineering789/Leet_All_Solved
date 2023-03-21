@@ -1,4 +1,4 @@
-47.	Reverse a String
+#ER 47.	Reverse a String
 Leetcode:
 344. Reverse String
 
@@ -18,13 +18,13 @@ Medium
 
 
 
-51.	Write a Code to check whether one string is a rotation of another - no tags found 
+#ER 51.	Write a Code to check whether one string is a rotation of another - no tags found 
 above similar to bellow 
 796. Rotate String
 Easy
 
 
-52.	Write a Program to check whether a string is a valid shuffle of two strings or not - programiz.com
+#ER 52.	Write a Program to check whether a string is a valid shuffle of two strings or not - programiz.com
 question not found 
 varients:
 1528. Shuffle String
@@ -358,7 +358,7 @@ Valid Palindrome IV
 Medium
 
 
-
+perform string shifts - Leetocde Premium
 
 
 

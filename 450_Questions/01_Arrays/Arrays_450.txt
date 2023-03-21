@@ -277,7 +277,6 @@ above similar to bellow
 54. Spiral Matrix
 Medium
 
---------
 
 38.	Search an element in a matriix
 Leetcode:
@@ -312,7 +311,7 @@ above similar to bellow
 43.	Find a specific pair in matrix - no tags found
 no similar question found 
 
-///////////////////////////
+
 
 44.	Rotate matrix by 90 degrees -  no tags found
 above similar to bellow
@@ -331,21 +330,16 @@ above similar to bellow
 Find Smallest Common Element in All Rows - LeetCode Premium
 
 
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-above similar to bellow
-
-
-// -----------------------------------------------------
 
 
 
 
 
 //////////////////////////////////////////////////////////////////////////////////
+
+
+
+
 #LEARN ALL SORTING ALGORITHMS 912. Sort an Array - V V V IMP
 
 
@@ -359,24 +353,24 @@ Medium
 
 
 
-78. Subsets
+#ER 78. Subsets
 Medium
 13.8K
 
 
 
-129. Sum Root to Leaf Numbers
+#ER 129. Sum Root to Leaf Numbers
 Medium
 6.1K
 
 
 
-45. Jump Game II
+#ENR 45. Jump Game II
 Medium
 11.9K
 
 
-55. Jump Game
+#ER 55. Jump Game
 Medium
 15.7K
 
@@ -424,16 +418,29 @@ Easy
 
 
 
-605. Can Place Flowers
+#ER 605. Can Place Flowers
 Easy
 3.9K
 
 
 
+//////    //////    //////    //////    //////    //////    //////    ////// 
 
 
 
+735. Asteroid Collision
+Medium
+4.8K
 
+
+
+/   /    /    /   /    /    /   /    /    /   /    /    /   /    /    /   /    /    /     
+
+
+
+2348. Number of Zero-Filled Subarrays - Facebook 
+Medium
+944
 
 
 
