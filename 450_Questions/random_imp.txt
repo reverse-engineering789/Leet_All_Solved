@@ -13,7 +13,9 @@ Easy
 Easy
 8.6K
 
-
+64. Minimum Path Sum
+Medium
+10.1K
 
 136. Single Number
 Easy
@@ -41,7 +43,10 @@ Medium
 32.8K
 
 
-
+Leet D C 
+#LATER 983. Minimum Cost For Tickets
+Medium
+6K
 
 713. Subarray Product Less Than K
 Medium
@@ -87,3 +92,9 @@ Easy
 Easy
 566
 
+
+
+Leetcode D C 
+2492. Minimum Score of a Path Between Two Cities
+Medium
+1.4K

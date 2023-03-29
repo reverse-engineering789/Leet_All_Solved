@@ -1,14 +1,28 @@
+
+#NDR - New Consept + difficult + revise 
+#NER - New Consept + Easy revise
+#DR - difficult + revise 
+#ER - Easy revise
+C - Completed 
+# - Tried but, Not solved yet, need to solve
+#LATER - Solve and UNDERSTAND later 
+
+
+
+
+
+
 #ER 47.	Reverse a String
 Leetcode:
 344. Reverse String
 
 
-48.	Check whether a String is Palindrome or not - PaytmZohoMorgan StanleyAmazonD-E-ShawFactSetCiscoFacebook
+#ER 48.	Check whether a String is Palindrome or not - PaytmZohoMorgan StanleyAmazonD-E-ShawFactSetCiscoFacebook
 above similar to bellow 
 125. Valid Palindrome
 
  
- 49. Find Duplicate characters in a string - no tags found
+#ER 49. Find Duplicate characters in a string - no tags found
 above similar to bellow 
 316. Remove Duplicate Letters
 Medium
@@ -34,7 +48,7 @@ Easy
 
 53.	Count and Say problem 
 leetocde:
-38. Count and Say
+#ER 38. Count and Say
 Medium
 
 
@@ -95,17 +109,30 @@ Medium
 
 62.	Balanced Parenthesis problem.[Imp] - FlipkartAmazonMicrosoftOYO RoomsSnapdealOracleWalmartAdobeGoogleYatra.com
 above similar to bellow
-20. Valid Parentheses
+
+#ER 20. Valid Parentheses
 Easy
-678. Valid Parenthesis String
+
+
+#ER 678. Valid Parenthesis String
 Medium
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
 63.	Word break Problem[ Very Imp] - hoFlipkartAmazonMicrosoftHikeWalmartMAQ SoftwareGoogleIBM
 above similar to bellow 
-139. Word Break
+
+#NDR 139. Word Break
 Medium
+
+#NDR + #LATER 140. Word Break II
+Hard
+5.9K
 
 
 
@@ -129,16 +156,23 @@ Medium
 
 67.	Minimum number of bracket reversals needed to make an expression balanced. - Amazon
 above simialr to bellow 
-20. Valid Parentheses
+
+
+#ER 20. Valid Parentheses
 Easy
 18.3K
+
+
 related varients:
-921. Minimum Add to Make Parentheses Valid
+#ER 921. Minimum Add to Make Parentheses Valid
 Medium
 3.3K
-1963. Minimum Number of Swaps to Make the String Balanced
+
+
+#ER 1963. Minimum Number of Swaps to Make the String Balanced
 Medium
-1249. Minimum Remove to Make Valid Parentheses
+
+#ER 1249. Minimum Remove to Make Valid Parentheses
 Medium
 5.6K
 
@@ -153,6 +187,12 @@ varients
 2484. Count Palindromic Subsequences
 Hard
 272 likes
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
@@ -326,6 +366,7 @@ Easy
 
 89.	Recursively print all sentences that can be formed from list of word lists - no tags found 
 no similar quesiton found 
+
 realated variants:
 1160. Find Words That Can Be Formed by Characters
 Easy
