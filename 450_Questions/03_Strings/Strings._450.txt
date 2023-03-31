@@ -349,8 +349,10 @@ no similar quesiton found
 
 87.	Transform One String to Another using Minimum Number of Given Operation -  no tags found 
 no similar quesiton found 
+
 related varients:
-2027. Minimum Moves to Convert String
+
+#LATER 2027. Minimum Moves to Convert String
 Easy
 360
 

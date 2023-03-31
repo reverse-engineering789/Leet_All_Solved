@@ -98,3 +98,9 @@ Leetcode D C
 2492. Minimum Score of a Path Between Two Cities
 Medium
 1.4K
+
+
+Leetcode D C 
+1444. Number of Ways of Cutting a Pizza
+Hard
+1.3K
