@@ -95,6 +95,10 @@ Easy
 8.5K
 
 
+Leetcode D C 
+#DR 1402. Reducing Dishes
+Hard
+2.8K
 
 2404. Most Frequent Even Element
 Easy
@@ -118,3 +122,5 @@ Leetcode D C
 2300. Successful Pairs of Spells and Potions
 Medium
 1.4K
+
+
