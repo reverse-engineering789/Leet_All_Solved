@@ -13,6 +13,14 @@ Easy
 Easy
 8.6K
 
+
+Leet D C
+704. Binary Search
+Easy
+8.6K
+
+
+
 64. Minimum Path Sum
 Medium
 10.1K
@@ -104,3 +112,9 @@ Leetcode D C
 1444. Number of Ways of Cutting a Pizza
 Hard
 1.3K
+
+
+Leetcode D C 
+2300. Successful Pairs of Spells and Potions
+Medium
+1.4K
