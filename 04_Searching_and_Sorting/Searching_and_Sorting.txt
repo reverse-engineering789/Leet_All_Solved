@@ -7,8 +7,17 @@ Searching and Sorting: Medium
 34. Find First and Last Position of Element in Sorted Array - Amazon
 * Searching and Sorting - Leetcode Premium - Amazon FactSet Hike Flipkart 
 * Find a fixed point(Value equal to index) in a given array.
-33. Search in Rotated Sorted Array - Adobe Amazon BankBazaar D-E-Shaw FactSet Flipkart Hike Intuit MakeMyTripMicrosoftPaytmSnapdealTimes InternetGoogle
-69. Sqrt(x)
+
+#ER 33. Search in Rotated Sorted Array - Adobe Amazon BankBazaar D-E-Shaw FactSet Flipkart Hike Intuit MakeMyTripMicrosoftPaytmSnapdealTimes InternetGoogle
+
+
+81. Search in Rotated Sorted Array II
+Medium
+5.9K
+
+
+#ER 69. Sqrt(x)
+
 * maximum and minimum of an array using minimum number of comparisons -gfg -
 bellow questionis is similar to above question
 1991. find the middle index in array

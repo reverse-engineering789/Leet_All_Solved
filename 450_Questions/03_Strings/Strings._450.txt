@@ -336,7 +336,7 @@ Medium
 
 85.	String matching where one string contains wildcard characters - AmazonOla Cabs
 above similar to bellow 
-44. Wildcard Matching
+#LATER 44. Wildcard Matching
 Hard
 6.5K
 
@@ -362,7 +362,7 @@ Easy
 
 
 
-88.	Check if two given strings are isomorphic to each other - Google
+#ER 88.	Check if two given strings are isomorphic to each other - Google
 205. Isomorphic Strings
 Easy
 6.2K
@@ -373,7 +373,7 @@ Easy
 no similar quesiton found 
 
 realated variants:
-1160. Find Words That Can Be Formed by Characters
+#ER 1160. Find Words That Can Be Formed by Characters
 Easy
 1.3K
 

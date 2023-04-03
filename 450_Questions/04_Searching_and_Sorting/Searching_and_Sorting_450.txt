@@ -5,7 +5,7 @@ Medium
 
 
 
-91.	Find a Fixed Point (Value equal to index) in a given array
+#ER 91.	Find a Fixed Point (Value equal to index) in a given array
 2057. Smallest Index With Equal Value
 Easy
 
@@ -22,6 +22,7 @@ Medium
 Easy
 6K
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 94.	Maximum and minimum of an array using minimum number of comparisons
