@@ -1,4 +1,4 @@
-90.	Find first and last positions of an element in a sorted array
+#ER 90.	Find first and last positions of an element in a sorted array
 34. Find First and Last Position of Element in Sorted Array
 Medium
 16.1K
@@ -11,13 +11,13 @@ Easy
 
 
 
-92.	Search in a rotated sorted array
+#ER 92.	Search in a rotated sorted array
 33. Search in Rotated Sorted Array
 Medium
 20.2K
 
 
-93.	square root of an integer
+#ER 93.	square root of an integer
 69. Sqrt(x)
 Easy
 6K
@@ -54,7 +54,7 @@ Medium
 
 
 97.	find majority element
-169. Majority Element
+#ER 169. Majority Element
 Easy
 13.9K
 
@@ -67,6 +67,11 @@ related:
 164. Maximum Gap
 Hard
 2.7K
+
+
+++++    ++++++++     +++++++++++++++++++++++++++++++++++++++++++++
+
+
 532. K-diff Pairs in an Array
 Medium
 3.2K
@@ -144,13 +149,13 @@ no related question found
 
 
 
-108. Bishu and Soldiers
+#LATER 108. Bishu and Soldiers
 HackerEarth
 Bishu and Soldiers | Practice Problems - HackerEarth
 similar questions not searched yet 
 
 
-109. Rasta and Kheshtak
+#LATER 109. Rasta and Kheshtak
 HackerEarth:
 Rasta and Kheshtak | Practice Problems - HackerEarth
 similar questions not searched yet 
@@ -203,7 +208,7 @@ Medium
 7.6K
 
 
-
+****************** difficult area *********************
 
 115. EKOSPOJ:
 no similar questions found 
