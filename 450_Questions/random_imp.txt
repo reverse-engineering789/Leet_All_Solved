@@ -124,6 +124,11 @@ Medium
 1.4K
 
 
+Leetcode D C 
+2405. Optimal Partition of String
+Medium
+935
+
 
 Leetcode D C 
 881. Boats to Save People
