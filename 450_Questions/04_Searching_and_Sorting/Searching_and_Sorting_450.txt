@@ -28,7 +28,7 @@ Easy
 94.	Maximum and minimum of an array using minimum number of comparisons
 no similar question found
 related:
-2091. Removing Minimum and Maximum From Array
+#LATER 2091. Removing Minimum and Maximum From Array
 Medium
 
 
@@ -64,7 +64,7 @@ Easy
 98.	Searching in an array where adjacent differ by at most k
 no similar question found
 related: 
-164. Maximum Gap
+#DR 164. Maximum Gap
 Hard
 2.7K
 
@@ -177,7 +177,7 @@ Hard
 111. Find pivot element in a sorted array
 no similar quesiton 
 almost same, related:
-724. Find Pivot Index
+#ER 724. Find Pivot Index
 Easy
 6.5K
 
@@ -203,7 +203,7 @@ Medium
 114. Book Allocation Problem
 no similar quesiton 
 almost same, related:
-1011. Capacity To Ship Packages Within D Days
+#ER 1011. Capacity To Ship Packages Within D Days
 Medium
 7.6K
 
