@@ -108,7 +108,7 @@ no related question found
 102. Count triplet with sum smaller than a given value
 no simialr quesiton found 
 realated
-1534. Count Good Triplets
+#ER 1534. Count Good Triplets 
 Easy
 611
 

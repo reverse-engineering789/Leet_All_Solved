@@ -88,6 +88,10 @@ Hard
 Medium
 3.2K
 
+Leetcode D C
+1254. Number of Closed Islands
+Medium
+3.2K
 
 
 242. Valid Anagram
@@ -100,10 +104,20 @@ Leetcode D C
 Hard
 2.8K
 
+
+1020. Number of Enclaves
+Medium
+2.6K
+
+
 2404. Most Frequent Even Element
 Easy
 566
 
+
+1254. Number of Closed Islands
+Medium
+3.2K
 
 
 Leetcode D C 
@@ -124,6 +138,15 @@ Medium
 1.4K
 
 
+
+
+Leetcode D C 
+2439. Minimize Maximum of Array
+Medium
+1.9K
+
+
+
 Leetcode D C 
 2405. Optimal Partition of String
 Medium
@@ -134,3 +157,6 @@ Leetcode D C
 881. Boats to Save People
 Medium
 4.5K
+
+
+
