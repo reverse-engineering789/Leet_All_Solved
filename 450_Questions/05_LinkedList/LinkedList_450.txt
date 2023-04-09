@@ -5,12 +5,55 @@ Easy
 
 
 
-	Reverse a Linked List in group of Given Size. [Very Imp]
-	Write a program to Detect loop in a linked list.
-	Write a program to Delete loop in a linked list.
-	Find the starting point of the loop. 
-	Remove Duplicates in a sorted Linked List.
-	Remove Duplicates in a Un-sorted Linked List.
+Reverse a Linked List in group of Given Size. [Very Imp]
+#NER 25. Reverse Nodes in k-Group
+Hard
+10.8K
+
+
+
+Write a program to Detect loop in a linked list.
+above almost similar to bellow 
+#ER 141. Linked List Cycle
+Easy
+11.9K
+
+#ER 142. Linked List Cycle II
+Medium
+11.4K
+
+Write a program to Delete loop in a linked list.
+above almost similar to bellow 
+#ER 141. Linked List Cycle
+Easy
+11.9K
+
+#ER 142. Linked List Cycle II
+Medium
+11.4K
+
+
+
+Find the starting point of the loop. 
+no similar question found
+may be similar:
+#ER 141. Linked List Cycle
+Easy
+11.9K
+
+#ER 142. Linked List Cycle II
+Medium
+11.4K
+
+
+************************************************************************
+
+Remove Duplicates in a sorted Linked List.
+83. Remove Duplicates from Sorted List
+Easy
+7.1K
+Remove Duplicates in a Un-sorted Linked List.
+Remove Duplicates in a Un-sorted Linked List- Leetocde Premium
 	Write a Program to Move the last element to Front in a Linked List.
 	Add “1” to a number represented as a Linked List.
 	Add two numbers represented by linked lists.

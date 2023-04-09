@@ -113,7 +113,7 @@ Easy
 611
 
 
-103. merge 2 sorted arrays
+#ER 103. merge 2 sorted arrays
 88. Merge Sorted Array
 Easy
 9.6K
@@ -168,7 +168,8 @@ related:
 378. Kth Smallest Element in a Sorted Matrix
 Medium
 8.8K
-668. Kth Smallest Number in Multiplication Table
+
+#NER 668. Kth Smallest Number in Multiplication Table
 Hard
 1.9K
 
@@ -192,7 +193,7 @@ no related questions found
 113. Aggressive cows
 no similar question
  related:
-1552. Magnetic Force Between Two Balls
+#ENR 1552. Magnetic Force Between Two Balls
 Medium
 1.7K
 
