@@ -119,7 +119,7 @@ Easy
 9.6K
 
 
-104. print all subarrays with 0 sum
+#ER 104. print all subarrays with 0 sum
 560. Subarray Sum Equals K
 Medium
 17.4K
@@ -135,10 +135,12 @@ no related quesiton found
 106. Sort array according to count of set bits
 no similar question found 
 related quesiton
-1356. Sort Integers by The Number of 1 Bits
+
+#ER 1356. Sort Integers by The Number of 1 Bits
 Easy
 1.5K
-338. Counting Bits
+
+#ER 338. Counting Bits
 Easy
 8.5K
 
@@ -165,7 +167,7 @@ similar questions not searched yet
 110. Kth smallest number again
 no similar question found
 related: 
-378. Kth Smallest Element in a Sorted Matrix
+#ER 378. Kth Smallest Element in a Sorted Matrix
 Medium
 8.8K
 
