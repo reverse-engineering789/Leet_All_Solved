@@ -46,22 +46,62 @@ Medium
 11.4K
 
 
-************************************************************************
+
 
 Remove Duplicates in a sorted Linked List.
-83. Remove Duplicates from Sorted List
+#ER 83. Remove Duplicates from Sorted List
 Easy
 7.1K
+
+
+
 Remove Duplicates in a Un-sorted Linked List.
 Remove Duplicates in a Un-sorted Linked List- Leetocde Premium
-	Write a Program to Move the last element to Front in a Linked List.
-	Add “1” to a number represented as a Linked List.
-	Add two numbers represented by linked lists.
-	Intersection of two Sorted Linked List.
+
+
+
+Write a Program to Move the last element to Front in a Linked List.
+no similar quesiton found
+related:
+
+#ER 143. Reorder List
+Medium
+8.5K
+
+#ER 19. Remove Nth Node From End of List
+Medium
+15.3K
+
+
+Add “1” to a number represented as a Linked List.
+no similar quesiton found
+
+
+#ER Add two numbers represented by linked lists.
+2. Add Two Numbers
+Medium
+25.3K
+
+
+
+Intersection of two Sorted Linked List.
+no similar quesiton found
+realated:
+#ER 160. Intersection of Two Linked Lists
+Easy
+12.7K
+
+
+
+
 	Intersection Point of two Linked Lists.
+
 	Merge Sort For Linked lists.[Very Important]
 	Quicksort for Linked Lists.[Very Important]
 	Find the middle Element of a linked list.
+
+
+
 	Check if a linked list is a circular linked list.
 	Split a Circular linked list into two halves.
 	Write a Program to check whether the Singly Linked list is a palindrome or not.
