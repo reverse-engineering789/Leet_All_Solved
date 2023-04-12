@@ -47,7 +47,8 @@ Hard
 268. Missing Number
 Easy
 8.9K
-287. Find the Duplicate Number
+
+#ER 287. Find the Duplicate Number
 Medium
 18.4K
 
@@ -86,7 +87,7 @@ Medium
 
 
 
-100. find four elements that sum to a given value
+#NER 100. find four elements that sum to a given value
 18. 4Sum
 Medium
 8.8.k

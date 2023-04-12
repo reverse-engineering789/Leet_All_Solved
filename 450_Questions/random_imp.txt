@@ -147,6 +147,12 @@ Medium
 1.4K
 
 Leetcode D C 
+2390. Removing Stars From a String
+Medium
+1.4K
+
+
+Leetcode D C 
 1857. Largest Color Value in a Directed Graph
 Hard
 1K

@@ -86,31 +86,114 @@ Medium
 
 Intersection of two Sorted Linked List.
 no similar quesiton found
+
 realated:
 #ER 160. Intersection of Two Linked Lists
 Easy
 12.7K
 
 
-
-
-	Intersection Point of two Linked Lists.
-
-	Merge Sort For Linked lists.[Very Important]
-	Quicksort for Linked Lists.[Very Important]
-	Find the middle Element of a linked list.
+Intersection Point of two Linked Lists.
+#ER 160. Intersection of Two Linked Lists
+Easy
+12.7K
 
 
 
-	Check if a linked list is a circular linked list.
-	Split a Circular linked list into two halves.
-	Write a Program to check whether the Singly Linked list is a palindrome or not.
-	Deletion from a Circular Linked List.
+Merge Sort For Linked lists.[Very Important]
+148. Sort List
+Medium
+9.5K
+
+
+
+Quicksort for Linked Lists.[Very Important]
+148. Sort List
+Medium
+9.5K
+
+
+
+
+Find the middle Element of a linked list.
+876. Middle of the Linked List
+Easy
+9.2K
+
+
+Check if a linked list is a circular linked list.
+
+
+
+
+Split a Circular linked list into two halves.
+no similar question found
+
+related: 
+725. Split Linked List in Parts
+Medium
+2.4K
+
+
+
+
+
+Write a Program to check whether the Singly Linked list is a palindrome or not.
+234. Palindrome Linked List
+Easy
+13.6K
+
+
+
+
+
+Deletion from a Circular Linked List.
+no similar question found 
+
+related:
+237. Delete Node in a Linked List
+Medium
+2.7K
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Linked List Related Questions: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+237. Delete Node in a Linked List
+Medium
+2.7K
+
+
+203. Remove Linked List Elements
+Easy
+7K
+
+
+2095. Delete the Middle Node of a Linked List
+Medium
+2.9K
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
 	Reverse a Doubly Linked list.
 	Find pairs with a given sum in a DLL.
 	Count triplets in a sorted DLL whose sum is equal to given value “X”.
 	Sort a “k”sorted Doubly Linked list.[Very IMP]
 	Rotate DoublyLinked list by N nodes.
+
+
+
+
+
+
+
+
+
+
 	Rotate a Doubly Linked list in group of Given Size.[Very IMP]
 	Can we reverse a linked list in less than O(n) ?
 	Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
