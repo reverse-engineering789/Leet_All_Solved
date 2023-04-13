@@ -18,9 +18,13 @@ above almost similar to bellow
 Easy
 11.9K
 
+
+
 #ER 142. Linked List Cycle II
 Medium
 11.4K
+
+
 
 Write a program to Delete loop in a linked list.
 above almost similar to bellow 
@@ -28,9 +32,14 @@ above almost similar to bellow
 Easy
 11.9K
 
+
+
+
 #ER 142. Linked List Cycle II
 Medium
 11.4K
+
+
 
 
 
@@ -40,7 +49,6 @@ may be similar:
 #ER 141. Linked List Cycle
 Easy
 11.9K
-
 #ER 142. Linked List Cycle II
 Medium
 11.4K
@@ -60,6 +68,8 @@ Remove Duplicates in a Un-sorted Linked List- Leetocde Premium
 
 
 
+
+
 Write a Program to Move the last element to Front in a Linked List.
 no similar quesiton found
 related:
@@ -67,20 +77,28 @@ related:
 #ER 143. Reorder List
 Medium
 8.5K
-
 #ER 19. Remove Nth Node From End of List
 Medium
 15.3K
+
+
+
 
 
 Add “1” to a number represented as a Linked List.
 no similar quesiton found
 
 
+
+
+
 #ER Add two numbers represented by linked lists.
 2. Add Two Numbers
 Medium
 25.3K
+
+
+
 
 
 
@@ -93,6 +111,9 @@ Easy
 12.7K
 
 
+
+
+
 Intersection Point of two Linked Lists.
 #ER 160. Intersection of Two Linked Lists
 Easy
@@ -100,10 +121,15 @@ Easy
 
 
 
+
+
+
 Merge Sort For Linked lists.[Very Important]
 148. Sort List
 Medium
 9.5K
+
+
 
 
 
@@ -121,8 +147,13 @@ Easy
 9.2K
 
 
-Check if a linked list is a circular linked list.
 
+
+
+Check if a linked list is a circular linked list.
+141. Linked List Cycle
+Easy
+11.9K
 
 
 

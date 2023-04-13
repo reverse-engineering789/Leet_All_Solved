@@ -21,6 +21,11 @@ Easy
 
 
 
+242. Valid Anagram
+Easy
+8.5K
+
+
 64. Minimum Path Sum
 Medium
 10.1K
@@ -71,22 +76,42 @@ Medium
 
 
 
-2149. Rearrange Array Elements by Sign
-Medium
-1.3K
-
-
-
-
 721. Accounts Merge
 Medium
 5.4K
+
+
+
+Leetcode D C
+946. Validate Stack Sequences
+Medium
+4.5K
+
+
 
 
 947. Most Stones Removed with Same Row or Column
 Medium
 4.5K
 
+
+
+Leetcode D C 
+881. Boats to Save People
+Medium
+4.5K
+
+
+
+1254. Number of Closed Islands
+Medium
+3.2K
+
+
+Leetcode D C
+71. Simplify Path
+Medium
+3.8K
 
 
 827. Making A Large Island
@@ -103,11 +128,6 @@ Medium
 3.2K
 
 
-242. Valid Anagram
-Easy
-8.5K
-
-
 Leetcode D C 
 #DR 1402. Reducing Dishes
 Hard
@@ -119,15 +139,6 @@ Medium
 2.6K
 
 
-2404. Most Frequent Even Element
-Easy
-566
-
-
-1254. Number of Closed Islands
-Medium
-3.2K
-
 
 Leetcode D C 
 2492. Minimum Score of a Path Between Two Cities
@@ -138,6 +149,12 @@ Medium
 Leetcode D C 
 1444. Number of Ways of Cutting a Pizza
 Hard
+1.3K
+
+
+
+2149. Rearrange Array Elements by Sign
+Medium
 1.3K
 
 
@@ -171,10 +188,13 @@ Medium
 935
 
 
-Leetcode D C 
-881. Boats to Save People
-Medium
-4.5K
+
+2404. Most Frequent Even Element
+Easy
+566
+
+
+
 
 
 
