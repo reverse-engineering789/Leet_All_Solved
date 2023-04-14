@@ -1,12 +1,16 @@
-190. Reverse Bits
-Easy
-4.2K
 
 
-191. Number of 1 Bits
+136. Single Number
 Easy
-5.1K
-1.1K
+13.3K
+
+
+
+
+64. Minimum Path Sum
+Medium
+10.1K
+
 
 
 338. Counting Bits
@@ -26,13 +30,12 @@ Easy
 8.5K
 
 
-64. Minimum Path Sum
+LeetCode D C
+516. Longest Palindromic Subsequence
 Medium
-10.1K
+7.8K
 
-136. Single Number
-Easy
-13.3K
+
 
 
 LeetCode D C 
@@ -43,9 +46,6 @@ Medium
 
 
 
-137. Single Number II
-Medium
-5.4K
 
 
 1838. Frequency of the Most Frequent Element
@@ -76,6 +76,13 @@ Medium
 
 
 
+137. Single Number II
+Medium
+5.4K
+
+
+
+
 721. Accounts Merge
 Medium
 5.4K
@@ -86,6 +93,13 @@ Leetcode D C
 946. Validate Stack Sequences
 Medium
 4.5K
+
+
+
+
+190. Reverse Bits
+Easy
+4.2K
 
 
 
@@ -150,6 +164,13 @@ Leetcode D C
 1444. Number of Ways of Cutting a Pizza
 Hard
 1.3K
+
+
+
+191. Number of 1 Bits
+Easy
+5.1K
+1.1K
 
 
 

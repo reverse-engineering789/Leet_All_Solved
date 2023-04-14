@@ -381,6 +381,14 @@ Easy
 
 ////////////////////////////////////////////////////////////////////
 
+
+#ENR 516. Longest Palindromic Subsequence
+Medium
+7.8K
+
+
+
+
 211. Design Add and Search Words Data Structure
 Medium
 6.3K   
