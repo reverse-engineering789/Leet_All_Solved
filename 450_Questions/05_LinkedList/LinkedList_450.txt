@@ -315,11 +315,59 @@ Medium
 
 
 Merge K sorted Linked list
-Multiply 2 no. represented by LL
-Delete nodes which have a greater value on right side
-Segregate even and odd nodes in a Linked List
-Program for n’th node from the end of a Linked List
-Find the first non-repeating character from a stream of characters
+23. Merge k Sorted Lists
+Hard
+16.8K
 
+
+
+
+Multiply 2 no. represented by LL
+no simialr question found 
+
+
+LEAST related:
+2. Add Two Numbers
+Medium
+25.4K
+
+445. Add Two Numbers II
+Medium
+4.4K
+
+
+
+Delete nodes which have a greater value on right side
+1019. Next Greater Node In Linked List
+Medium
+2.8K
+
+
+
+Segregate even and odd nodes in a Linked List
+328. Odd Even Linked List
+Medium
+8.1K
+
+
+
+Program for n’th node from the end of a Linked List
+no simialr question found 
+
+
+LEAST related:
+19. Remove Nth Node From End of List
+Medium
+15.4K
+
+
+
+
+Find the first non-repeating character from a stream of characters
+https://leetcode.com/discuss/interview-question/125015/first-non-repeating-character-in-a-string#:~:text=Use%20hashtable%20that%20preserve%20the,your%20first%20non%2Drepeating%20character.
+https://leetcode.com/problems/first-unique-character-in-a-string/solutions/1205022/first-non-repeating-char-in-an-infinite-stream-of-character/
+
+
+no similar questions found 
 ////////////////////////////////////////////////////
 
