@@ -4,6 +4,10 @@ Easy
 17.3K
 
 
+92. Reverse Linked List II
+Medium
+8.9K
+
 
 Reverse a Linked List in group of Given Size. [Very Imp]
 #NER 25. Reverse Nodes in k-Group
@@ -151,7 +155,7 @@ Easy
 
 
 Check if a linked list is a circular linked list.
-141. Linked List Cycle
+#ER 141. Linked List Cycle
 Easy
 11.9K
 
@@ -182,7 +186,7 @@ Deletion from a Circular Linked List.
 no similar question found 
 
 related:
-141. Linked List Cycle
+#ER 141. Linked List Cycle
 Easy
 11.9K
 
@@ -215,33 +219,107 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
-	Reverse a Doubly Linked list.
-	Find pairs with a given sum in a DLL.
-	Count triplets in a sorted DLL whose sum is equal to given value “X”.
-	Sort a “k”sorted Doubly Linked list.[Very IMP]
-	Rotate DoublyLinked list by N nodes.
+Reverse a Doubly Linked list.
+no similar question found
+
+
+
+Find pairs with a given sum in a DLL.
+no similar question found
+
+
+
+Count triplets in a sorted DLL whose sum is equal to given value “X”.
+no similar question found
+
+
+
+Sort a “k”sorted Doubly Linked list.[Very IMP]
+no simialr question found 
+
+
+LEAST related:
+148. Sort List
+Medium
+9.6K
+
+
+
+
+Rotate DoublyLinked list by N nodes.
+no simialr question found 
+
+
+LEAST related:
+61. Rotate List
+Medium
+7.5K
+
+
+
+
+Rotate a Doubly Linked list in group of Given Size.[Very IMP]
+no simialr question found 
+
+
+
+LEAST related:
+#NER 25. Reverse Nodes in k-Group
+Hard
+10.9K
+
+
+
+Can we reverse a linked list in less than O(n) ?
+           A linked list cannot be reversed in less than O(n) time 
+because you have to traverse through at least n nodes, and at most 
+as well. So, you cannot.
 
 
 
 
 
+Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
+https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
 
 
 
 
 
-	Rotate a Doubly Linked list in group of Given Size.[Very IMP]
-	Can we reverse a linked list in less than O(n) ?
-	Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
-	Flatten a Linked List
-	Sort a LL of 0's, 1's and 2's
-	Clone a linked list with next and random pointer
-	Merge K sorted Linked list
-	Multiply 2 no. represented by LL
-	Delete nodes which have a greater value on right side
-	Segregate even and odd nodes in a Linked List
-	Program for n’th node from the end of a Linked List
-	Find the first non-repeating character from a stream of characters
+Flatten a Linked List
+430. Flatten a Multilevel Doubly Linked List
+Medium
+4.5K
+
+
+
+
+Sort a LL of 0's, 1's and 2's
+no simialr question found 
+
+
+LEAST related:
+148. Sort List
+Medium
+9.6K
+
+
+
+
+Clone a linked list with next and random pointer
+138. Copy List with Random Pointer
+Medium
+11K
+
+
+
+
+Merge K sorted Linked list
+Multiply 2 no. represented by LL
+Delete nodes which have a greater value on right side
+Segregate even and odd nodes in a Linked List
+Program for n’th node from the end of a Linked List
+Find the first non-repeating character from a stream of characters
 
 ////////////////////////////////////////////////////
 
