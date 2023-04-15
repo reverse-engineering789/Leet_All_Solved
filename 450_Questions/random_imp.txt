@@ -196,6 +196,20 @@ Hard
 1K
 
 
+420. Strong Password Checker
+Hard
+689
+1.5K
+
+
+
+Leetcode D C 
+2218. Maximum Value of K Coins From Piles
+Hard
+1.2K
+
+
+
 Leetcode D C 
 2439. Minimize Maximum of Array
 Medium
@@ -213,8 +227,6 @@ Medium
 2404. Most Frequent Even Element
 Easy
 566
-
-
 
 
 
