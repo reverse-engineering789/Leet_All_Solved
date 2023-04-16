@@ -18,7 +18,8 @@ Easy
 8.6K
 
 
-Leet D C
+
+LeetCode D C
 704. Binary Search
 Easy
 8.6K
@@ -30,10 +31,31 @@ Easy
 8.5K
 
 
+
+
+133. Clone Graph
+Medium
+8.1K
+
+
+
 LeetCode D C
 516. Longest Palindromic Subsequence
 Medium
 7.8K
+
+
+
+
+46. Permutations
+Medium
+15.3K
+
+
+
+47. Permutations II
+Medium
+7.4K    
 
 
 
@@ -65,7 +87,8 @@ Medium
 32.8K
 
 
-Leet D C 
+
+LeetCode D C
 #LATER 983. Minimum Cost For Tickets
 Medium
 6K
@@ -229,5 +252,8 @@ Easy
 566
 
 
-
+Leetcode D C 
+1639. Number of Ways to Form a Target String Given a Dictionary
+Hard
+653
 

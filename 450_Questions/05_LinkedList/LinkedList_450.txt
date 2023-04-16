@@ -307,7 +307,7 @@ Medium
 
 
 Clone a linked list with next and random pointer
-138. Copy List with Random Pointer
+#ER 138. Copy List with Random Pointer
 Medium
 11K
 
@@ -327,7 +327,7 @@ no simialr question found
 
 
 LEAST related:
-2. Add Two Numbers
+#ER 2. Add Two Numbers
 Medium
 25.4K
 
@@ -356,7 +356,7 @@ no simialr question found
 
 
 LEAST related:
-19. Remove Nth Node From End of List
+#ER 19. Remove Nth Node From End of List
 Medium
 15.4K
 
