@@ -151,6 +151,14 @@ Medium
 3.8K
 
 
+
+
+1431. Kids With the Greatest Number of Candies
+Easy
+3.1K
+Array
+
+
 827. Making A Large Island
 Hard
 3K
