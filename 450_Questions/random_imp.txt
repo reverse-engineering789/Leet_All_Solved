@@ -88,6 +88,14 @@ Medium
 
 
 
+1004. Max Consecutive Ones III
+Medium
+6.2K
+Array Binary Search Sliding Window Prefix Sum
+
+
+
+
 LeetCode D C
 #LATER 983. Minimum Cost For Tickets
 Medium
@@ -109,6 +117,11 @@ Medium
 721. Accounts Merge
 Medium
 5.4K
+
+
+
+Max Consecutive Ones II - LeetCode premium 
+
 
 
 
@@ -231,6 +244,14 @@ Hard
 Hard
 689
 1.5K
+
+
+
+Leetcode D C 
+1768. Merge Strings Alternately
+Easy
+1.3K
+
 
 
 

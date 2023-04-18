@@ -331,13 +331,13 @@ LEAST related:
 Medium
 25.4K
 
-445. Add Two Numbers II
+#ER 445. Add Two Numbers II
 Medium
 4.4K
 
 
 
-Delete nodes which have a greater value on right side
+#ER Delete nodes which have a greater value on right side
 1019. Next Greater Node In Linked List
 Medium
 2.8K
@@ -345,7 +345,7 @@ Medium
 
 
 Segregate even and odd nodes in a Linked List
-328. Odd Even Linked List
+#ER 328. Odd Even Linked List
 Medium
 8.1K
 
