@@ -32,23 +32,119 @@ Medium
 2.6K
 
 
+
+
+
 Find inorder successor and inorder predecessor in a BST
 Check if a tree is a BST or not 
 Populate Inorder successor of all nodes
+
+
+
 Find LCA  of 2 nodes in a BST
+no similar question found 
+Related:
+235. Lowest Common Ancestor of a Binary Search Tree
+Medium
+9.2K
+
+
+
+
 Construct BST from preorder traversal
 Convert Binary tree into BST
+no similar question found.
+
+related:
+1382. Balance a Binary Search Tree
+Medium
+2.6K
+
+
+
+
 Convert a normal BST into a Balanced BST
+1382. Balance a Binary Search Tree
+Medium
+2.6K
+
+
+
 Merge two BST [ V.V.V>IMP ]
+617. Merge Two Binary Trees
+Easy
+8K
+1932. Merge BSTs to Create Single BST
+Hard
+435
+Related:
+1305. All Elements in Two Binary Search Trees
+Medium
+2.8K
+
+
 Find Kth largest element in a BST
+no similar quesiton found 
+
+
+
+
 Find Kth smallest element in a BST
+230. Kth Smallest Element in a BST
+Medium
+9.6K
+
+
+
 Count pairs from 2 BST whose sum is equal to given value "X"
+no similar questions found 
+
+
+
+
 Find the median of BST in O(n) time and O(1) space
+no similar quesiton found 
+
+
+
+
 Count BST ndoes that lie in a given range
+938. Range Sum of BST
+Easy
+5.7K
+
+
+
+
 Replace every element with the least greater element on its right
 Given "n" appointments, find the conflicting appointments
+
+
+
+
+
 Check preorder is valid or not
+Verify Preorder Sequence in Binary Search Tree - Leetcode premium
+
+no simialar question found, BEACUSE: the bellow question is on binary tree, 
+and not about binary SEARCH tree.
+331. Verify Preorder Serialization of a Binary Tree
+Medium
+2.1K
+1008. Construct Binary Search Tree from Preorder Traversal
+Medium
+5.1K
+
+
+
+
+
+
 Check whether BST contains Dead end
+958. Check Completeness of a Binary Tree
+Medium
+3.8K
+
 
 
 
@@ -69,3 +165,27 @@ Flatten BST to sorted list
 114. Flatten Binary Tree to Linked List
 Medium
 10.3K
+
+
+---------------------------------------------------
+---------------------------------------------------
+IMP QNS FOUND 
+
+98. Validate Binary Search Tree
+Medium
+14.4K
+
+
+
+501. Find Mode in Binary Search Tree
+Easy
+2.8K
+
+
+
+834. Sum of Distances in Tree
+Hard
+4.5K
+
+---------------------------------------------------
+---------------------------------------------------
