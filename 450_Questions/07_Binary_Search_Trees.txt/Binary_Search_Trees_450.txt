@@ -1,3 +1,19 @@
+Notes:
+A valid BST is defined as follows:
+
+* The left subtree of a node contains only nodes 
+  with keys less than the node's key.
+
+* The right subtree of a node contains only 
+  nodes with keys greater than the node's key.
+
+
+* Both the left and right subtrees must also be 
+  binary search trees.
+
+
+
+
 
 Find a value in a BST
 700. Search in a Binary Search Tree
@@ -36,8 +52,31 @@ Medium
 
 
 Find inorder successor and inorder predecessor in a BST
+Inorder Successor in BST - Leetcode Premium
+
+no similar quesiton found for INORDER PREDECESSOR 
+
+
+
+
 Check if a tree is a BST or not 
+98. Validate Binary Search Tree
+Medium
+14.4K
+
+
+
+
 Populate Inorder successor of all nodes
+no similar question found 
+
+MAY BE Related:
+116. Populating Next Right Pointers in Each Node
+Medium
+8.5K
+
+
+
 
 
 
@@ -51,7 +90,17 @@ Medium
 
 
 
+
+
 Construct BST from preorder traversal
+1008. Construct Binary Search Tree from Preorder Traversal
+Medium
+5.1K
+
+
+
+
+
 Convert Binary tree into BST
 no similar question found.
 
@@ -63,10 +112,15 @@ Medium
 
 
 
+
+
 Convert a normal BST into a Balanced BST
 1382. Balance a Binary Search Tree
 Medium
 2.6K
+
+
+
 
 
 
@@ -83,8 +137,11 @@ Medium
 2.8K
 
 
+
+
 Find Kth largest element in a BST
 no similar quesiton found 
+
 
 
 
