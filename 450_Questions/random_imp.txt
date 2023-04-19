@@ -198,6 +198,12 @@ Medium
 
 
 
+Leetcode D C 
+1372. Longest ZigZag Path in a Binary Tree
+Medium
+2.2K
+
+
 
 2246. Longest Path With Different Adjacent Characters
 Hard
