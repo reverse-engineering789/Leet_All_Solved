@@ -125,20 +125,137 @@ Boundary traversal of a Binary tree - LeetCode Premium
 
 
 Construct Binary Tree from String with Bracket Representation
-Convert Binary tree into Doubly Linked List
+606. Construct String from Binary Tree
+Easy
+2.6K
+
+
+
+
+Convert Binary tree into Doubly Linked List 
+Convert Binary Search Tree to Sorted Doubly Linked List - LeetCode Premium
+Related:
+114. Flatten Binary Tree to Linked List
+Medium
+10.3K
+
+
+
+
 Convert Binary tree into Sum tree
+1038. Binary Search Tree to Greater Sum Tree
+Medium
+3.4K
+
+
+
+
 Construct Binary tree from Inorder and preorder traversal
+105. Construct Binary Tree from Preorder and Inorder Traversal
+Medium
+12.6K
+
+
+
+
 Find minimum swaps required to convert a Binary tree into BST
+99. Recover Binary Search Tree
+Medium
+6.9K
+
+
+
 Check if Binary tree is Sum tree or not
+no similar quesiton found 
+Related:
+1038. Binary Search Tree to Greater Sum Tree
+Medium
+3.4K
+
+
+
 Check if all leaf nodes are at same level or not
+no similar quesiton found
+
+
+
+
 Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
+652. Find Duplicate Subtrees
+Medium
+5.3K
+
+
+
+
+
 Check if 2 trees are mirror or not
+101. Symmetric Tree
+Easy
+13.3K
+
+Related:
+100. Same Tree
+Easy
+9.2K
+
+
+
+
 Sum of Nodes on the Longest path from root to leaf node 
+
+
+
+
 Check if given graph is tree or not.  [ IMP ]
+Graph Valid Tree - LeetCode Premium
+
+
+
+
+
 Find Largest subtree sum in a tree
+1373. Maximum Sum BST in Binary Tree
+Hard
+2K
+
+
+
 Maximum Sum of nodes in Binary tree such that no two are adjacent 
+
+
+
+
 Print all "K" Sum paths in a Binary tree
+112. Path Sum
+Easy
+8.2K
+
+
+113. Path Sum II
+Medium
+6.9K
+
+
+437. Path Sum III
+Medium
+9.5K
+
+
+
+Path Sum IV - Leetcode premium
+
+
+
+
+
 Find LCA in a Binary tree
+236. Lowest Common Ancestor of a Binary Tree
+Medium
+13.8K
+
+
+
 Find distance between 2 nodes in a Binary tree
 Kth Ancestor of node in a Binary tree
 Find all Duplicate subtrees in a Binary tree [ IMP ]
@@ -151,3 +268,27 @@ Tree Isomorphism Problem
 958. Check Completeness of a Binary Tree
 Medium
 3.1K
+
+
+872. Leaf-Similar Trees
+Easy
+3K
+
+
+
+508. Most Frequent Subtree Sum
+Medium
+2K
+
+
+
+
+1373. Maximum Sum BST in Binary Tree
+Hard
+2K
+
+
+
+687. Longest Univalue Path
+Medium
+3.8K
