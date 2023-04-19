@@ -174,14 +174,25 @@ Easy
 
 
 Replace every element with the least greater element on its right
-Given "n" appointments, find the conflicting appointments
+1299. Replace Elements with Greatest Element on Right Side
+Easy
+2K
 
+
+
+Given "n" appointments, find the conflicting appointments
+no similar question found 
 
 
 
 
 Check preorder is valid or not
 Verify Preorder Sequence in Binary Search Tree - Leetcode premium
+
+
+
+
+
 
 no simialar question found, BEACUSE: the bellow question is on binary tree, 
 and not about binary SEARCH tree.
