@@ -222,7 +222,7 @@ Hard
 
 
 Maximum Sum of nodes in Binary tree such that no two are adjacent 
-
+no similar question found 
 
 
 
@@ -257,13 +257,50 @@ Medium
 
 
 Find distance between 2 nodes in a Binary tree
+no simialar question found 
+
+Related:
+783. Minimum Distance Between BST Nodes
+Easy
+3.1K
+
+Find Distance in a Binary Tree - LeetCode Premium
+
+
+
+
+
 Kth Ancestor of node in a Binary tree
+1483. Kth Ancestor of a Tree Node
+Hard
+1.5K
+
+
+
+
 Find all Duplicate subtrees in a Binary tree [ IMP ]
+652. Find Duplicate Subtrees
+Medium
+5.3K
+
+
+
 Tree Isomorphism Problem
+951. Flip Equivalent Binary Trees
+Medium
+2K
 	
 
 
 //////////////////////////////////////////////////////////
+
+
+
+
+124. Binary Tree Maximum Path Sum
+Hard
+13.9K
+
 
 958. Check Completeness of a Binary Tree
 Medium
