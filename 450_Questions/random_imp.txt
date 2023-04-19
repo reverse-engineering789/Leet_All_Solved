@@ -198,6 +198,14 @@ Medium
 
 
 
+
+2246. Longest Path With Different Adjacent Characters
+Hard
+2.2K
+
+
+
+
 Leetcode D C 
 2492. Minimum Score of a Path Between Two Cities
 Medium

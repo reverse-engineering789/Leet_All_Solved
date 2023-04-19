@@ -1,3 +1,153 @@
+
+level order traversal
+102. Binary Tree Level Order Traversal
+Medium
+12.9K
+
+Related:
+107. Binary Tree Level Order Traversal II
+Medium
+4.2K
+
+637. Average of Levels in Binary Tree
+Easy
+4.6K
+
+
+
+Reverse Level Order traversal
+no similar quesiton found
+
+
+
+
+Height of a tree
+104. Maximum Depth of Binary Tree
+Easy
+10.5K
+
+
+
+
+Diameter of a tree
+543. Diameter of Binary Tree
+Easy
+11.1K
+
+
+
+Mirror of a tree
+226. Invert Binary Tree
+Easy
+12K
+
+
+realated:
+101. Symmetric Tree
+Easy
+13.3K
+
+
+
+Inorder Traversal of a tree both using recursion and Iteration
+94. Binary Tree Inorder Traversal
+Easy
+11.3K
+
+
+
+
+Preorder Traversal of a tree both using recursion and Iteration
+144. Binary Tree Preorder Traversal
+Easy
+6.7K
+
+
+
+
+Postorder Traversal of a tree both using recursion and Iteration
+145. Binary Tree Postorder Traversal
+Easy
+5.8K
+
+
+
+Left View of a tree
+no similar quesiton found 
+
+
+
+Right View of Tree
+199. Binary Tree Right Side View
+Medium
+9.8K
+
+
+
+Top View of a tree
+no similar quesiton found 
+
+
+
+Bottom View of a tree
+no similar quesiton found 
+
+
+
+
+Zig-Zag traversal of a binary tree
+103. Binary Tree Zigzag Level Order Traversal
+Medium
+9.1K
+
+
+
+
+Check if a tree is balanced or not
+110. Balanced Binary Tree
+Easy
+8.7K
+
+
+
+Diagnol Traversal of a Binary tree
+498. Diagonal Traverse
+Medium
+2.9K
+
+
+
+
+Boundary traversal of a Binary tree - LeetCode Premium
+
+
+
+
+
+Construct Binary Tree from String with Bracket Representation
+Convert Binary tree into Doubly Linked List
+Convert Binary tree into Sum tree
+Construct Binary tree from Inorder and preorder traversal
+Find minimum swaps required to convert a Binary tree into BST
+Check if Binary tree is Sum tree or not
+Check if all leaf nodes are at same level or not
+Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
+Check if 2 trees are mirror or not
+Sum of Nodes on the Longest path from root to leaf node 
+Check if given graph is tree or not.  [ IMP ]
+Find Largest subtree sum in a tree
+Maximum Sum of nodes in Binary tree such that no two are adjacent 
+Print all "K" Sum paths in a Binary tree
+Find LCA in a Binary tree
+Find distance between 2 nodes in a Binary tree
+Kth Ancestor of node in a Binary tree
+Find all Duplicate subtrees in a Binary tree [ IMP ]
+Tree Isomorphism Problem
+	
+
+
+//////////////////////////////////////////////////////////
+
 958. Check Completeness of a Binary Tree
 Medium
 3.1K
