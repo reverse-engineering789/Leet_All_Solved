@@ -129,7 +129,7 @@ Easy
 
 
 Merge Sort For Linked lists.[Very Important]
-148. Sort List
+#ER 148. Sort List
 Medium
 9.5K
 
@@ -138,7 +138,7 @@ Medium
 
 
 Quicksort for Linked Lists.[Very Important]
-148. Sort List
+#ER 148. Sort List
 Medium
 9.5K
 
@@ -174,7 +174,7 @@ Medium
 
 
 Write a Program to check whether the Singly Linked list is a palindrome or not.
-234. Palindrome Linked List
+#ER 234. Palindrome Linked List
 Easy
 13.6K
 
@@ -239,7 +239,7 @@ no simialr question found
 
 
 LEAST related:
-148. Sort List
+#ER 148. Sort List
 Medium
 9.6K
 
@@ -251,7 +251,7 @@ no simialr question found
 
 
 LEAST related:
-61. Rotate List
+#ER 61. Rotate List
 Medium
 7.5K
 
@@ -299,7 +299,7 @@ no simialr question found
 
 
 LEAST related:
-148. Sort List
+#ER 148. Sort List
 Medium
 9.6K
 

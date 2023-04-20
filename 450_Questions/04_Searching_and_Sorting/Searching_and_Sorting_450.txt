@@ -44,7 +44,7 @@ Hard
 
 
 96.	Find the repeating and the missing
-268. Missing Number
+#ER 268. Missing Number
 Easy
 8.9K
 
