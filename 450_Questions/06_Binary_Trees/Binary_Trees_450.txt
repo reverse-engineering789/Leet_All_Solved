@@ -105,7 +105,7 @@ Medium
 -------------------------------------------------------------------
 
 Check if a tree is balanced or not
-110. Balanced Binary Tree
+#ER 110. Balanced Binary Tree
 Easy
 8.7K     1
 
@@ -160,9 +160,9 @@ Medium
 // ----------------------------------------------------------------------
 
 Find minimum swaps required to convert a Binary tree into BST
-99. Recover Binary Search Tree
+#ER 99. Recover Binary Search Tree
 Medium
-6.9K
+6.9K     1
 
 
 
@@ -171,7 +171,7 @@ no similar quesiton found
 Related:
 1038. Binary Search Tree to Greater Sum Tree
 Medium
-3.4K
+3.4K    2
 
 
 
@@ -184,7 +184,7 @@ no similar quesiton found
 Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
 652. Find Duplicate Subtrees
 Medium
-5.3K
+5.3K    3
 
 
 
@@ -193,17 +193,22 @@ Medium
 Check if 2 trees are mirror or not
 101. Symmetric Tree
 Easy
-13.3K
+13.3K   4
 
 Related:
 100. Same Tree
 Easy
-9.2K
+9.2K   5
 
 
 
 
 Sum of Nodes on the Longest path from root to leaf node 
+124. Binary Tree Maximum Path Sum
+Hard
+14K   6
+
+// ___________________________________________________________________________________
 
 
 
@@ -218,7 +223,7 @@ Graph Valid Tree - LeetCode Premium
 Find Largest subtree sum in a tree
 1373. Maximum Sum BST in Binary Tree
 Hard
-2K
+2K     1
 
 
 
@@ -230,17 +235,17 @@ no similar question found
 Print all "K" Sum paths in a Binary tree
 112. Path Sum
 Easy
-8.2K
+8.2K     2
 
 
 113. Path Sum II
 Medium
-6.9K
+6.9K      3
 
 
 437. Path Sum III
 Medium
-9.5K
+9.5K     4
 
 
 
@@ -253,7 +258,7 @@ Path Sum IV - Leetcode premium
 Find LCA in a Binary tree
 236. Lowest Common Ancestor of a Binary Tree
 Medium
-13.8K
+13.8K     5
 
 
 
@@ -263,7 +268,7 @@ no simialar question found
 Related:
 783. Minimum Distance Between BST Nodes
 Easy
-3.1K
+3.1K     6
 
 Find Distance in a Binary Tree - LeetCode Premium
 
@@ -274,7 +279,7 @@ Find Distance in a Binary Tree - LeetCode Premium
 Kth Ancestor of node in a Binary tree
 1483. Kth Ancestor of a Tree Node
 Hard
-1.5K
+1.5K     
 
 
 
@@ -282,14 +287,14 @@ Hard
 Find all Duplicate subtrees in a Binary tree [ IMP ]
 652. Find Duplicate Subtrees
 Medium
-5.3K
+5.3K     
 
 
 
 Tree Isomorphism Problem
 951. Flip Equivalent Binary Trees
 Medium
-2K
+2K      
 	
 
 
@@ -304,10 +309,13 @@ Hard
 
 
 Leetcode D C 
-662. Maximum Width of Binary Tree
+#ER 662. Maximum Width of Binary Tree
 Medium
 6.9K
 
+721. Accounts Merge
+Medium
+5.5K
 
 
 

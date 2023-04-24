@@ -101,6 +101,20 @@ LeetCode D C
 Medium
 6K
 
+
+
+
+
+LeetCode D C
+1046. Last Stone Weight
+Easy
+5K
+Array Heap (Priority Queue)
+
+
+
+
+
 713. Subarray Product Less Than K
 Medium
 5.2K
@@ -163,6 +177,22 @@ Leetcode D C
 Medium
 3.8K
 
+
+
+
+Leetcode D C
+1312. Minimum Insertion Steps to Make a String Palindrome
+Hard
+3.7K
+strings
+
+
+
+
+687. Longest Univalue Path
+Medium
+3.8K
+Tree Depth-First Search Binary Tree
 
 
 
@@ -241,6 +271,14 @@ Leetcode D C
 2300. Successful Pairs of Spells and Potions
 Medium
 1.4K
+
+
+
+Leetcode D C 
+1416. Restore The Array
+Hard
+1.2K
+
 
 Leetcode D C 
 2390. Removing Stars From a String
