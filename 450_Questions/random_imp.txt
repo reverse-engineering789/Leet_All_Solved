@@ -255,6 +255,16 @@ Hard
 
 
 
+
+Leetcode D C 
+2336. Smallest Number in Infinite Set
+Medium
+1K
+
+
+
+
+
 191. Number of 1 Bits
 Easy
 5.1K

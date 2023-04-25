@@ -144,7 +144,7 @@ Medium
 
 
 Convert Binary tree into Sum tree
-1038. Binary Search Tree to Greater Sum Tree
+#ER 1038. Binary Search Tree to Greater Sum Tree
 Medium
 3.4K     5
 
@@ -169,7 +169,7 @@ Medium
 Check if Binary tree is Sum tree or not
 no similar quesiton found 
 Related:
-1038. Binary Search Tree to Greater Sum Tree
+#ER 1038. Binary Search Tree to Greater Sum Tree
 Medium
 3.4K    2
 
@@ -204,7 +204,7 @@ Easy
 
 
 Sum of Nodes on the Longest path from root to leaf node 
-124. Binary Tree Maximum Path Sum
+#ER 124. Binary Tree Maximum Path Sum
 Hard
 14K   6
 
@@ -233,17 +233,17 @@ no similar question found
 
 
 Print all "K" Sum paths in a Binary tree
-112. Path Sum
+#ER 112. Path Sum
 Easy
 8.2K     2
 
 
-113. Path Sum II
+|#ER 113. Path Sum II
 Medium
 6.9K      3
 
 
-437. Path Sum III
+#ENR 437. Path Sum III
 Medium
 9.5K     4
 
@@ -266,7 +266,7 @@ Find distance between 2 nodes in a Binary tree
 no simialar question found 
 
 Related:
-783. Minimum Distance Between BST Nodes
+#ER 783. Minimum Distance Between BST Nodes
 Easy
 3.1K     6
 
@@ -279,7 +279,7 @@ Find Distance in a Binary Tree - LeetCode Premium
 Kth Ancestor of node in a Binary tree
 1483. Kth Ancestor of a Tree Node
 Hard
-1.5K     
+1.5K     1
 
 
 
@@ -287,14 +287,14 @@ Hard
 Find all Duplicate subtrees in a Binary tree [ IMP ]
 652. Find Duplicate Subtrees
 Medium
-5.3K     
+5.3K     2
 
 
 
 Tree Isomorphism Problem
 951. Flip Equivalent Binary Trees
 Medium
-2K      
+2K      3
 	
 
 
@@ -303,7 +303,7 @@ Medium
 
 
 
-124. Binary Tree Maximum Path Sum
+#ER 124. Binary Tree Maximum Path Sum
 Hard
 13.9K
 
