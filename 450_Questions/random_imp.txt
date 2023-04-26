@@ -172,6 +172,14 @@ Medium
 3.2K
 
 
+
+Leetcode D C
+258. Add Digits
+Easy
+3.9K
+Math Simulation Number Theory
+
+
 Leetcode D C
 71. Simplify Path
 Medium
@@ -205,6 +213,8 @@ Array
 827. Making A Large Island
 Hard
 3K
+
+
 
 1319. Number of Operations to Make Network Connected
 Medium
