@@ -112,7 +112,13 @@ Easy
 
 
 Diagnol Traversal of a Binary tree
-498. Diagonal Traverse
+no similar question found 
+
+the bellow question is not similar to the above 
+question, but its importent 
+
+this question is not related to TREES
+#ENR 498. Diagonal Traverse
 Medium
 2.9K     2
 
@@ -277,7 +283,7 @@ Find Distance in a Binary Tree - LeetCode Premium
 
 
 Kth Ancestor of node in a Binary tree
-1483. Kth Ancestor of a Tree Node
+#ENR 1483. Kth Ancestor of a Tree Node
 Hard
 1.5K     1
 

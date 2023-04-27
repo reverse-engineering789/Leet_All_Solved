@@ -264,6 +264,12 @@ Hard
 1.3K
 
 
+Leetcode D C 
+319. Bulb Switcher
+Medium
+1.5K
+Math Brainteaser
+
 
 
 Leetcode D C 
