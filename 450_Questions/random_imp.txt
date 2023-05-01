@@ -251,6 +251,14 @@ Hard
 
 
 
+Leetcode D C 
+839. Similar String Groups
+Hard
+2.1K
+Array String Depth-First Search Breadth-First Search Union Find
+
+
+
 
 Leetcode D C 
 2492. Minimum Score of a Path Between Two Cities
@@ -333,17 +341,31 @@ Easy
 
 
 
+
 Leetcode D C 
 2218. Maximum Value of K Coins From Piles
 Hard
 1.2K
 
 
+Leetcode D C 
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+Hard
+1.7K
+Union Find Graph
+
 
 Leetcode D C 
 2439. Minimize Maximum of Array
 Medium
 1.9K
+
+
+Leetcode D C 
+1491. Average Salary Excluding the Minimum and Maximum Salary
+Easy
+1.9K
+Array Sorting
 
 
 
