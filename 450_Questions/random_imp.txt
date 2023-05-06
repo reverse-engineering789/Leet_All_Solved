@@ -226,6 +226,13 @@ Medium
 3.2K
 
 
+Leetcode D C
+1498. Number of Subsequences That Satisfy the Given Sum Condition
+Medium
+3.1K
+
+
+
 Leetcode D C 
 #DR 1402. Reducing Dishes
 Hard
