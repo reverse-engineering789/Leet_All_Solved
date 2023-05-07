@@ -393,6 +393,15 @@ Medium
 
 
 
+Leetcode D C 
+1964. Find the Longest Valid Obstacle Course at Each Position
+Hard
+829
+Array Binary Search Binary Indexed Tree
+
+
+
+
 2404. Most Frequent Even Element
 Easy
 566
