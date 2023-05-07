@@ -229,8 +229,8 @@ Medium
 Leetcode D C
 1498. Number of Subsequences That Satisfy the Given Sum Condition
 Medium
-3.1K
-
+3.1K 
+Array Two Pointers Binary Search Sorting
 
 
 Leetcode D C 
