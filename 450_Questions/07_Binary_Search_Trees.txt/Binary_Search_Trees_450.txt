@@ -34,21 +34,26 @@ Tree Binary Search Tree Binary Tree
 
 Find min and max value in a BST
 no simialar question found 
-654. Maximum Binary Tree
+#LATER 654. Maximum Binary Tree
 Medium
-4.7K    
+4.7K         0  
 
 Related:
-230. Kth Smallest Element in a BST
+#ER 230. Kth Smallest Element in a BST
 Medium
-9.6K
+9.6K         1
 
-515. Find Largest Value in Each Tree Row
+
+
+
+
+
+#ER 515. Find Largest Value in Each Tree Row
 Medium
-2.6K
+2.6K         2
 
 
-
+// --------------------------------------------
 
 
 Find inorder successor and inorder predecessor in a BST
