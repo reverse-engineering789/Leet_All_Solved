@@ -244,6 +244,11 @@ Medium
 2.6K
 
 
+Leetcode D C 
+1572. Matrix Diagonal Sum
+Easy
+2.4K
+no tags found 
 
 Leetcode D C 
 1372. Longest ZigZag Path in a Binary Tree

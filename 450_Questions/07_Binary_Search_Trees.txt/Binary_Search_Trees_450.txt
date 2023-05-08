@@ -16,27 +16,27 @@ A valid BST is defined as follows:
 
 
 Find a value in a BST
-700. Search in a Binary Search Tree
+#ER 700. Search in a Binary Search Tree
 Easy
-4.8K
+4.8K        1
 
 
 
 
 
 Deletion of a node in a BST
-450. Delete Node in a BST
+#ER 450. Delete Node in a BST
 Medium
-7.3K
+7.3K          2 
+Tree Binary Search Tree Binary Tree
 
-
-
+//------------------------------------------------------------
 
 Find min and max value in a BST
 no simialar question found 
 654. Maximum Binary Tree
 Medium
-4.7K
+4.7K    
 
 Related:
 230. Kth Smallest Element in a BST
