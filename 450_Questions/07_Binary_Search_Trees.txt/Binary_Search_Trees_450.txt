@@ -60,14 +60,16 @@ Find inorder successor and inorder predecessor in a BST
 Inorder Successor in BST - Leetcode Premium
 
 no similar quesiton found for INORDER PREDECESSOR 
+   
 
+  0
 
 
 
 Check if a tree is a BST or not 
 98. Validate Binary Search Tree
 Medium
-14.4K
+14.4K     1
 
 
 
@@ -78,7 +80,7 @@ no similar question found
 MAY BE Related:
 116. Populating Next Right Pointers in Each Node
 Medium
-8.5K
+8.5K     2
 
 
 
@@ -90,7 +92,7 @@ no similar question found
 Related:
 235. Lowest Common Ancestor of a Binary Search Tree
 Medium
-9.2K
+9.2K     
 
 
 
@@ -100,7 +102,7 @@ Medium
 Construct BST from preorder traversal
 1008. Construct Binary Search Tree from Preorder Traversal
 Medium
-5.1K
+5.1K     
 
 
 
@@ -112,7 +114,7 @@ no similar question found.
 related:
 1382. Balance a Binary Search Tree
 Medium
-2.6K
+2.6K     5
 
 
 
