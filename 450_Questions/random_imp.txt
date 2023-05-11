@@ -103,6 +103,13 @@ Medium
 
 
 
+LeetCode D C
+59. Spiral Matrix II
+Medium
+5.5K
+Array Matrix Simulation
+
+
 
 
 LeetCode D C
@@ -249,6 +256,18 @@ Leetcode D C
 Easy
 2.4K
 no tags found 
+
+
+
+
+Leetcode D C 
+1035. Uncrossed Lines
+Medium
+2.3K
+Array Dynamic Programming
+
+
+
 
 Leetcode D C 
 1372. Longest ZigZag Path in a Binary Tree
