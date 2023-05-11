@@ -67,7 +67,7 @@ no similar quesiton found for INORDER PREDECESSOR
 
 
 Check if a tree is a BST or not 
-98. Validate Binary Search Tree
+#ER 98. Validate Binary Search Tree
 Medium
 14.4K     1
 
@@ -78,7 +78,7 @@ Populate Inorder successor of all nodes
 no similar question found 
 
 MAY BE Related:
-116. Populating Next Right Pointers in Each Node
+#ER 116. Populating Next Right Pointers in Each Node
 Medium
 8.5K     2
 
@@ -92,7 +92,7 @@ Medium
 Find LCA  of 2 nodes in a BST
 no similar question found 
 Related:
-235. Lowest Common Ancestor of a Binary Search Tree
+#ER 235. Lowest Common Ancestor of a Binary Search Tree
 Medium
 9.2K     1
 
@@ -102,7 +102,7 @@ Medium
 
 
 Construct BST from preorder traversal
-1008. Construct Binary Search Tree from Preorder Traversal
+#ER 1008. Construct Binary Search Tree from Preorder Traversal
 Medium
 5.1K     2
 
@@ -118,19 +118,14 @@ no similar question found.
 related:
 1382. Balance a Binary Search Tree
 Medium
-2.6K     
-
-
-
+2.6K       1*
 
 
 
 Convert a normal BST into a Balanced BST
 1382. Balance a Binary Search Tree
 Medium
-2.6K
-
-
+2.6K       1*
 
 
 
@@ -138,7 +133,10 @@ Medium
 Merge two BST [ V.V.V>IMP ]
 617. Merge Two Binary Trees
 Easy
-8K
+8K         2
+
+// ---------------------------------------------
+
 1932. Merge BSTs to Create Single BST
 Hard
 435
@@ -158,7 +156,7 @@ no similar quesiton found
 
 
 Find Kth smallest element in a BST
-230. Kth Smallest Element in a BST
+#ER 230. Kth Smallest Element in a BST
 Medium
 9.6K
 
@@ -210,7 +208,7 @@ and not about binary SEARCH tree.
 331. Verify Preorder Serialization of a Binary Tree
 Medium
 2.1K
-1008. Construct Binary Search Tree from Preorder Traversal
+#ER 1008. Construct Binary Search Tree from Preorder Traversal
 Medium
 5.1K
 
@@ -241,7 +239,7 @@ Largest BST Subtree - Leetcode Premium
 
 
 Flatten BST to sorted list
-114. Flatten Binary Tree to Linked List
+#ER 114. Flatten Binary Tree to Linked List
 Medium
 10.3K
 
@@ -250,7 +248,7 @@ Medium
 ---------------------------------------------------
 IMP QNS FOUND 
 
-98. Validate Binary Search Tree
+#ER 98. Validate Binary Search Tree
 Medium
 14.4K
 

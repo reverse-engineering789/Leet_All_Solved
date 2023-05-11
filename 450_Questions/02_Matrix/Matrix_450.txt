@@ -2,11 +2,11 @@
 
 37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
 above similar to bellow
-54. Spiral Matrix
+#ER 54. Spiral Matrix
 Medium
 
 related:
-59. Spiral Matrix II
+#ER 59. Spiral Matrix II
 Medium
 5.2K
 Array Matrix Simulation

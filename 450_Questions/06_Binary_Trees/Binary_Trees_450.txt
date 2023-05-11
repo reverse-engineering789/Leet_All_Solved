@@ -31,7 +31,7 @@ Easy      4
 
 
 Diameter of a tree
-543. Diameter of Binary Tree
+#ER 543. Diameter of Binary Tree
 Easy
 11.1K   5
 
@@ -142,7 +142,7 @@ Easy
 Convert Binary tree into Doubly Linked List 
 Convert Binary Search Tree to Sorted Doubly Linked List - LeetCode Premium
 Related:
-114. Flatten Binary Tree to Linked List
+#ER 114. Flatten Binary Tree to Linked List
 Medium
 10.3K    4 
 

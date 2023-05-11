@@ -273,9 +273,9 @@ Hard
 
 
 
-#ER: 37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
+37. Spiral traversal on a Matrix PaytmFlipkartMorgan StanleyMicrosoftOYO RoomsSnapdealD-E-ShawMakeMyTripOracleMAQ SoftwareAdobenearbuyNagarroBrowserStackSalesforce
 above similar to bellow
-54. Spiral Matrix
+#ER 54. Spiral Matrix
 Medium
 
 
