@@ -290,6 +290,13 @@ Array String Depth-First Search Breadth-First Search Union Find
 
 
 
+Leetcode D C 
+2140. Solving Questions With Brainpower
+Medium
+1.9K
+
+
+
 
 
 Leetcode D C 
