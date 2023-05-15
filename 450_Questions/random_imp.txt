@@ -306,6 +306,10 @@ Easy
 Array Math
 
 
+Leetcode D C 
+2466. Count Ways To Build Good Strings
+Medium
+1.4K
 
 
 Leetcode D C 

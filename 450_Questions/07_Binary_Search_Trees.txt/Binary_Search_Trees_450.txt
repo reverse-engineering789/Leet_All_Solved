@@ -139,11 +139,11 @@ Easy
 
 1932. Merge BSTs to Create Single BST
 Hard
-435
+435         1
 Related:
 1305. All Elements in Two Binary Search Trees
 Medium
-2.8K
+2.8K        2
 
 
 
@@ -158,7 +158,7 @@ no similar quesiton found
 Find Kth smallest element in a BST
 #ER 230. Kth Smallest Element in a BST
 Medium
-9.6K
+9.6K             
 
 
 
@@ -177,15 +177,15 @@ no similar quesiton found
 Count BST ndoes that lie in a given range
 938. Range Sum of BST
 Easy
-5.7K
+5.7K              3
 
 
-
+// -------------------------------------------------------
 
 Replace every element with the least greater element on its right
 1299. Replace Elements with Greatest Element on Right Side
 Easy
-2K
+2K      
 
 
 

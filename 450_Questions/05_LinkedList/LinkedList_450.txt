@@ -218,6 +218,10 @@ Medium
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
+Leetcode D C
+#ER 1721. Swapping Nodes in a Linked List
+Medium
+4.1K
 
 Reverse a Doubly Linked list.
 no similar question found
