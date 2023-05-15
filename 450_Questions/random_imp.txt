@@ -173,6 +173,12 @@ Medium
 4.5K
 
 
+Leetcode D C
+1721. Swapping Nodes in a Linked List
+Medium
+4.1K
+
+
 
 1254. Number of Closed Islands
 Medium
@@ -316,6 +322,17 @@ Leetcode D C
 2492. Minimum Score of a Path Between Two Cities
 Medium
 1.4K
+
+
+Leetcode D C 
+1799. Maximize Score After N Operations
+Hard
+1.4K
+Array Math Dynamic Programming Backtracking Bit 
+Manipulation Number Theory Bitmask
+
+
+
 
 
 Leetcode D C 
