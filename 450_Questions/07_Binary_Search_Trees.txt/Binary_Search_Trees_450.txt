@@ -183,9 +183,9 @@ Easy
 // -------------------------------------------------------
 
 Replace every element with the least greater element on its right
-1299. Replace Elements with Greatest Element on Right Side
+#ER 1299. Replace Elements with Greatest Element on Right Side
 Easy
-2K      
+2K                 1
 
 
 
@@ -205,9 +205,12 @@ Verify Preorder Sequence in Binary Search Tree - Leetcode premium
 
 no simialar question found, BEACUSE: the bellow question is on binary tree, 
 and not about binary SEARCH tree.
-331. Verify Preorder Serialization of a Binary Tree
+#LATER 331. Verify Preorder Serialization of a Binary Tree
 Medium
-2.1K
+2.1K                     2
+
+
+
 #ER 1008. Construct Binary Search Tree from Preorder Traversal
 Medium
 5.1K
@@ -218,9 +221,9 @@ Medium
 
 
 Check whether BST contains Dead end
-958. Check Completeness of a Binary Tree
+#ER 958. Check Completeness of a Binary Tree
 Medium
-3.8K
+3.8K                    3
 
 
 
@@ -241,7 +244,7 @@ Largest BST Subtree - Leetcode Premium
 Flatten BST to sorted list
 #ER 114. Flatten Binary Tree to Linked List
 Medium
-10.3K
+10.3K     
 
 
 ---------------------------------------------------
@@ -256,7 +259,7 @@ Medium
 
 501. Find Mode in Binary Search Tree
 Easy
-2.8K
+2.8K                    
 
 
 
