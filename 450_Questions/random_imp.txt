@@ -217,6 +217,16 @@ Tree Depth-First Search Binary Tree
 
 
 
+
+
+1557. Minimum Number of Vertices to Reach All Nodes
+Medium
+3.3K
+Graph
+
+
+
+
 1431. Kids With the Greatest Number of Candies
 Easy
 3.1K
