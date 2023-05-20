@@ -60,6 +60,17 @@ Medium
 
 
 
+
+Leetcode D C
+399. Evaluate Division
+Medium
+7.5K
+Array Depth-First Search Breadth-First Search Union 
+Find Graph Shortest Pat 
+
+
+
+
 LeetCode D C 
 133. Clone Graph
 Medium
@@ -218,7 +229,7 @@ Tree Depth-First Search Binary Tree
 
 
 
-
+Leetcode D C
 1557. Minimum Number of Vertices to Reach All Nodes
 Medium
 3.3K
