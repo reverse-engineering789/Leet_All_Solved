@@ -1,0 +1,211 @@
+Activity Selection Problem
+452. Minimum Number of Arrows to Burst Balloons
+Medium
+6K
+
+
+
+
+Job SequencingProblem
+1235. Maximum Profit in Job Scheduling
+Hard
+5K
+
+
+
+Huffman Coding
+no similar quesiton found
+
+
+
+Water Connection Problem
+not sure about similar qn
+
+
+Fractional Knapsack Problem
+
+
+
+
+Greedy Algorithm to find Minimum number of Coins
+322. Coin Change
+Medium
+16.1K
+
+Related:
+518. Coin Change II
+Medium
+7.2K
+
+
+
+Maximum trains for which stoppage can be provided
+no similar question found 
+
+
+
+
+Minimum Platforms Problem
+no similar question found 
+
+
+
+
+
+Buy Maximum Stocks if i stocks can be bought on i-th day
+Best Time to Buy and Sell Stock IV
+Hard
+Best Time to Buy and Sell Stock II
+Medium
+Best Time to Buy and Sell Stock III
+Hard
+121. Best Time to Buy and Sell Stock
+Easy
+
+
+
+
+Find the minimum and maximum amount to buy all N candies
+2144. Minimum Cost of Buying Candies With Discount
+Easy
+465
+
+
+
+
+
+Minimize Cash Flow among a given set of friends who have borrowed money from each other
+no similar question found 
+
+
+
+
+Minimum Cost to cut a board into squares
+1547. Minimum Cost to Cut a Stick
+Hard
+2.6K
+
+
+
+
+Check if it is possible to survive on Island
+no similar quesiton found 
+
+Related:
+200. Number of Islands
+Medium
+19.8K
+
+
+
+
+
+Find maximum meetings in one room
+1353. Maximum Number of Events That Can Be Attended
+Medium
+2.4K
+
+
+
+
+Maximum product subset of an array
+no similar quesiton found
+
+realated:
+152. Maximum Product Subarray
+Medium
+15.9K
+
+1464. Maximum Product of Two Elements in an Array
+Easy
+1.6K
+
+
+
+
+
+
+
+Maximize array sum after K negations
+1005. Maximize Sum Of Array After K Negations
+Easy
+1.3K
+
+
+
+
+Maximize the sum of arr[i]*i
+no similar quesiton found 
+
+related:
+1877. Minimize Maximum Pair Sum in Array
+Medium
+1.1K
+Array Two Pointers Greedy Sorting
+
+
+
+
+
+
+Maximum sum of absolute difference of an array
+no similar question found 
+
+related:
+1749. Maximum Absolute Sum of Any Subarray
+Medium
+1.1K
+
+
+
+
+
+
+Maximize sum of consecutive differences in a circular array
+Minimum sum of absolute difference of pairs of two arrays
+Program for Shortest Job First (or SJF) CPU Scheduling
+Program for Least Recently Used (LRU) Page Replacement algorithm
+Smallest subset with sum greater than all other elements
+209. Minimum Size Subarray Sum
+Medium
+9.4K
+
+
+
+Chocolate Distribution Problem
+135. Candy
+Hard
+5.4K
+
+Not related:
+but importent
+862. Shortest Subarray with Sum at Least K
+Hard
+3.7K
+
+
+
+
+
+
+DEFKIN -Defense of a Kingdom
+DIEHARD -DIE HARD
+GERGOVIA -Wine trading in Gergovia
+Picking Up Chicks
+CHOCOLA –Chocolate
+ARRANGE -Arranging Amplifiers
+
+
+
+
+K Centers Problem
+973. K Closest Points to Origin
+Medium
+7.4K
+
+
+
+Minimum Cost of ropes
+Find smallest number with given number of digits and sum of digits
+Rearrange characters in a string such that no two adjacent are same
+Find maximum sum possible equal sum of three stacks
