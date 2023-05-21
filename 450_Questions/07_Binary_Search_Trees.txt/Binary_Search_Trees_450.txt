@@ -141,7 +141,7 @@ Easy
 Hard
 435         1
 Related:
-1305. All Elements in Two Binary Search Trees
+#ER 1305. All Elements in Two Binary Search Trees
 Medium
 2.8K        2
 

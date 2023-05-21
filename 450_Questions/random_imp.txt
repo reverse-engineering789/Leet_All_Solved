@@ -121,6 +121,11 @@ Medium
 Array Matrix Simulation
 
 
+LeetCode D C
+938. Range Sum of BST
+Easy
+5.8K
+Tree Depth-First Search Binary Search Tree Binary Tree
 
 
 LeetCode D C
@@ -168,6 +173,14 @@ Medium
 190. Reverse Bits
 Easy
 4.2K
+
+
+Leetcode D C 
+934. Shortest Bridge
+Medium
+4.1K
+Array Depth-First Search Breadth-First Search Matrix
+
 
 
 
