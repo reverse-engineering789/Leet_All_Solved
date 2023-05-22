@@ -134,6 +134,9 @@ Easy
 
 
 
+
+
+
 Maximize the sum of arr[i]*i
 no similar quesiton found 
 
@@ -165,10 +168,22 @@ Maximize sum of consecutive differences in a circular array
 Minimum sum of absolute difference of pairs of two arrays
 Program for Shortest Job First (or SJF) CPU Scheduling
 Program for Least Recently Used (LRU) Page Replacement algorithm
+
+
+
+
+
+
+
 Smallest subset with sum greater than all other elements
 209. Minimum Size Subarray Sum
 Medium
 9.4K
+
+
+
+
+
 
 
 
@@ -205,7 +220,57 @@ Medium
 
 
 
+
+
+
+
+
 Minimum Cost of ropes
+1000. Minimum Cost to Merge Stones
+Hard
+2.1K
+
+less related:
+1584. Min Cost to Connect All Points
+Medium
+3.6K
+
+
+
+
+
+
+
+
+
 Find smallest number with given number of digits and sum of digits
+no similar question found
+
+may be realated
+258. Add Digits
+Easy
+4.2K
+
+
+
+
+
+
+
+
+
 Rearrange characters in a string such that no two adjacent are same
+767. Reorganize String
+Medium
+6.1K
+
+
+
+
+
+
+
+
+
 Find maximum sum possible equal sum of three stacks
+no similar question found 
