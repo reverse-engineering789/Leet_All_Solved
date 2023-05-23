@@ -1,3 +1,10 @@
+46. Permutations
+Medium
+15.3K
+
+
+
+
 LeetCode D C 
 347. Top K Frequent Elements
 Medium
@@ -52,11 +59,6 @@ Medium
 
 
 
-46. Permutations
-Medium
-15.3K
-
-
 
 47. Permutations II
 Medium
@@ -84,18 +86,6 @@ Medium
 
 
 
-
-
-1838. Frequency of the Most Frequent Element
-Medium
-2.2K
-
-
-
-
-1493. Longest Subarray of 1's After Deleting One Element
-Medium
-1.4K
 
 
 3. Longest Substring Without Repeating Characters
@@ -171,6 +161,14 @@ Leetcode D C
 946. Validate Stack Sequences
 Medium
 4.5K
+
+
+
+Leetcode D C
+703. Kth Largest Element in a Stream
+Easy
+4.6K
+
 
 
 
@@ -310,6 +308,15 @@ Leetcode D C
 Medium
 2.3K
 Array Dynamic Programming
+
+
+
+
+1838. Frequency of the Most Frequent Element
+Medium
+2.2K
+
+
 
 
 
