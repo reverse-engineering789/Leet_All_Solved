@@ -464,6 +464,13 @@ Hard
 
 
 Leetcode D C 
+2542. Maximum Subsequence Score
+Medium
+1.6K
+
+
+
+Leetcode D C 
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 Hard
 1.7K
