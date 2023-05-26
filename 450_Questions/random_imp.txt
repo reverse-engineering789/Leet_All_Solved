@@ -342,6 +342,17 @@ Array String Depth-First Search Breadth-First Search Union Find
 
 
 
+
+
+Leetcode D C 
+1140. Stone Game II
+Medium
+2K
+
+
+
+
+
 Leetcode D C 
 2140. Solving Questions With Brainpower
 Medium
@@ -356,6 +367,17 @@ Leetcode D C
 Easy
 1.8K
 Array Math
+
+
+
+
+
+Leetcode D C 
+837. New 21 Game
+Medium
+1.8K
+1.7K
+Math  Dynamic Programming  Sliding Window  Probability and Statistics
 
 
 Leetcode D C 
