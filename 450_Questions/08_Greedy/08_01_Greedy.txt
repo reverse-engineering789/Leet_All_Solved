@@ -1,5 +1,5 @@
 Activity Selection Problem
-452. Minimum Number of Arrows to Burst Balloons
+#ER 452. Minimum Number of Arrows to Burst Balloons
 Medium
 6K          1
 
@@ -7,7 +7,7 @@ Medium
 
 
 Job SequencingProblem
-1235. Maximum Profit in Job Scheduling
+#ENR 1235. Maximum Profit in Job Scheduling
 Hard
 5K          2
 
@@ -53,13 +53,13 @@ no similar question found
 
 
 Buy Maximum Stocks if i stocks can be bought on i-th day
-Best Time to Buy and Sell Stock IV
+#LATER Best Time to Buy and Sell Stock IV
 Hard
-Best Time to Buy and Sell Stock II
+#LATER Best Time to Buy and Sell Stock II
 Medium
-Best Time to Buy and Sell Stock III
+#LATER Best Time to Buy and Sell Stock III
 Hard
-121. Best Time to Buy and Sell Stock
+#ER 121. Best Time to Buy and Sell Stock
 Easy
 
 
