@@ -48,7 +48,7 @@ no similar question found
 Minimum Platforms Problem
 no similar question found 
 
-
+//-----------------------------------------------------------
 
 
 
@@ -59,16 +59,16 @@ Hard
 Medium
 #LATER Best Time to Buy and Sell Stock III
 Hard
-#ER 121. Best Time to Buy and Sell Stock
+#ER 121. Best Time to Buy and Sell Stock        1
 Easy
 
 
 
 
 Find the minimum and maximum amount to buy all N candies
-2144. Minimum Cost of Buying Candies With Discount
+#LATER 2144. Minimum Cost of Buying Candies With Discount       
 Easy
-465
+465                                   2
 
 
 
@@ -81,9 +81,9 @@ no similar question found
 
 
 Minimum Cost to cut a board into squares
-1547. Minimum Cost to Cut a Stick
+#LATER 1547. Minimum Cost to Cut a Stick
 Hard
-2.6K
+2.6K                                      3
 
 
 
@@ -92,18 +92,19 @@ Check if it is possible to survive on Island
 no similar quesiton found 
 
 Related:
-200. Number of Islands
+#ER 200. Number of Islands
 Medium
-19.8K
+19.8K                                      4
 
 
 
+// ------------------------------------------------------------
 
 
 Find maximum meetings in one room
 1353. Maximum Number of Events That Can Be Attended
 Medium
-2.4K
+2.4K                                     1    
 
 
 
@@ -114,11 +115,11 @@ no similar quesiton found
 realated:
 152. Maximum Product Subarray
 Medium
-15.9K
+15.9K                                   2
 
 1464. Maximum Product of Two Elements in an Array
 Easy
-1.6K
+1.6K                                   3
 
 
 
@@ -129,8 +130,12 @@ Easy
 Maximize array sum after K negations
 1005. Maximize Sum Of Array After K Negations
 Easy
-1.3K
+1.3K                                      4
 
+
+
+
+// ------------------------------------------------------------
 
 
 
@@ -165,9 +170,31 @@ Medium
 
 
 Maximize sum of consecutive differences in a circular array
+918. Maximum Sum Circular Subarray
+Medium
+5.8K
+
+
+
 Minimum sum of absolute difference of pairs of two arrays
+1818. Minimum Absolute Sum Difference
+Medium
+891
+
+
+
 Program for Shortest Job First (or SJF) CPU Scheduling
+1834. Single-Threaded CPU
+Medium
+2.8K
+
+
+
+
 Program for Least Recently Used (LRU) Page Replacement algo rithm
+146. LRU Cache
+Medium
+17.2K
 
 
 
@@ -179,9 +206,6 @@ Smallest subset with sum greater than all other elements
 209. Minimum Size Subarray Sum
 Medium
 9.4K
-
-
-
 
 
 

@@ -351,6 +351,13 @@ Medium
 
 
 
+Leetcode D C 
+1406. Stone Game III
+Hard
+1.9K
+
+
+
 
 
 Leetcode D C 
