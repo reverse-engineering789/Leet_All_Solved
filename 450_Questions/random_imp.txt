@@ -387,6 +387,17 @@ Medium
 Math  Dynamic Programming  Sliding Window  Probability and Statistics
 
 
+
+
+Leetcode D C 
+1603. Design Parking System
+Easy
+1.6K
+
+
+
+
+
 Leetcode D C 
 2466. Count Ways To Build Good Strings
 Medium
