@@ -146,7 +146,7 @@ Maximize the sum of arr[i]*i
 no similar quesiton found 
 
 related:
-1877. Minimize Maximum Pair Sum in Array
+#LATER  1877. Minimize Maximum Pair Sum in Array
 Medium
 1.1K
 Array Two Pointers Greedy Sorting          1
@@ -177,7 +177,7 @@ Medium
 
 
 Minimum sum of absolute difference of pairs of two arrays
-1818. Minimum Absolute Sum Difference
+#LATER 1818. Minimum Absolute Sum Difference
 Medium
 891                                          4
 
@@ -205,7 +205,7 @@ Medium
 Smallest subset with sum greater than all other elements
 209. Minimum Size Subarray Sum
 Medium
-9.4K
+9.4K                                            1
 
 
 
@@ -214,13 +214,13 @@ Medium
 Chocolate Distribution Problem
 135. Candy
 Hard
-5.4K
+5.4K                                              2
 
 Not related:
 but importent
 862. Shortest Subarray with Sum at Least K
 Hard
-3.7K
+3.7K                                         3
 
 
 
@@ -228,19 +228,51 @@ Hard
 
 
 DEFKIN -Defense of a Kingdom
+no question found 
+
+
+
 DIEHARD -DIE HARD
+no question found 
+
+
+
+
 GERGOVIA -Wine trading in Gergovia
+no question found 
+
+
+
+
 Picking Up Chicks
+741. Cherry Pickup
+Hard
+3.7K                                      4
+
+
+
+
+
+
 CHOCOLA –Chocolate
-ARRANGE -Arranging Amplifiers
+no similar question found 
 
 
 
+
+
+
+ARRANGE -ArrIanging Amplifiers
+no similar question found 
+
+
+
+//------------------------------------------------------------
 
 K Centers Problem
 973. K Closest Points to Origin
-Medium
-7.4K
+Medium 
+7.4K                                  1    
 
 
 
@@ -252,12 +284,12 @@ Medium
 Minimum Cost of ropes
 1000. Minimum Cost to Merge Stones
 Hard
-2.1K
+2.1K                                  2
 
 less related:
 1584. Min Cost to Connect All Points
 Medium
-3.6K
+3.6K                                  3
 
 
 
@@ -273,20 +305,20 @@ no similar question found
 may be realated
 258. Add Digits
 Easy
-4.2K
+4.2K                                  4
 
 
 
 
 
-
+// -----------------------------------------------------
 
 
 
 Rearrange characters in a string such that no two adjacent are same
 767. Reorganize String
 Medium
-6.1K
+6.1K                                            1
 
 
 
