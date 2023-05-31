@@ -424,6 +424,11 @@ Easy
 3.9K
 
 
+Randomly selected beacuse its little imp qn
+#ER 1200. Minimum Absolute Difference
+Easy
+2.1K
+Array Sorting
 
 //////    //////    //////    //////    //////    //////    //////    ////// 
 
