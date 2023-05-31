@@ -244,6 +244,12 @@ Tree Depth-First Search Binary Tree
 
 
 
+Leetcode D C
+705. Design HashSet
+Easy
+3.4K
+
+
 
 Leetcode D C
 1557. Minimum Number of Vertices to Reach All Nodes
