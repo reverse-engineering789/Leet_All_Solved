@@ -132,6 +132,15 @@ Array Heap (Priority Queue)
 
 
 
+LeetCode D C
+1091. Shortest Path in Binary Matrix
+Medium
+5.5K
+Array    Breadth-First SearcH    Matrix
+
+
+
+
 
 713. Subarray Product Less Than K
 Medium
@@ -248,6 +257,21 @@ Leetcode D C
 705. Design HashSet
 Easy
 3.4K
+Array  Hash Table  Linked List  Design  
+Hash Function
+
+
+
+
+
+
+Leetcode D C
+1396. Design Underground System
+Medium
+3.3K
+Hash Table    String     Design
+
+
 
 
 
@@ -256,6 +280,7 @@ Leetcode D C
 Medium
 3.3K
 Graph
+
 
 
 

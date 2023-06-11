@@ -6,6 +6,7 @@ Medium
 
 
 
+
 Job SequencingProblem
 #ENR 1235. Maximum Profit in Job Scheduling
 Hard
@@ -170,7 +171,7 @@ Medium
 
 
 Maximize sum of consecutive differences in a circular array
-918. Maximum Sum Circular Subarray
+#ER 918. Maximum Sum Circular Subarray
 Medium
 5.8K                                         3
 
@@ -212,13 +213,13 @@ Medium
 
 
 Chocolate Distribution Problem
-135. Candy
+#ER 135. Candy
 Hard
 5.4K                                              2
 
 Not related:
 but importent
-862. Shortest Subarray with Sum at Least K
+#ER 862. Shortest Subarray with Sum at Least K
 Hard
 3.7K                                         3
 
@@ -245,11 +246,16 @@ no question found
 
 
 Picking Up Chicks
-741. Cherry Pickup
+#LATER 741. Cherry Pickup
 Hard
 3.7K                                      4
 
 
+
+
+#ER 1463. Cherry Pickup II
+Hard
+3K
 
 
 
@@ -282,7 +288,7 @@ Medium
 
 
 Minimum Cost of ropes
-1000. Minimum Cost to Merge Stones
+#LATER 1000. Minimum Cost to Merge Stones
 Hard
 2.1K                                  2
 
@@ -303,7 +309,7 @@ Find smallest number with given number of digits and sum of digits
 no similar question found
 
 may be realated
-258. Add Digits
+#ER 258. Add Digits
 Easy
 4.2K                                  4
 

@@ -229,14 +229,14 @@ Medium
 above similar to bellow
 575. Distribute Candies
 Easy
-135. Candy
+#ER 135. Candy
 Hard
 
 
 
 31. Smallest Subarray with sum greater than a given value - AccoliteAmazonGoldman SachsGoogleFacebook
 above similar to bellow
-862. Shortest Subarray with Sum at Least K
+#ER 62. Shortest Subarray with Sum at Least K
 Hard
 
 

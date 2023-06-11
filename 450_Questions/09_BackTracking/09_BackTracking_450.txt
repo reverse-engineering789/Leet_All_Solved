@@ -1,8 +1,35 @@
-Rat in a maze Problem
-Printing all solutions in N-Queen Problem
-Word Break Problem using Backtracking
-Remove Invalid Parentheses
 
+// --------------------------------------------------
+Rat in a maze Problem
+no similar question found 
+
+
+
+
+Printing all solutions in N-Queen Problem
+51. N-Queens
+Hard
+10.2K
+
+52. N-Queens II
+Hard
+3.3K
+
+
+
+
+Word Break Problem using Backtracking
+#ER 139. Word Break
+Medium
+14.1K
+
+
+
+
+Remove Invalid Parentheses
+301. Remove Invalid Parentheses
+Hard
+5.5K
 
 //----------------------------------
 
