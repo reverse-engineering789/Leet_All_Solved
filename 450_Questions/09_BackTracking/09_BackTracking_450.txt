@@ -7,13 +7,15 @@ no similar question found
 
 
 Printing all solutions in N-Queen Problem
-51. N-Queens
+#ER 51. N-Queens
 Hard
 10.2K
+Backtracking
 
 52. N-Queens II
 Hard
 3.3K
+Backtracking
 
 
 
@@ -26,7 +28,7 @@ Medium
 
 
 Remove Invalid Parentheses
-301. Remove Invalid Parentheses
+#ER 301. Remove Invalid Parentheses
 Hard
 5.5K
 
