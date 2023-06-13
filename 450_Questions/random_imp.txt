@@ -45,6 +45,15 @@ Easy
 
 
 
+547. Number of Provinces
+Medium
+8.3K
+Depth-First Search  Breadth-First Search
+Union Find   Graph
+
+
+
+
 133. Clone Graph
 Medium
 8.1K
@@ -253,6 +262,18 @@ Tree Depth-First Search Binary Tree
 
 
 
+
+
+Leetcode D C
+1376. Time Needed to Inform All Employees
+Medium
+3.7K
+Tree   Depth-First Search
+Breadth-First Search
+
+
+
+
 Leetcode D C
 705. Design HashSet
 Easy
@@ -323,6 +344,15 @@ Hard
 1020. Number of Enclaves
 Medium
 2.6K
+
+
+Leetcode D C 
+2101. Detonate the Maximum Bombs
+Medium
+2.5K
+Array  Math  Depth-First Search  
+Breadth-First Search  Graph  Geometry
+
 
 
 Leetcode D C 

@@ -1,4 +1,4 @@
-
+ b                       \
 // --------------------------------------------------
 Rat in a maze Problem
 no similar question found 
@@ -14,7 +14,6 @@ Hard
 52. N-Queens II
 Hard
 3.3K
-
 
 
 
@@ -34,18 +33,74 @@ Hard
 //----------------------------------
 
 Sudoku Solver
+37. Sudoku Solver
+Hard
+8K
+
+
+
+
 m Coloring Problem
+1042. Flower Planting With No Adjacent
+Medium
+1.2K
+
+
+
+
 Print all palindromic partitions of a string
+131. Palindrome Partitioning
+Medium
+10.9K
+
+
+
 Subset Sum Problem
+416. Partition Equal Subset Sum
+Medium
+10.6K
+
 
 
 //----------------------------------
 
 
 The Knight’s tour problem
+
+
+
 Tug of War
+https://leetcode.com/problems/last-stone-weight-ii/
+
+
+
+
 Find shortest safe route in a path with landmines
+
+
+
+1293. Shortest Path in a Grid with Obstacles Elimination
+Hard
+4.1K
+
+
+
+
 Combinational Sum
+
+similar questions:
+Letter Combinations of a Phone Number
+Medium
+Combination Sum II
+Medium
+Combinations
+Medium
+Combination Sum III
+Medium
+Factor Combinations
+Medium
+Combination Sum IV
+Medium
 
 
 //----------------------------------

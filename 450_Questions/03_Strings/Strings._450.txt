@@ -287,7 +287,7 @@ Hard
 
 80.	Rearrange characters in a string such that no two adjacent are same - question not found - 404
 above similar to bellow 
-767. Reorganize String
+#ER 767. Reorganize String
 Medium
 
 
