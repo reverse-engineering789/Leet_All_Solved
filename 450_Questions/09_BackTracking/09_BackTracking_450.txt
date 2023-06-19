@@ -68,7 +68,20 @@ Medium
 
 
 The Knight’s tour problem
+The Knight's Tour -  leetcode premium
 
+Similar:
+2596. Check Knight Tour Configuration
+Medium
+263
+
+#LATER 688. Knight Probability in Chessboard
+Medium
+2.5K
+
+935. Knight Dialer
+Medium
+2K
 
 
 Tug of War
@@ -166,5 +179,42 @@ Hard
 
 
 Print all possible paths from top left to bottom right of a mXn matrix
+62. Unique Paths
+Medium
+14K
+
+related:
+63. Unique Paths II
+Medium
+7.1K
+
+
+980. Unique Paths III
+Hard
+4.6K
+
+
+
+
+
+
+
 Partition of a set intoK subsets with equal sum
+698. Partition to K Equal Sum Subsets
+Medium
+6.5K
+
+related:
+416. Partition Equal Subset Sum
+Medium
+10.7K
+
+
+
+
+
+
 Find the K-th Permutation Sequence of first N natural numbers
+60. Permutation Sequence
+Hard
+5.8K
