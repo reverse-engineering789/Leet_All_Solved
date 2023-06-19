@@ -71,7 +71,7 @@ The Knight’s tour problem
 The Knight's Tour -  leetcode premium
 
 Similar:
-2596. Check Knight Tour Configuration
+#LATER 2596. Check Knight Tour Configuration
 Medium
 263
 
@@ -127,7 +127,7 @@ Medium
 //----------------------------------
 
 Find Maximum number possible by doing at-most K swaps
-1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+#LATER 1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
 Hard
 435
 
