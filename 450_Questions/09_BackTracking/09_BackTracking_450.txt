@@ -73,14 +73,13 @@ The Knight’s tour problem
 
 Tug of War
 https://leetcode.com/problems/last-stone-weight-ii/
+#ER 1049. Last Stone Weight II
+Medium
+2.8K
 
 
 
-
-Find shortest safe route in a path with landmines
-
-
-
+#ER Find shortest safe route in a path with landmines
 1293. Shortest Path in a Grid with Obstacles Elimination
 Hard
 4.1K
@@ -89,6 +88,10 @@ Hard
 
 
 Combinational Sum
+39. Combination Sum
+Medium
+16.3K
+
 
 similar questions:
 Letter Combinations of a Phone Number
@@ -105,12 +108,57 @@ Combination Sum IV
 Medium
 
 
+
+
+
 //----------------------------------
 
 Find Maximum number possible by doing at-most K swaps
-Print all permutations of a string 
+1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+Hard
+435
+
+
+
+
+
+#ER Print all permutations of a string 
+567. Permutation in String
+Medium
+10K
+
+
+
+
 Find if there is a path of more than k length from a source
+no similar question found 
+
+related questions:
+#ER 797. All Paths From Source to Target
+Medium
+6.6K
+
+
+1971. Find if Path Exists in Graph
+Easy
+3K
+
+
+
+
+
+
+
+
+
 Longest Possible Route in a Matrix with Hurdles
+no quesiton found
+
+simiar question
+329. Longest Increasing Path in a Matrix
+Hard
+8.2K
+
 
 
 
