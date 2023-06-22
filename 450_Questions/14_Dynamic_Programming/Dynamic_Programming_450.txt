@@ -102,11 +102,23 @@ Count Derangements (Permutation such that no element appears in its original pos
 Maximum profit by buying and selling a share at most twice [ IMP ]
 Optimal Strategy for a Game
 Optimal Binary Search Tree
+
+
+// -----------------------------------------------------
+
+
+
 Palindrome PartitioningProblem
 Word Wrap Problem
 Mobile Numeric Keypad Problem [ IMP ]
 Boolean Parenthesization Problem
 Largest rectangular sub-matrix whose sum is 0
+
+
+// -----------------------------------------------------
+
+
+
 Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
 Maximum sum rectangle in a 2D matrix
 Maximum profit by buying and selling a share at most k times

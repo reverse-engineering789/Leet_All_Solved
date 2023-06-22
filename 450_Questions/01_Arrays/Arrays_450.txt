@@ -338,7 +338,9 @@ Find Smallest Common Element in All Rows - LeetCode Premium
 
 //////////////////////////////////////////////////////////////////////////////////
 
-
+35. Search Insert Position
+Easy
+13.6K
 
 
 #LEARN ALL SORTING ALGORITHMS 912. Sort an Array - V V V IMP

@@ -1,24 +1,69 @@
 
- Implement Stack from Scratch
-  Implement Queue from Scratch
+Implement Stack from Scratch
+related:
+225. Implement Stack using Queues
+Easy
+4.4K
+
+#ER 155. Min Stack
+Medium
+11.9K
+
+
+Implement Queue from Scratch
+related:
+#ER 232. Implement Queue using Stacks
+Easy
+6.2K
+
+
+
+
  Implement 2 stack in an array
+ no similar question found
+
+
+
  find the middle element of a stack
-
-
- // ------------------------------------------------------
-
-
-
-
-
- Implement "N" stacks in an Array
- Check the expression has valid or Balanced parenthesis or not.
- Reverse a String using Stack
- Design a Stack that supports getMin() in O(1) time and O(1) extra space.
- 
+no similar question found 
 
  // ------------------------------------------------------
 
+
+
+
+
+Implement "N" stacks in an Array
+no simiar question found 
+may be related:
+#LATER 1441. Build an Array With Stack Operations
+Medium
+208
+
+
+Check the expression has valid or Balanced parenthesis or not.
+#ER 20. Valid Parentheses
+Easy
+20.4K
+
+
+
+Reverse a String using Stack
+#ER 344. Reverse String 
+Easy
+7.4K
+
+
+
+
+Design a Stack that supports getMin() in O(1) time and O(1) extra space.
+#ER 155. Min Stack
+Medium
+11.9K
+
+
+
+ // ------------------------------------------------------
 
 
 
