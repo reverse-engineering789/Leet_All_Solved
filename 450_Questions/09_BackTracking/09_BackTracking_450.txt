@@ -179,7 +179,7 @@ Hard
 
 
 Print all possible paths from top left to bottom right of a mXn matrix
-62. Unique Paths
+#ER 62. Unique Paths
 Medium
 14K
 
@@ -195,7 +195,9 @@ Hard
 
 
 
-
+282. Expression Add Operators
+Hard
+3K
 
 
 
@@ -215,6 +217,6 @@ Medium
 
 
 Find the K-th Permutation Sequence of first N natural numbers
-60. Permutation Sequence
+#ER 60. Permutation Sequence
 Hard
 5.8K

@@ -1,7 +1,7 @@
 
 Implement Stack from Scratch
 related:
-225. Implement Stack using Queues
+#ER 225. Implement Stack using Queues
 Easy
 4.4K
 
@@ -69,10 +69,13 @@ Medium
 
 Find the next Greater element
 almost similar questions:
-496. Next Greater Element I
+
+#ER 496. Next Greater Element I
 Easy
 6.3K
- 503. Next Greater Element II
+
+
+#ER 503. Next Greater Element II
 Medium
 6.9K
 
@@ -82,6 +85,11 @@ Medium
 
 
  The celebrity Problem
+ no similar qeustion found
+
+
+
+ 
  Arithmetic Expression evaluation
 Evaluation of Postfix expression
 
@@ -92,10 +100,27 @@ Evaluation of Postfix expression
 
 
 Implement a method to insert an element at its bottom without using any other data structure.
-Reverse a stack using recursion
-Sort a Stack using recursion
-Merge Overlapping Intervals
+no similar question found 
 
+
+
+
+Reverse a stack using recursion
+no similar question found 
+
+
+
+Sort a Stack using recursion
+no similar question found
+
+
+
+
+
+Merge Overlapping Intervals
+56. Merge Intervals
+Medium
+19.4K
 
  // ------------------------------------------------------
 
