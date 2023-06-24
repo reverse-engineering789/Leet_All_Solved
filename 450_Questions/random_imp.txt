@@ -284,6 +284,13 @@ Hash Function
 
 
 
+Leetcode D C
+1146. Snapshot Array
+Medium
+3.4K
+
+
+
 
 
 Leetcode D C
@@ -346,6 +353,7 @@ Medium
 2.6K
 
 
+
 Leetcode D C 
 2101. Detonate the Maximum Bombs
 Medium
@@ -363,6 +371,14 @@ no tags found
 
 
 
+Leetcode D C 
+1232. Check If It Is a Straight Line
+Easy
+2.4K
+
+
+
+
 
 Leetcode D C 
 1035. Uncrossed Lines
@@ -370,6 +386,13 @@ Medium
 2.3K
 Array Dynamic Programming
 
+
+
+
+Leetcode D C 
+1802. Maximum Value at a Given Index in a Bounded Array
+Medium
+2.3K
 
 
 
@@ -446,6 +469,16 @@ Medium
 1.8K
 1.7K
 Math  Dynamic Programming  Sliding Window  Probability and Statistics
+
+
+
+
+
+Leetcode D C 
+2352. Equal Row and Column Pairs
+Medium
+1.7K
+
 
 
 

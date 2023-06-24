@@ -67,7 +67,20 @@ Medium
 
 
 
- Find the next Greater element
+Find the next Greater element
+almost similar questions:
+496. Next Greater Element I
+Easy
+6.3K
+ 503. Next Greater Element II
+Medium
+6.9K
+
+
+
+
+
+
  The celebrity Problem
  Arithmetic Expression evaluation
 Evaluation of Postfix expression

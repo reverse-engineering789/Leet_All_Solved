@@ -12,7 +12,7 @@ Hard
 10.2K
 Backtracking
 
-52. N-Queens II
+#ER 52. N-Queens II
 Hard
 3.3K
 Backtracking
@@ -35,7 +35,7 @@ Hard
 //----------------------------------
 
 Sudoku Solver
-37. Sudoku Solver
+#ER 37. Sudoku Solver
 Hard
 8K
 
@@ -58,7 +58,7 @@ Medium
 
 
 Subset Sum Problem
-416. Partition Equal Subset Sum
+#ER 416. Partition Equal Subset Sum
 Medium
 10.6K
 
@@ -205,7 +205,7 @@ Medium
 6.5K
 
 related:
-416. Partition Equal Subset Sum
+#ER 416. Partition Equal Subset Sum
 Medium
 10.7K
 
