@@ -43,7 +43,7 @@ Hard
 
 
 m Coloring Problem
-1042. Flower Planting With No Adjacent
+#ER 1042. Flower Planting With No Adjacent
 Medium
 1.2K
 
@@ -51,7 +51,7 @@ Medium
 
 
 Print all palindromic partitions of a string
-131. Palindrome Partitioning
+#ER 131. Palindrome Partitioning
 Medium
 10.9K
 
@@ -92,8 +92,8 @@ Medium
 
 
 
-#ER Find shortest safe route in a path with landmines
-1293. Shortest Path in a Grid with Obstacles Elimination
+Find shortest safe route in a path with landmines
+#ER 1293. Shortest Path in a Grid with Obstacles Elimination
 Hard
 4.1K
 
@@ -101,7 +101,7 @@ Hard
 
 
 Combinational Sum
-39. Combination Sum
+#ER 39. Combination Sum
 Medium
 16.3K
 
@@ -168,7 +168,7 @@ Longest Possible Route in a Matrix with Hurdles
 no quesiton found
 
 simiar question
-329. Longest Increasing Path in a Matrix
+#ER 329. Longest Increasing Path in a Matrix
 Hard
 8.2K
 

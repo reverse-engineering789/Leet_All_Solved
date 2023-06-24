@@ -342,6 +342,17 @@ Medium
 Array Two Pointers Binary Search Sorting
 
 
+
+
+
+Leetcode D C
+1161. Maximum Level Sum of a Binary Tree
+Medium
+3.1K
+
+
+
+
 Leetcode D C 
 #DR 1402. Reducing Dishes
 Hard
@@ -396,6 +407,14 @@ Medium
 
 
 
+Leetcode D C 
+1732. Find the Highest Altitude
+Easy
+2.3K
+
+
+
+
 1838. Frequency of the Most Frequent Element
 Medium
 2.2K
@@ -432,6 +451,14 @@ Leetcode D C
 1140. Stone Game II
 Medium
 2K
+
+
+
+Leetcode D C 
+1187. Make Array Strictly Increasing
+Hard
+2K
+
 
 
 
@@ -478,6 +505,12 @@ Leetcode D C
 2352. Equal Row and Column Pairs
 Medium
 1.7K
+
+
+Leetcode D C
+2328. Number of Increasing Paths in a Grid
+Hard
+1.8K
 
 
 
