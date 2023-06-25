@@ -506,6 +506,12 @@ Medium
 
 
 
+Leetcode D C 
+956. Tallest Billboard
+Hard
+1.9K
+
+
 
 
 Leetcode D C 
@@ -691,6 +697,14 @@ Leetcode D C
 Easy
 1.9K
 Array Sorting
+
+
+
+Leetcode D C 
+1575. Count All Possible Routes
+Hard
+1.1K
+
 
 
 

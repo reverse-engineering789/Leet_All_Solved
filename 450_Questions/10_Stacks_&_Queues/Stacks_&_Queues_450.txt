@@ -89,10 +89,29 @@ Medium
 
 
 
- 
- Arithmetic Expression evaluation
-Evaluation of Postfix expression
 
+Arithmetic Expression evaluation
+ALMOST similar 
+150. Evaluate Reverse Polish Notation
+Medium
+6K
+
+related:
+224. Basic Calculator
+Hard
+5.5K
+
+227. Basic Calculator II
+Medium
+5.6K
+
+
+
+
+Evaluation of Postfix expression
+150. Evaluate Reverse Polish Notation
+Medium
+6K
 
  // ------------------------------------------------------
 
@@ -118,7 +137,7 @@ no similar question found
 
 
 Merge Overlapping Intervals
-56. Merge Intervals
+#ER 56. Merge Intervals
 Medium
 19.4K
 
@@ -128,9 +147,34 @@ Medium
 
 
 Largest rectangular Area in Histogram
+84. Largest Rectangle in Histogram
+Hard
+14.7K
+
+
+
+
 Length of the Longest Valid Substring
+32. Longest Valid Parentheses
+Hard
+11.1K
+
+
+
+
 Expression contains redundant bracket or not
+#ER 301. Remove Invalid Parentheses
+Hard
+5.5K
+
+
+
+
 Implement Stack using Queue
+#ER 225. Implement Stack using Queues
+Easy
+4.5K
+
 
 
  // ------------------------------------------------------

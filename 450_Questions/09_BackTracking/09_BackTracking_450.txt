@@ -202,7 +202,9 @@ Hard
 
 
 Partition of a set intoK subsets with equal sum
-698. Partition to K Equal Sum Subsets
+#LATER - no proper answer was found, no vid - YT
+N C cd not working
+#LATER 698. Partition to K Equal Sum Subsets
 Medium
 6.5K
 
@@ -210,6 +212,18 @@ related:
 #ER 416. Partition Equal Subset Sum
 Medium
 10.7K
+
+
+
+
+
+
+////////////////////////////////////////////////
+extra qn on Backtracking
+
+282. Expression Add Operators
+Hard
+3K
 
 
 
