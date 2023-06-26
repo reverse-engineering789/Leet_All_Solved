@@ -183,10 +183,38 @@ Easy
 
 
 Implement Stack using Deque
-Stack Permutations (Check if an array is stack permutation of other)
-Implement Queue using Stack  
-Implement "n" queue in an array
+almost similar 
+#ER 225. Implement Stack using Queues
+Easy
+4.5K
 
+
+
+Stack Permutations (Check if an array is stack permutation of other)
+46. Permutations
+Medium
+16K
+related:
+
+47. Permutations II
+Medium
+7.6K
+
+#ER 946. Validate Stack Sequences
+Medium
+5.6K
+
+
+
+Implement Queue using Stack  
+#ER 232. Implement Queue using Stacks
+Easy
+6.2K
+
+
+
+Implement "n" queue in an array
+no similar question found 
 
  // ------------------------------------------------------
 
