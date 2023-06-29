@@ -131,8 +131,37 @@ Minimum time taken by each job to be completed given by a Directed Acyclic Graph
 no similar question found
 
 
+
+
+
+
+
 Find whether it is possible to finish all tasks or not from given dependencies
+207. Course Schedule
+Medium
+13.7K
+
+210. Course Schedule II
+Medium
+9.4K
+
+630. Course Schedule III
+Hard
+3.5K
+
+
+
+
+
+
 Find the no. of Isalnds
+#ER 200. Number of Islands
+Medium
+20.3K
+
+#ER 1254. Number of Closed Islands
+Medium
+4.2K
 
 
 // -----------------------------------------------------
@@ -142,10 +171,33 @@ Find the no. of Isalnds
 
 
 Given a sorted Dictionary of an Alien Language, find order of characters
-Implement Kruksal’sAlgorithm
-Implement Prim’s Algorithm
-Total no. of Spanning tree in a graph
+953. Verifying an Alien Dictionary
+Easy
+4.7K
 
+
+
+
+Implement Kruksal’sAlgorithm
+no similar question found 
+
+
+
+
+
+
+Implement Prim’s Algorithm
+no similar question found
+
+
+
+
+
+Total no. of Spanning tree in a graph
+similar topic
+#ER 1584. Min Cost to Connect All Points
+Medium
+3.7K
 
 // -----------------------------------------------------
 
@@ -154,8 +206,25 @@ Total no. of Spanning tree in a graph
 
 
 Implement Bellman Ford Algorithm
+no similar question found 
+
+
+
+
 Implement Floyd warshallAlgorithm
+no similar question found 
+
+
+
+
+
 Travelling Salesman Problem
+no similar question found 
+
+
+
+
+
 Graph ColouringProblem
 
 
