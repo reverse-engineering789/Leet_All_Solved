@@ -29,6 +29,9 @@ no similar question found
 
 
 Detect Cycle in UnDirected Graph using BFS/DFS Algo 
+no similar question found
+
+
 
 
 
@@ -37,6 +40,17 @@ Search in a Maze
 The Maze - leetcode premium
 
 MAY BE related:
+1036. Escape a Large Maze
+Hard
+598
+
+1926. Nearest Exit from Entrance in Maze
+Medium
+1.9K
+
+
+
+
 
 
 Minimum Step by Knight
@@ -57,10 +71,36 @@ Easy
 
 
 Clone a graph
-Making wired Connections
-word Ladder 
-Dijkstra algo
+#ER 133. Clone Graph
+Medium
+8.4K
 
+
+
+
+Making wired Connections
+1319. Number of Operations to Make Network Connected
+Medium
+4.4K
+
+
+
+
+word Ladder 
+127. Word Ladder
+Hard
+10.6K
+
+126. Word Ladder II
+Hard
+5.4K
+
+
+
+
+
+Dijkstra algo
+no similar question found
 
 
 // -----------------------------------------------------
@@ -69,7 +109,28 @@ Dijkstra algo
 
 
 Implement Topological Sort 
+BELLOW QUESTION IS BASED ON THE PRICNIPLE OF Topological Sort 
+207. Course Schedule
+Medium
+13.7K
+
+210. Course Schedule II
+Medium
+9.4K
+
+
+310. Minimum Height Trees
+Medium
+6.8K
+
+
+
+
+
 Minimum time taken by each job to be completed given by a Directed Acyclic Graph
+no similar question found
+
+
 Find whether it is possible to finish all tasks or not from given dependencies
 Find the no. of Isalnds
 
@@ -113,6 +174,7 @@ Check whether a graph is Bipartite or Not
 
 
 
+// -----------------------------------------------------
 // -----------------------------------------------------
 
 
@@ -158,9 +220,26 @@ Vertex Cover Problem
 
 
 Chinese Postman or Route Inspection
+no similar question found 
+
+
+
+
+
 Number of Triangles in a Directed and Undirected Graph
+no similar question found 
+
+
+
+
 Minimise the cashflow among a given set of friends who have borrowed money from each other
+no similar question found 
+
+
+
+
 Two Clique Problem
+no similar question found
 
 
 
