@@ -1,17 +1,55 @@
 Create a Graph, print it
-Implement BFS algorithm 
-Implement DFS Algo 
-Detect Cycle in Directed Graph using BFS/DFS Algo 
+no similar quesiton found
 
+related:
+133. Clone Graph
+Medium
+8.4K
+
+
+
+
+Implement BFS algorithm 
+no similar question found
+
+
+
+
+
+Implement DFS Algo 
+no similar question found
+
+
+
+Detect Cycle in Directed Graph using BFS/DFS Algo 
+no similar question found
 
 // -----------------------------------------------------
 
 
 
 Detect Cycle in UnDirected Graph using BFS/DFS Algo 
+
+
+
+
 Search in a Maze
+The Maze - leetcode premium
+
+MAY BE related:
+
+
 Minimum Step by Knight
+Minimum Knight Moves - Leetcode Premium
+
+
+
+
 flood fill algo
+733. Flood Fill
+Easy
+7.4K
+
 
 
 // -----------------------------------------------------
@@ -26,36 +64,6 @@ Dijkstra algo
 
 
 // -----------------------------------------------------
-
-
-
-////////////////////////////////////////////////////////////////////////////
-
-
-684. Redundant Connection
-Medium
-5.2K
-
-
-Leet D C
-1319. Number of Operations to Make Network Connected
-Medium
-3.7K
-
-Leet D C
-1466. Reorder Routes to Make All Paths Lead to the City Zero
-Medium
-2.7K
-
-
-Leet D C
-2316. Count Unreachable Pairs of Nodes in an Undirected Graph
-Medium
-1.1K
-
-
-
-
 
 
 
@@ -153,3 +161,34 @@ Chinese Postman or Route Inspection
 Number of Triangles in a Directed and Undirected Graph
 Minimise the cashflow among a given set of friends who have borrowed money from each other
 Two Clique Problem
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+684. Redundant Connection
+Medium
+5.2K
+
+
+Leet D C
+1319. Number of Operations to Make Network Connected
+Medium
+3.7K
+
+Leet D C
+1466. Reorder Routes to Make All Paths Lead to the City Zero
+Medium
+2.7K
+
+
+Leet D C
+2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+Medium
+1.1K
+
+
+
+
+

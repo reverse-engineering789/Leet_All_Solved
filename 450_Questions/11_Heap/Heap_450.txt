@@ -1,7 +1,29 @@
 Implement a Maxheap/MinHeap using arrays and recursion.
-Sort an Array using heap. (HeapSort)
-Maximum of all subarrays of size k.
+no similar question found
 
+
+
+ 
+Sort an Array using heap. (HeapSort)
+#ER 912. Sort an Array
+Medium
+5.1K
+
+
+less related:
+905. Sort Array By Parity
+Easy
+4.4K
+
+
+
+
+
+
+Maximum of all subarrays of size k.
+#ER 239. Sliding Window Maximum
+Hard
+14.8K
 
 
 
@@ -12,10 +34,49 @@ Maximum of all subarrays of size k.
 
 
 “k” largest element in an array
-Kth smallest and largest element in an unsorted array
-Merge “K” sorted arrays. [ IMP ]
-Merge 2 Binary Max Heaps
+no similar question found
 
+LEAST related:
+1985. Find the Kth Largest Integer in the Array
+Medium
+1K
+
+215. Kth Largest Element in an Array
+Medium
+14.3K
+
+
+
+
+
+
+
+Kth smallest and largest element in an unsorted array
+215. Kth Largest Element in an Array
+Medium
+14.3K
+
+
+
+
+
+
+Merge “K” sorted arrays. [ IMP ]
+#ER 88. Merge Sorted Array
+Easy
+11.1K
+
+
+
+
+
+Merge 2 Binary Max Heaps
+no similar question found 
+
+aboe similar to bellow 
+617. Merge Two Binary Trees
+Easy
+8.2K
 
 
 
@@ -25,10 +86,47 @@ Merge 2 Binary Max Heaps
 
 
 Kth largest sum continuous subarrays
-Leetcode- reorganize strings
-Merge “K” Sorted Linked Lists [V.IMP]
-Smallest range in “K” Lists
+no similar question found
 
+related:
+53. Maximum Subarray
+Medium
+30.3K
+
+523. Continuous Subarray Sum
+Medium
+4.8K
+
+
+
+
+
+
+
+
+Leetcode- reorganize strings
+#ER 767. Reorganize String
+Medium
+6.2K
+
+
+
+
+
+Merge “K” Sorted Linked Lists [V.IMP]
+23. Merge k Sorted Lists
+Hard
+17.4K
+
+
+
+
+
+
+Smallest range in “K” Lists
+632. Smallest Range Covering Elements from K Lists
+Hard
+3K
 
 
 
@@ -38,10 +136,42 @@ Smallest range in “K” Lists
 
 
 Median in a stream of Integers
-Check if a Binary Tree is Heap
-Connect “n” ropes with minimum cost
-Convert BST to Min Heap
+MAY BE same:
+295. Find Median from Data Stream
+Hard
+10.5K
 
+
+
+
+
+Check if a Binary Tree is Heap
+MAY BE same:
+#ER 958. Check Completeness of a Binary Tree
+Medium
+3.9K
+
+
+
+
+
+
+
+Connect “n” ropes with minimum cost
+1000. Minimum Cost to Merge Stones
+Hard
+2.2K
+
+LESS related:
+#ER 1584. Min Cost to Connect All Points
+Medium
+3.7K
+
+
+
+
+Convert BST to Min Heap
+no similar question found
 
 
 
@@ -51,5 +181,21 @@ Convert BST to Min Heap
 
 
 Convert min heap to max heap
+no similar question found
+
+
+
 Rearrange characters in a string such that no two adjacent are same.
+#ER 767. Reorganize String
+Medium
+6.2K
+
+related:
+2287. Rearrange Characters to Make Target String
+Easy
+388
+
+
+
 Minimum sum of two numbers formed from digits of an array
+no similar question found

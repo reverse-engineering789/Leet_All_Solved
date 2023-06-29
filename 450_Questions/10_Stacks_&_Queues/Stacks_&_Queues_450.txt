@@ -147,7 +147,7 @@ Medium
 
 
 Largest rectangular Area in Histogram
-84. Largest Rectangle in Histogram
+#ER 84. Largest Rectangle in Histogram
 Hard
 14.7K
 
@@ -155,7 +155,7 @@ Hard
 
 
 Length of the Longest Valid Substring
-32. Longest Valid Parentheses
+#ER 32. Longest Valid Parentheses
 Hard
 11.1K
 
@@ -191,7 +191,7 @@ Easy
 
 
 Stack Permutations (Check if an array is stack permutation of other)
-46. Permutations
+#ER 46. Permutations
 Medium
 16K
 related:
@@ -222,10 +222,41 @@ no similar question found
 
 
 Implement a Circular queue
-LRU Cache Implementationa
-Reverse a Queue using recursion
-Reverse the first “K” elements of a queue
+622. Design Circular Queue
+Medium
+3.2K
 
+
+
+
+
+
+LRU Cache Implementationa
+#ER 146. LRU Cache
+Medium
+17.5K
+
+
+
+
+
+
+Reverse a Queue using recursion
+no similar question found 
+
+
+
+
+
+
+
+Reverse the first “K” elements of a queue
+no similar question found
+
+related:
+#ER 25. Reverse Nodes in k-Group
+Hard
+11.5K
 
  // ------------------------------------------------------
 
@@ -233,11 +264,40 @@ Reverse the first “K” elements of a queue
 
 
 Interleave the first half of the queue with second half
-Find the first circular tour that visits all Petrol Pumps
-Minimum time required to rot all oranges
-Distance of nearest cell having 1 in a binary matrix
-First negative integer in every window of size “k”
+Interleaving String - leetcode premium
 
+
+
+Find the first circular tour that visits all Petrol Pumps
+134. Gas Station
+Medium
+10.2K
+
+
+
+
+Minimum time required to rot all oranges
+994. Rotting Oranges
+Medium
+10.8K
+
+
+
+
+
+
+Distance of nearest cell having 1 in a binary matrix
+542. 01 Matrix
+Medium
+7.3K
+
+
+
+
+First negative integer in every window of size “k”
+239. Sliding Window Maximum
+Hard
+14.8K
 
  // ------------------------------------------------------
 
@@ -245,7 +305,42 @@ First negative integer in every window of size “k”
 
 
 Check if all levels of two trees are anagrams or not.
+#ER 100. Same Tree
+Easy
+9.7K
+
+
+
 Sum of minimum and maximum elements of all subarrays of size “k”.
+no similar question found
+
+related:
+#ER 209. Minimum Size Subarray Sum
+Medium
+9.7K
+
+
+
+
 Minimum sum of squares of character counts in a given string after removing “k” characters.
+402. Remove K Digits
+Medium
+7.7K
+
+
+
+
+
 Queue based approach or first non-repeating character in a stream.
+no similar question found 
+
+387. First Unique Character in a String
+Easy
+7.9K
+
+
+
+
+
 Next Smaller Element
+no similar question found 
