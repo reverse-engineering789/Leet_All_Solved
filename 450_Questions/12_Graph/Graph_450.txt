@@ -226,7 +226,12 @@ no similar question found
 
 
 Graph ColouringProblem
+no similar question found 
 
+LEAST related:
+#ER 1857. Largest Color Value in a Directed Graph
+Hard
+1.9K
 
 
 
@@ -236,10 +241,36 @@ Graph ColouringProblem
 
 
 Snake and Ladders Problem
-Find bridge in a graph
-Count Strongly connected Components(Kosaraju Algo)
-Check whether a graph is Bipartite or Not
+above similar to bellow
+909. Snakes and Ladders
+Medium
+2.4K
 
+
+
+
+Find bridge in a graph
+1192. Critical Connections in a Network
+Hard
+5.6K
+
+
+
+
+
+Count Strongly connected Components(Kosaraju Algo)
+above similar to bellow
+2360. Longest Cycle in a Graph
+Hard
+2.1K
+
+
+
+
+Check whether a graph is Bipartite or Not
+785. Is Graph Bipartite?
+Medium
+7.3K
 
 
 
