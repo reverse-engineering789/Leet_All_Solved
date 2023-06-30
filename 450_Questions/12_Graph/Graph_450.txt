@@ -241,6 +241,11 @@ Medium
 
 
 
+
+
+
+
+
 Total no. of Spanning tree in a graph
 similar topic
 #ER 1584. Min Cost to Connect All Points
@@ -256,9 +261,38 @@ Medium
 Implement Bellman Ford Algorithm
 no similar question found 
 
+related:
+787. Cheapest Flights Within K Stops
+Medium
+8.2K
+
+743. Network Delay Time
+Medium
+6.5K
+
+
+
+
+
+
 
 Implement Floyd warshallAlgorithm
 no similar question found 
+
+related:
+743. Network Delay Time
+Medium
+6.5K
+
+1976. Number of Ways to Arrive at Destination
+Medium
+2.1K
+
+
+
+
+
+
 
 
 
@@ -266,6 +300,17 @@ no similar question found
 
 Travelling Salesman Problem
 no similar question found 
+
+related:
+847. Shortest Path Visiting All Nodes
+Hard
+3.3K
+
+943. Find the Shortest Superstring
+Hard
+1.3K
+
+
 
 
 
