@@ -1,8 +1,5 @@
 Create a Graph, print it
-no similar quesiton found
-
-related:
-133. Clone Graph
+#ER 133. Clone Graph
 Medium
 8.4K
 
@@ -12,17 +9,44 @@ Medium
 Implement BFS algorithm 
 no similar question found
 
+related:
+#ER 637. Average of Levels in Binary Tree
+Easy
+4.8K
+
+117. Populating Next Right Pointers in Each Node II
+Medium
+5.3K
+
+847. Shortest Path Visiting All Nodes
+Hard
+3.3K
+
+
 
 
 
 
 Implement DFS Algo 
-no similar question found
+no similar quwestion found
+related:
+1443. Minimum Time to Collect All Apples in a Tree
+Medium
+3.4K
+
+
+
 
 
 
 Detect Cycle in Directed Graph using BFS/DFS Algo 
 no similar question found
+related:
+207. Course Schedule
+Medium
+13.7K
+
+
 
 // -----------------------------------------------------
 
@@ -30,6 +54,10 @@ no similar question found
 
 Detect Cycle in UnDirected Graph using BFS/DFS Algo 
 no similar question found
+related:
+684. Redundant Connection
+Medium
+5.4K
 
 
 
@@ -101,7 +129,21 @@ Hard
 
 Dijkstra algo
 no similar question found
+ related:
 
+
+#ER 1514. Path with Maximum Probability
+Medium
+2.8K
+
+743. Network Delay Time
+Medium
+6.5K
+
+
+1631. Path With Minimum Effort
+Medium
+4.5K
 
 // -----------------------------------------------------
 
@@ -188,7 +230,13 @@ no similar question found
 
 Implement Prim’s Algorithm
 no similar question found
-
+related:
+#ER 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+Hard
+1.8K
+787. Cheapest Flights Within K Stops
+Medium
+8.2K
 
 
 
@@ -209,8 +257,6 @@ Implement Bellman Ford Algorithm
 no similar question found 
 
 
-
-
 Implement Floyd warshallAlgorithm
 no similar question found 
 
@@ -229,6 +275,14 @@ Graph ColouringProblem
 no similar question found 
 
 LEAST related:
+886. Possible Bipartition
+Medium
+4.4K
+
+785. Is Graph Bipartite?
+Medium
+7.3K
+
 #ER 1857. Largest Color Value in a Directed Graph
 Hard
 1.9K
@@ -264,6 +318,12 @@ above similar to bellow
 Hard
 2.1K
 
+1192. Critical Connections in a Network
+Hard
+5.6K
+
+
+
 
 
 
@@ -281,9 +341,34 @@ Medium
 
 
 Detect Negative cycle in a graph
+743. Network Delay Time
+Medium
+6.5K
+
+210. Course Schedule II
+Medium
+9.4K
+
+
+
+
 Longest path in a Directed Acyclic Graph
-Journey to the Moon
+1340. Jump Game V
+Hard
+993
+
+
+
++ Journey to the Moon
+no similar question found 
+
+
+
+
 Cheapest Flights Within K Stops
+787. Cheapest Flights Within K Stops
+Medium
+8.2K
 
 
 
@@ -293,11 +378,50 @@ Cheapest Flights Within K Stops
 
 
 
-Oliver and the Game
++ oliver and the game
+no similar question found 
+
+MAY BE similar 
+#ER 837. New 21 Game
+Medium
+1.9K
+
+
+
+
+
+
+
 Water Jug problem using BFS
-Water Jug problem using BFS
+365. Water and Jug Problem
+Medium
+1.2K
+
+
+
+
+
+
++ Water Jug problem using BFS
+365. Water and Jug Problem
+Medium
+1.2K
+
+
+
+
+
 Find if there is a path of more thank length from a source
+no similar question found
 
+ALMOST similar 
+1971. Find if Path Exists in Graph
+Easy
+3K
+
+#ER 797. All Paths From Source to Target
+Medium
+6.6K
 
 
 
@@ -306,11 +430,45 @@ Find if there is a path of more thank length from a source
 
 
 
-M-ColouringProblem
-Minimum edges to reverse o make path from source to destination
++ M-ColouringProblem
+no smilar question found
+
+ALMOST SIMILAR 
+1042. Flower Planting With No Adjacent
+Medium
+1.2K
+
+
+
+
+
++ Minimum edges to reverse to make path from source to destination
+no similar question found
+related:
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+Hard
+1.6K
+
+#ER 1557. Minimum Number of Vertices to Reach All Nodes
+Medium
+3.4K
+
+
+
+
+
 Paths to travel each nodes using each edge(Seven Bridges)
-Vertex Cover Problem
+332. Reconstruct Itinerary
+Hard
+4.7K
 
+
+
+
+Vertex Cover Problem
+968. Binary Tree Cameras
+Hard
+4.9K
 
 
 
@@ -319,27 +477,30 @@ Vertex Cover Problem
 
 
 
-Chinese Postman or Route Inspection
++ Chinese Postman or Route Inspection
 no similar question found 
 
 
 
 
 
-Number of Triangles in a Directed and Undirected Graph
++ Number of Triangles in a Directed and Undirected Graph
 no similar question found 
 
 
 
 
-Minimise the cashflow among a given set of friends who have borrowed money from each other
++ minimise the cashflow among a given set of friends who have borrowed money from each other 
 no similar question found 
 
 
 
 
 Two Clique Problem
-no similar question found
+1453. Maximum Number of Darts Inside of a Circular Dartboard
+Hard
+134
+
 
 
 
