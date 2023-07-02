@@ -84,6 +84,10 @@ Medium
 Minimum Step by Knight
 Minimum Knight Moves - Leetcode Premium
 
+MAY BE related:
+688. Knight Probability in Chessboard
+Medium
+2.5K
 
 
 
@@ -169,7 +173,7 @@ Medium
 
 
 
-Minimum time taken by each job to be completed given by a Directed Acyclic Graph
++ Minimum time taken by each job to be completed given by a Directed Acyclic Graph
 no similar question found
 
 
@@ -221,7 +225,10 @@ Easy
 
 
 Implement Kruksal’sAlgorithm
-no similar question found 
+#ER 1584. Min Cost to Connect All Points
+Medium
+3.7K
+
 
 
 
