@@ -215,7 +215,13 @@ Maximum subsequence sum such that no three are consecutive
 
 
 Egg Dropping Problem
+887. Super Egg Drop
+Hard
+3.3K
 
+1884. Egg Drop With 2 Eggs and N Floors
+Medium
+1.2K
 
 
 
@@ -232,8 +238,13 @@ Medium
 
 
 Maximum size square sub-matrix with all 1s
+221. Maximal Square
+Medium
+9.1K
 
-
+1277. Count Square Submatrices with All Ones
+Medium
+4.4K
 // -----------------------------------------------------
 
 
