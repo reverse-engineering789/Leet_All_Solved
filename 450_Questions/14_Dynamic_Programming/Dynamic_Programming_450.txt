@@ -1,51 +1,236 @@
 Coin ChangeProblem
-Knapsack Problem
-Binomial CoefficientProblem
-Permutation CoefficientProblem
-Program for nth Catalan Number
+#ER 322. Coin Change
+Medium
+16.6K
 
+
+
+
+
+Knapsack Problem
+494. Target Sum
+Medium
+9.6K
+
+474. Ones and Zeroes
+Medium
+5K
+
+
+
+
+
+Binomial CoefficientProblem
+#ER 62. Unique Paths
+Medium
+14.2K
+
+119. Pascal's Triangle II
+Easy
+3.9K
+
+
+
+
+
++ Permutation CoefficientProblem
+no similar question found
+
+
+
+
+
+Program for nth Catalan Number
+96. Unique Binary Search Trees
+Medium
+9.3K
 
 // -----------------------------------------------------
 
 
 
 Matrix Chain Multiplication 
-Edit Distance
-Subset Sum Problem
-Friends Pairing Problem
-Gold Mine Problem
+312. Burst Balloons
+Hard
+8K
 
+#ER 1130. Minimum Cost Tree From Leaf Values
+Medium
+3.9K
+
+
+
+
+Edit Distance
+72. Edit Distance
+Medium
+12.9K
+
+
+
+
+Subset Sum Problem
+#ER 416. Partition Equal Subset Sum
+Medium
+10.8K
+
+
+
+
+Friends Pairing Problem
+1583. Count Unhappy Friends
+Medium
+251
+
+
+
+Gold Mine Problem
+1219. Path with Maximum Gold
+Medium
+2.5K
 
 // -----------------------------------------------------
 
 
 
 Assembly Line SchedulingProblem
-Painting the Fenceproblem
-Maximize The Cut Segments
-Longest Common Subsequence
-Longest Repeated Subsequence
+#ER 39. Combination Sum
+Medium
+16.5K
 
+
+
+
+Painting the Fenceproblem
+Paint Fence - Leetcode Premiunm
+
+
+
+
+
+Maximize The Cut Segments
+1547. Minimum Cost to Cut a Stick
+Hard
+3.6K
+
+239. Sliding Window Maximum
+Hard
+14.9K
+
+
+
+
+
+Longest Common Subsequence
+#ER 1143. Longest Common Subsequence
+Medium
+11.3K
+
+
+
+
+
+Longest Repeated Subsequence
+2014. Longest Subsequence Repeated k Times
+Hard
+371
 
 // -----------------------------------------------------
 
 
 
 Longest Increasing Subsequence
-Space Optimized Solution of LCS
-LCS (Longest Common Subsequence) of three strings
-Maximum Sum Increasing Subsequence
-Count all subsequences having product less than K
+300. Longest Increasing Subsequence
+Medium
+17.7K
 
+673. Number of Longest Increasing Subsequence
+Medium
+5K
+
+674. Longest Continuous Increasing Subsequence
+Easy
+2.2K
+
+
+
+
+
+
+
+Space Optimized Solution of LCS
+1143. Longest Common Subsequence
+Medium
+11.3K
+
+583. Delete Operation for Two Strings
+Medium
+5.2K
+
+
+
+
+
+LCS (Longest Common Subsequence) of three strings
+no similar question found
+
+
+
+
+
+
+
+Maximum Sum Increasing Subsequence
+1626. Best Team With No Conflicts
+Medium
+2.7K
+
+
+
+
+Count all subsequences having product less than K
+713. Subarray Product Less Than K
+Medium
+5.5K
 
 // -----------------------------------------------------
 
 
 
-Longest subsequence such that difference between adjacent is one
+#ER Longest subsequence such that difference between adjacent is one
+1218. Longest Arithmetic Subsequence of Given Difference
+Medium
+1.5K
+
+
+
+
+
 Maximum subsequence sum such that no three are consecutive
+
+
+
+
+
+
+
 Egg Dropping Problem
+
+
+
+
+
+
 Maximum Length Chain of Pairs
+646. Maximum Length of Pair Chain
+Medium
+3.1K
+
+
+
+
+
+
 Maximum size square sub-matrix with all 1s
 
 
@@ -79,18 +264,93 @@ Smallest sum contiguous subarray
 Unbounded Knapsack (Repetition of items allowed)
 Word Break Problem
 Largest Independent Set Problem
+198. House Robber
+Medium
+18.2K
+
+213. House Robber II
+Medium
+8.6K
+
+337. House Robber III
+Medium
+7.8K
+
+not related but Imp (25K)
+11. Container With Most Water
+Medium
+25K
+
+
+
+
 Partition problem
+#ER 416. Partition Equal Subset Sum
+Medium
+10.8K
+
+698. Partition to K Equal Sum Subsets
+Medium
+6.5K
+
+
 
 
 // -----------------------------------------------------
 
+Longest Palindromic Substring
+5. Longest Palindromic Substring
+Medium
+25.8K
+
+
+
+
 
 
 Longest Palindromic Subsequence
+#ER 516. Longest Palindromic Subsequence
+Medium
+8.5K
+
+
+
 Count All Palindromic Subsequence in a given String
+2484. Count Palindromic Subsequences
+Hard
+340
+
+
+
+
 Longest Palindromic Substring
+5. Longest Palindromic Substring
+Medium
+25.8K
+
+
+
+
+
 Longest alternating subsequence
+376. Wiggle Subsequence
+Medium
+4.8K
+
+
+
+1911. Maximum Alternating Subsequence Sum
+Medium
+995
+
+
+
+
+
 Weighted Job Scheduling
+1235. Maximum Profit in Job Scheduling
+Hard
+5.1K
 
 
 // -----------------------------------------------------
@@ -109,18 +369,131 @@ Optimal Binary Search Tree
 
 
 Palindrome PartitioningProblem
-Word Wrap Problem
-Mobile Numeric Keypad Problem [ IMP ]
-Boolean Parenthesization Problem
-Largest rectangular sub-matrix whose sum is 0
+#ER 131. Palindrome Partitioning
+Medium
+11K
 
+132. Palindrome Partitioning II
+Hard
+4.8K
+
+1745. Palindrome Partitioning IV
+Hard
+816
+
+
+
+
+Word Wrap Problem
+#ER 139. Word Break
+Medium
+14.4K
+
+68. Text Justification
+Hard
+2.4K
+
+
+
+
+Mobile Numeric Keypad Problem [ IMP ]
+#ER 17. Letter Combinations of a Phone Number
+Medium
+15.5K
+
+
+
+
+Boolean Parenthesization Problem
+1106. Parsing A Boolean Expression
+Hard
+952
+
+
+
+
+
+
+Largest rectangular sub-matrix whose sum is 0
+363. Max Sum of Rectangle No Larger Than K
+Hard
+3.3K
 
 // -----------------------------------------------------
 
 
 
 Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
+#ER 85. Maximal Rectangle
+Hard
+8.8K
+
+
+
+
+
+
+
 Maximum sum rectangle in a 2D matrix
+363. Max Sum of Rectangle No Larger Than K
+Hard
+3.3K
+
+
+
+
+
+
+
+
 Maximum profit by buying and selling a share at most k times
+#ER 121. Best Time to Buy and Sell Stock
+Easy
+26.3K
+
+#ER 122. Best Time to Buy and Sell Stock II
+Medium
+11.6K
+
+#ER 123. Best Time to Buy and Sell Stock III
+Hard
+8.5K
+
+#ER 188. Best Time to Buy and Sell Stock IV
+Hard
+6.6K
+
+
+
+
+
+
 Find if a string is interleaved of two other strings
+97. Interleaving String
+Medium
+6.5K
+
+
+
+
+
+
 Maximum Length of Pair Chain
+646. Maximum Length of Pair Chain
+Medium
+3.1K
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+409. Longest Palindrome
+Easy
+4.8K
+
+
+
+730. Count Different Palindromic Subsequences
+Hard
+1.7K
