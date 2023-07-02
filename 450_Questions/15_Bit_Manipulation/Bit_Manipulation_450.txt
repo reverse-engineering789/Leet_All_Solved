@@ -1,13 +1,144 @@
 Count set bits in an integer
+#ER 338. Counting Bits
+Easy
+9K
+
+191. Number of 1 Bits
+Easy
+5.5K
+
+
+
+
+
 Find the two non-repeating elements in an array of repeating elements
+137. Single Number II
+Medium
+5.7K
+
+260. Single Number III
+Medium
+5K
+
+
+
+
+
 Count number of bits to be flipped to convert A to B
+2220. Minimum Bit Flips to Convert Number
+Easy
+609
+
+
+
+
+
 Count total set bits in all numbers from 1 to n
+338. Counting Bits
+Easy
+9K
+
+191. Number of 1 Bits
+Easy
+5.5K
+
+
+
+
+
+
 Program to find whether a no is power of two
+231. Power of Two
+Easy
+5.5K
 
 //------------------------------------------------------------------------------------
 
+
+
+
+
 Find position of the only set bit
+no similar qestion found
+
+MAY be related:
+260. Single Number III
+Medium
+5K
+
+
+
+
+
+
 Copy set bits in a range
+MAY be SIMILAR
+201. Bitwise AND of Numbers Range
+Medium
+2.9K
+
+
+
+
+
 Divide two integers without using multiplication, division and mod operator
+29. Divide Two Integers
+Medium
+4.4K
+
+
+
+
+
+
 Calculate square of a number without using *, / and pow()
+no similar qestion found
+
+related:
+279. Perfect Squares
+Medium
+9.6K
+
+
+
+
+
 Power Set
+#ER 78. Subsets
+Medium
+14.9K
+
+90. Subsets II
+Medium
+8.4K
+
+
+imp qns
+67. Add Binary
+Easy
+8.2K
+
+
+260. Single Number III
+Medium
+5K
+
+421. Maximum XOR of Two Numbers in an Array
+Medium
+5K
+
+
+29. Divide Two Integers
+Medium
+4.4K
+
+
+
+389. Find the Difference
+Easy
+4K
+
+
+342. Power of Four
+Easy
+3.1K
