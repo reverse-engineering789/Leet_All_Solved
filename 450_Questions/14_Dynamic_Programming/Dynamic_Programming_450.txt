@@ -207,7 +207,9 @@ Medium
 
 
 Maximum subsequence sum such that no three are consecutive
-
+1425. Constrained Subsequence Sum
+Hard
+1.1K
 
 
 
@@ -245,35 +247,175 @@ Medium
 1277. Count Square Submatrices with All Ones
 Medium
 4.4K
+
+
 // -----------------------------------------------------
 
 
 
 Maximum sum of pairs with specific difference
-Min Cost PathProblem
-Maximum difference of zeros and ones in binary string
-Minimum number of jumps to reach end
-Minimum cost to fill given weight in a bag
+#ER 532. K-diff Pairs in an Array
+Medium
+3.4K
 
+
+
+
+
+Min Cost PathProblem
+64. Minimum Path Sum
+Medium
+11.1K
+
+
+
+
+
+
+Maximum difference of zeros and ones in binary string
+474. Ones and Zeroes
+Medium
+5K
+
+
+
+
+
+
+Minimum number of jumps to reach end
+#ER 55. Jump Game
+Medium
+16.6K
+
+#ER 45. Jump Game II
+Medium
+12.6K
+
+
+
+
+
+
+
+
+
+Minimum cost to fill given weight in a bag
+#ER 983. Minimum Cost For Tickets
+Medium
+7.2K
+
+1760. Minimum Limit of Balls in a Bag
+Medium
+1.8K
 
 // -----------------------------------------------------
 
 
 
 Minimum removals from array to make max –min <= K
-Longest Common Substring
-Count number of ways to reacha given score in a game
-Count Balanced Binary Trees of Height h
-LargestSum Contiguous Subarray [V>V>V>V IMP ]
+2091. Removing Minimum and Maximum From Array
+Medium
+791
 
+1671. Minimum Number of Removals to Make Mountain Array
+Hard
+1.3K
+
+
+
+
+
+
+
+Longest Common Substring
+718. Maximum Length of Repeated Subarray
+Medium
+6.3K
+
+1143. Longest Common Subsequence
+Medium
+11.3K
+
+
+
+
+
+
+
+
+Count number of ways to reacha given score in a game
+2139. Minimum Moves to Reach Target Score
+Medium
+844
+
+
+
+
+
+
+
+Count Balanced Binary Trees of Height h
+110. Balanced Binary Tree
+Easy
+9.3K
+
+
+
+
+
+
+LargestSum Contiguous Subarray [V>V>V>V IMP ]
+#ER 53. Maximum Subarray
+Medium
+30.4K
+
+#ER 523. Continuous Subarray Sum
+Medium
+4.9K
 
 // -----------------------------------------------------
 
 
 
 Smallest sum contiguous subarray
+#ER 209. Minimum Size Subarray Sum
+Medium
+9.7K
+
+907. Sum of Subarray Minimums
+Medium
+6.3K
+
+
+
+
+
+
+
 Unbounded Knapsack (Repetition of items allowed)
 Word Break Problem
+#ER 139. Word Break
+Medium
+14.4K
+
+140. Word Break II
+Hard
+6.2K
+
+472. Concatenated Words
+Hard
+3.6K
+
+
+
+
+
+
+
+
+
+
+
 Largest Independent Set Problem
 198. House Robber
 Medium
@@ -291,6 +433,12 @@ not related but Imp (25K)
 11. Container With Most Water
 Medium
 25K
+
+
+
+
+
+
 
 
 
@@ -369,11 +517,57 @@ Hard
 
 
 Coin game winner where every player has three choices
-Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
-Maximum profit by buying and selling a share at most twice [ IMP ]
-Optimal Strategy for a Game
-Optimal Binary Search Tree
+486. Predict the Winner
+Medium
+4K
 
+
+
+
+
+Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
+no similar question found
+
+
+
+
+
+
+Maximum profit by buying and selling a share at most twice [ IMP ]
+121. Best Time to Buy and Sell Stock
+Easy
+26.4K
+
+122. Best Time to Buy and Sell Stock II
+Medium
+11.6K
+
+123. Best Time to Buy and Sell Stock III
+Hard
+8.5K
+
+188. Best Time to Buy and Sell Stock IV
+Hard
+6.6K
+
+
+
+
+
+
+Optimal Strategy for a Game
+486. Predict the Winner
+Medium
+4K
+
+
+
+
+
+Optimal Binary Search Tree
+#ER 96. Unique Binary Search Trees
+Medium
+9.3K
 
 // -----------------------------------------------------
 
@@ -395,6 +589,11 @@ Hard
 
 
 
+
+
+
+
+
 Word Wrap Problem
 #ER 139. Word Break
 Medium
@@ -407,10 +606,20 @@ Hard
 
 
 
+
+
+
+
+
 Mobile Numeric Keypad Problem [ IMP ]
 #ER 17. Letter Combinations of a Phone Number
 Medium
 15.5K
+
+
+
+
+
 
 
 
