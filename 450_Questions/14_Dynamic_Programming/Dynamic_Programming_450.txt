@@ -705,10 +705,6 @@ Medium
 
 
 //////////////////////////////////////////////////////////////////////////////
-Leetcode D C
-435. Non-overlapping Intervals
-Medium
-7.1K
 
 409. Longest Palindrome
 Easy
