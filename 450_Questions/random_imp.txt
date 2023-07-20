@@ -105,10 +105,18 @@ Medium
 
 
 LeetCode D C
+735. Asteroid Collision
+Medium
+6.5K 
+Array Stack Simulation
+
+
+
+LeetCode D C
 714. Best Time to Buy and Sell Stock with Transaction Fee
 Medium
 6.4K
-
+ 
 
 
 
@@ -117,7 +125,6 @@ Medium
 Medium
 6.2K
 Array Binary Search Sliding Window Prefix Sum
-
 
 
 
