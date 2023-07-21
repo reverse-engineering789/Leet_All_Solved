@@ -143,6 +143,15 @@ Medium
 
 
 LeetCode D C
+673. Number of Longest Increasing Subsequence
+Medium
+5.9K
+Array    Dynamic Programming    Binary Indexed Tree    Segment Tree
+
+
+
+
+LeetCode D C
 59. Spiral Matrix II
 Medium
 5.5K
