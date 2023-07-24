@@ -251,6 +251,12 @@ Medium
 4.5K
 
 
+
+Leetcode D C 
+894. All Possible Full Binary Trees
+Medium
+4.4K
+
 Leetcode D C
 1721. Swapping Nodes in a Linked List
 Medium
@@ -392,6 +398,13 @@ Leetcode D C
 1161. Maximum Level Sum of a Binary Tree
 Medium
 3.1K
+
+
+Leetcode D C 
+576. Out of Boundary Paths
+Medium
+3.1K
+
 
 
 
