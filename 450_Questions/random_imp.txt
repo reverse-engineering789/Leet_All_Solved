@@ -53,6 +53,13 @@ Union Find   Graph
 
 
 
+LeetCode D C
+50. Pow(x, n)
+Medium
+8.2K
+Math Recursion
+
+
 
 133. Clone Graph
 Medium
@@ -404,6 +411,7 @@ Leetcode D C
 576. Out of Boundary Paths
 Medium
 3.1K
+Dynamic Programming
 
 
 
