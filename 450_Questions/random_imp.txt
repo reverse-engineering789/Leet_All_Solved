@@ -172,6 +172,15 @@ Easy
 Tree Depth-First Search Binary Search Tree Binary Tree
 
 
+
+LeetCode D C
+852. Peak Index in a Mountain Array
+Medium
+5.7K
+
+
+
+
 LeetCode D C
 1046. Last Stone Weight
 Easy
