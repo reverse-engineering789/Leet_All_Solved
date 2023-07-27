@@ -158,11 +158,15 @@ Array    Dynamic Programming    Binary Indexed Tree    Segment Tree
 
 
 
+
 LeetCode D C
 59. Spiral Matrix II
 Medium
 5.5K
 Array Matrix Simulation
+
+
+
 
 
 LeetCode D C
@@ -177,6 +181,7 @@ LeetCode D C
 852. Peak Index in a Mountain Array
 Medium
 5.7K
+Array    Binary Search
 
 
 
@@ -761,10 +766,29 @@ Hard
 
 
 
+
+Leetcode D C 
+1870. Minimum Speed to Arrive on Time
+Medium
+1.1K
+Array   Binary Search
+
+
+
+
+Leetcode D C 
+2141. Maximum Running Time of N Computers
+Hard
+978
+Array   Binary Search   Greedy   Sorting
+
+
+
 Leetcode D C 
 2405. Optimal Partition of String
 Medium
 935
+
 
 
 
