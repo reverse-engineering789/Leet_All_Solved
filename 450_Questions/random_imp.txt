@@ -744,10 +744,14 @@ Hard
 Union Find Graph
 
 
+
+
 Leetcode D C 
 2439. Minimize Maximum of Array
 Medium
 1.9K
+
+
 
 
 Leetcode D C 
