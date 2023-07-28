@@ -278,6 +278,14 @@ Leetcode D C
 Medium
 4.4K
 
+
+Leetcode D C 
+486. Predict the Winner
+Medium
+4.3K
+
+
+
 Leetcode D C
 1721. Swapping Nodes in a Linked List
 Medium
