@@ -118,6 +118,16 @@ Medium
 7.1K
 Array   Dynamic Programming   Greedy Sorting
 
+
+
+LeetCode D C
+77. Combinations
+Medium
+6.6K
+Backtracking
+
+
+
 LeetCode D C
 735. Asteroid Collision
 Medium
@@ -367,6 +377,12 @@ Leetcode D C
 Medium
 3.4K
 
+
+
+712. Minimum ASCII Delete Sum for Two Strings
+Medium
+3.4K
+String   Dynamic Programming  
 
 
 
@@ -813,9 +829,19 @@ Array Binary Search Binary Indexed Tree
 
 
 
+Leetcode D C 
+808. Soup Servings
+Medium
+817
+Math    Dynamic Programming      Probability and Statistic 
+
+
+
+  
 2404. Most Frequent Even Element
 Easy
 566
+
 
 
 Leetcode D C 
