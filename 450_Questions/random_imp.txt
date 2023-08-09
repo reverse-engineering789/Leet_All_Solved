@@ -848,10 +848,11 @@ Math    Dynamic Programming      Probability and Statistic
 
 
 
-  
-2404. Most Frequent Even Element
-Easy
-566
+Leetcode D C 
+2616. Minimize the Maximum Difference of Pairs
+Medium
+670
+
 
 
 
@@ -859,4 +860,13 @@ Leetcode D C
 1639. Number of Ways to Form a Target String Given a Dictionary
 Hard
 653
+
+
+2404. Most Frequent Even Element
+Easy
+566
+
+
+
+
 
