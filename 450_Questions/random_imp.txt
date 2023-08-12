@@ -96,6 +96,13 @@ Find Graph Shortest Pat
 
 
 
+Leetcode D C
+63. Unique Paths II
+Medium
+7.5K
+Array   Dynamic Programming   Matrix
+
+
 
 LeetCode D C 
 133. Clone Graph
@@ -117,6 +124,15 @@ Leetcode D C
 Medium
 7.1K
 Array   Dynamic Programming   Greedy Sorting
+
+
+
+
+Leetcode D C
+81. Search in Rotated Sorted Array II
+Medium
+6.9K
+
 
 
 
