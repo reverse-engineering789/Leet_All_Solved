@@ -7,6 +7,9 @@ Medium
 215. Kth Largest Element in an Array
 Medium
 15K
+Array      Divide and Conquer      Sorting      
+Heap (Priority Queue)      Quickselect
+
 
 
 
@@ -187,6 +190,16 @@ LeetCode D C
 #LATER 983. Minimum Cost For Tickets
 Medium
 6K
+
+
+
+LeetCode D C
+86. Partition List
+Medium
+6K
+Linked List      Two Pointers
+
+
 
 
 
