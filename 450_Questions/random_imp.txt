@@ -193,7 +193,7 @@ Medium
 
 
 
-LeetCode D C
+LeetCode D C                                                                     
 86. Partition List
 Medium
 6K
@@ -692,6 +692,11 @@ Easy
 
 
 
+Leetcode D C 
+1615. Maximal Network Rank
+Medium
+1.4K
+Graph
 
 
 Leetcode D C 
