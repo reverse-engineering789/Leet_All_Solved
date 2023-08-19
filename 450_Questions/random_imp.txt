@@ -743,8 +743,6 @@ Medium
 
 
 
-
-
 191. Number of 1 Bits
 Easy
 5.1K
@@ -851,6 +849,15 @@ Medium
 1.1K
 Array   Binary Search
 
+
+
+
+Leetcode D C 
+1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+Hard
+1K
+Union Find    Graph     Sorting      
+Minimum Spanning Tree     Strongly Connected Component
 
 
 
