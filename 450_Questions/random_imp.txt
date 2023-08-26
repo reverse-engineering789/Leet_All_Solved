@@ -498,13 +498,21 @@ Medium
 3.2K
 
 
+
+Leetcode D C
+646. Maximum Length of Pair Chain
+Medium
+3.2K
+Array     Dynamic Programming     Greedy     Sorting
+
+
+
 Leetcode D C
 1498. Number of Subsequences That Satisfy the Given Sum Condition
 Medium
 3.1K 
-Array Two Pointers Binary Search Sorting
-
-
+Array    Two Pointers       Binary Search  
+sorting 
 
 
 
