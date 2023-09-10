@@ -27,6 +27,16 @@ Easy
 
 
 
+Leet D C
+118. Pascal's Triangle
+Easy
+11.4K
+Array     Dynamic Programming
+
+
+
+
+
 64. Minimum Path Sum
 Medium
 10.1K
@@ -379,6 +389,14 @@ Easy
 Math   String
 
 
+Leetcode D C
+403. Frog Jump
+Hard
+4.1K
+Array     Dynamic Programming
+
+
+
 
 
 
@@ -527,7 +545,7 @@ Leetcode D C
 Medium
 3.1K
 Dynamic Programming
-
+ 
 
 
 
@@ -541,6 +559,22 @@ Hard
 1020. Number of Enclaves
 Medium
 2.6K
+
+
+
+Leetcode D C 
+1326. Minimum Number of Taps to Open to Water a Garden
+Hard
+2.6K
+Array    Dynamic Programming     Greedy
+
+
+
+Leetcode D C 
+725. Split Linked List in Parts
+Medium
+2.6K
+Linked List
 
 
 
@@ -569,7 +603,6 @@ Easy
 
 
 
-
 Leetcode D C 
 1035. Uncrossed Lines
 Medium
@@ -590,6 +623,16 @@ Leetcode D C
 1732. Find the Highest Altitude
 Easy
 2.3K
+
+
+
+
+
+Leetcode D C 
+1359. Count All Valid Pickup and Delivery Options
+Hard
+2.3K
+Math        Dynamic Programming        Combinatorics
 
 
 
@@ -733,6 +776,17 @@ Depth-First Search       Breadth-First Search       Graph
 Topological Sort
 
 
+
+Leetcode D C 
+2483. Minimum Penalty for a Shop
+Medium
+1.5K
+String      Prefix Sum
+
+
+
+
+
 Leetcode D C 
 1615. Maximal Network Rank
 Medium
@@ -758,6 +812,18 @@ Hard
 1.4K
 Array Math Dynamic Programming Backtracking Bit 
 Manipulation Number Theory Bitmask
+
+
+
+
+
+Leetcode D C
+2707. Extra Characters in a String
+Medium
+1.4K
+Array
+Hash Table        String        Dynamic Programming        
+Trie
 
 
 
