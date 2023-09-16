@@ -289,7 +289,6 @@ Medium
 
 
 
-
 721. Accounts Merge
 Medium
 5.4K
@@ -297,6 +296,32 @@ Medium
 
 
 Max Consecutive Ones II - LeetCode premium 
+
+
+
+
+
+Leetcode D C
+332. Reconstruct Itinerary
+Hard
+5.3K
+Depth-First Search     Graph     Eulerian Circuit
+
+
+
+
+
+
+Leetcode D C
+1631. Path With Minimum Effort
+Medium
+5K
+Array
+Binary Search           Depth-First Search           
+Breadth-First Search           Union Find           
+Heap (Priority Queue)           Matrix
+
+
 
 
 
@@ -394,6 +419,18 @@ Leetcode D C
 Hard
 4.1K
 Array     Dynamic Programming
+
+
+
+
+
+
+Leetcode D C
+1647. Minimum Deletions to Make Character Frequencies Unique
+Medium
+4K
+Hash Table       String        Greedy     
+Sorting
 
 
 
@@ -713,6 +750,14 @@ Leetcode D C
 Hard
 1.9K
 
+
+
+
+Leetcode D C 
+1282. Group the People Given the Group Size They Belong To
+Medium
+1.9K
+Math        Dynamic Programming       Combinatorics
 
 
 
