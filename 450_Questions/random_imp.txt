@@ -501,6 +501,19 @@ Breadth-First Search        Graph        Bitmask
 
 
 
+
+Leetcode D C
+1337. The K Weakest Rows in a Matrix
+Easy
+3.5K
+Array
+Binary Search          Sorting          
+Heap (Priority Queue)          Matrix
+
+
+
+
+
 Leetcode D C
 705. Design HashSet
 Easy
