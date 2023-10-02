@@ -1,3 +1,10 @@
+
+3. Longest Substring Without Repeating Characters
+Medium
+32.8K
+
+
+
 46. Permutations
 Medium
 15.3K
@@ -40,6 +47,19 @@ Array     Dynamic Programming
 64. Minimum Path Sum
 Medium
 10.1K
+
+
+
+
+LeetCode D C
+392. Is Subsequence
+Easy
+8.4K
+Two Pointers        String
+Dynamic Programming
+
+
+
 
 
 
@@ -132,9 +152,18 @@ Medium
 
 
 
-3. Longest Substring Without Repeating Characters
+
+
+
+
+Leetcode D C
+316. Remove Duplicate Letters
 Medium
-32.8K
+7.6K
+String         Stack         Greedy        
+Monotonic Stack
+
+
 
 
 Leetcode D C
@@ -142,6 +171,8 @@ Leetcode D C
 Medium
 7.1K
 Array   Dynamic Programming   Greedy Sorting
+
+
 
 
 
@@ -195,11 +226,34 @@ Medium
 
 
 
+LeetCode D C
+1048. Longest String Chain
+Medium
+6.4K
+Array
+Hash Table     Two Pointers     String    
+Dynamic Programming
+
+
+
+
+LeetCode D C 
+456. 132 Pattern
+Medium
+6.4K
+Array          Binary Search          Stack          
+Monotonic Stack          Ordered Set
+
+
+
 
 1004. Max Consecutive Ones III
 Medium
 6.2K
 Array Binary Search Sliding Window Prefix Sum
+
+
+
 
 
 
@@ -311,6 +365,26 @@ Depth-First Search     Graph     Eulerian Circuit
 
 
 
+Leet D C
+557. Reverse Words in a String III
+Easy
+5.2K
+Two Pointers       String
+
+
+
+
+
+
+
+
+Leetcode D C
+905. Sort Array By Parity
+Easy
+5.1K
+Array        Two Pointers      Sorting
+
+
 
 Leetcode D C
 1631. Path With Minimum Effort
@@ -337,6 +411,16 @@ Leetcode D C
 703. Kth Largest Element in a Stream
 Easy
 4.6K
+
+
+
+Leetcode D C
+389. Find the Difference
+Easy
+4.5K
+Hash Table       String
+Bit Manipulation        Sorting
+
 
 
 
@@ -383,6 +467,18 @@ Leetcode D C
 894. All Possible Full Binary Trees
 Medium
 4.4K
+
+
+
+
+Leetcode D C 
+1658. Minimum Operations to Reduce X to Zero
+Medium
+4.4K
+Array
+Hash Table        Binary Search        Sliding Window
+Prefix Sum
+
 
 
 Leetcode D C 
@@ -531,6 +627,7 @@ Medium
 
 
 
+
 712. Minimum ASCII Delete Sum for Two Strings
 Medium
 3.4K
@@ -666,6 +763,13 @@ Easy
 2.4K
 
 
+Leetcode D C 
+896. Monotonic Array
+Easy
+2.4K
+Array
+
+
 
 
 Leetcode D C 
@@ -721,6 +825,18 @@ Medium
 2246. Longest Path With Different Adjacent Characters
 Hard
 2.2K
+
+
+
+
+Leetcode D C
+880. Decoded String at Index
+Medium
+2.2K
+String     Stack
+
+
+
 
 
 
@@ -1038,6 +1154,23 @@ Hard
 1K
 Union Find    Graph     Sorting      
 Minimum Spanning Tree     Strongly Connected Component
+
+
+
+
+
+
+
+
+Leetcode D C 
+2038. Remove Colored Pieces if Both Neighbors are the Same Color
+Medium
+1K
+Math             String             Greedy             
+Game Theory
+
+
+
 
 
 
