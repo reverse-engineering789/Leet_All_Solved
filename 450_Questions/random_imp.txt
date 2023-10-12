@@ -76,6 +76,18 @@ Easy
 
 
 
+
+
+LeetCode D C
+229. Majority Element II
+Medium
+8.6K
+Array          Hash Table          Sorting         
+Counting
+
+
+
+
 242. Valid Anagram
 Easy
 8.5K
@@ -463,6 +475,21 @@ String      String Matching
 
 
 
+
+
+Leetcode D C 
+706. Design HashMap
+Easy
+4.6K
+Array         Hash Table         Linked List         
+Design         Hash Function
+
+
+
+
+
+
+
 Leetcode D C 
 894. All Possible Full Binary Trees
 Medium
@@ -516,6 +543,15 @@ Hard
 4.1K
 Array     Dynamic Programming
 
+
+
+
+
+Leetcode D C
+343. Integer Break
+Medium
+4.1K
+Math           Dynamic Programming
 
 
 
@@ -737,6 +773,18 @@ Leetcode D C
 Medium
 2.6K
 Linked List
+
+
+
+
+
+Leetcode D C
+1095. Find in Mountain Array
+Hard
+2.6K
+Array          Binary Search          Interactive
+
+
 
 
 
@@ -1130,6 +1178,30 @@ Array Sorting
 
 
 
+
+
+
+Leetcode D C 
+2009. Minimum Number of Operations to Make Array Continuous
+Hard
+1.3K
+Array       Binary Search
+
+
+
+
+
+
+Leetcode D C 
+1458. Max Dot Product of Two Subsequences
+Hard
+1.2K
+Array     Dynamic Programming
+
+
+
+
+
 Leetcode D C 
 1575. Count All Possible Routes
 Hard
@@ -1144,6 +1216,20 @@ Leetcode D C
 Medium
 1.1K
 Array   Binary Search
+
+
+
+
+
+Leetcode D C 
+2251. Number of Flowers in Full Bloom
+Hard
+1.1K
+Array
+Hash Table        Binary Search        Sorting        
+Prefix Sum        Ordered Set
+
+
 
 
 
@@ -1186,6 +1272,18 @@ Leetcode D C
 2405. Optimal Partition of String
 Medium
 935
+
+
+
+
+
+Leetcode D C 
+1420. Build Array Where You Can Find The Maximum Exactly K Comparisons
+Hard
+923
+Dynamic Programming       Prefix Sum
+
+
 
 
 
