@@ -188,6 +188,14 @@ Array   Dynamic Programming   Greedy Sorting
 
 
 
+844. Backspace String Compare
+Easy
+7K
+Two Pointers          String          
+Stack          Simulation
+
+
+
 
 Leetcode D C
 81. Search in Rotated Sorted Array II
@@ -437,6 +445,14 @@ Bit Manipulation        Sorting
 
 
 
+341. Flatten Nested List Iterator
+Medium
+4.5K
+Stack          Tree          Depth-First Search          
+Design          Queue          Iterator
+
+
+
 
 190. Reverse Bits
 Easy
@@ -647,6 +663,18 @@ Heap (Priority Queue)          Matrix
 
 
 Leetcode D C
+342. Power of Four
+Easy
+3.5K      
+Math      Bit Manipulation      Recursion
+
+
+
+
+
+
+
+Leetcode D C
 705. Design HashSet
 Easy
 3.4K
@@ -696,6 +724,22 @@ Graph
 Easy
 3.1K
 Array
+
+
+
+
+
+
+
+779. K-th Symbol in Grammar
+Medium
+3.1K
+Math          Bit Manipulation          
+Recursion
+
+
+
+
 
 
 827. Making A Large Island
@@ -1024,6 +1068,21 @@ String      Prefix Sum
 
 
 
+
+Leetcode D C
+1425. Constrained Subsequence Sum
+Hard
+1.5K
+Array           Dynamic Programming             
+Queue             Sliding Window             
+Heap (Priority Queue)             Monotonic Queue
+
+
+
+
+
+
+
 Leetcode D C 
 1615. Maximal Network Rank
 Medium
@@ -1061,6 +1120,21 @@ Medium
 Array
 Hash Table        String        Dynamic Programming        
 Trie
+
+
+
+
+
+
+
+1793. Maximum Score of a Good Subarray
+Hard
+1.4K
+Array      Two Pointers
+Binary Search       Stack
+Monotonic Stack
+
+
 
 
 
@@ -1150,6 +1224,22 @@ Leetcode D C
 2542. Maximum Subsequence Score
 Medium
 1.6K
+
+
+
+
+
+Leetcode D C 
+1361. Validate Binary Tree Nodes
+Medium
+1.6K
+Tree                Depth-First Search                
+Breadth-First Search                Union Find                
+Graph                Binary Tree
+
+
+
+
 
 
 
@@ -1260,6 +1350,24 @@ Game Theory
 
 
 
+1269. Number of Ways to Stay in the Same Place After Some Steps
+Hard
+1K
+Dynamic Programming
+
+
+
+
+Leetcode D C
+2050. Parallel Courses III
+Hard
+995
+Array          Dynamic Programming
+Graph      Topological Sort
+
+
+
+
 Leetcode D C 
 2141. Maximum Running Time of N Computers
 Hard
@@ -1297,11 +1405,30 @@ Array Binary Search Binary Indexed Tree
 
 
 
+
+
+
+
+Leetcode D C 
+2742. Painting the Walls
+Hard
+822
+Array       Dynamic Programming
+
+
+
+
+
+
+
 Leetcode D C 
 808. Soup Servings
 Medium
 817
 Math    Dynamic Programming      Probability and Statistic 
+
+
+
 
 
 
