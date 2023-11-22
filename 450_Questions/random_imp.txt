@@ -5,6 +5,18 @@ Medium
 
 
 
+Leet D C
+5. Longest Palindromic Substring
+Medium
+27.8K
+String        Dynamic Programming
+
+
+
+
+
+
+
 46. Permutations
 Medium
 15.3K
@@ -624,6 +636,18 @@ Tree Depth-First Search Binary Tree
 
 
 
+815. Bus Routes
+Hard
+3.8K
+Array            Hash Table
+Breadth-First Search
+
+
+
+
+
+
+
 Leetcode D C
 1376. Time Needed to Inform All Employees
 Medium
@@ -719,6 +743,14 @@ Graph
 
 
 
+501. Find Mode in Binary Search Tree
+Easy
+3.3K
+
+
+
+
+
 
 1431. Kids With the Greatest Number of Candies
 Easy
@@ -767,12 +799,27 @@ Array     Dynamic Programming     Greedy     Sorting
 
 
 
+
+Leet D C
+1838. Frequency of the Most Frequent Element
+Medium
+3.2K
+Array         Binary Search         Greedy         
+Sliding Window         Sorting         Prefix Sum
+
+
+
+
+
+
 Leetcode D C
 1498. Number of Subsequences That Satisfy the Given Sum Condition
 Medium
 3.1K 
 Array    Two Pointers       Binary Search  
 sorting 
+
+
 
 
 
@@ -789,6 +836,27 @@ Medium
 Dynamic Programming
  
 
+
+
+
+
+Leetcode D C 
+823. Binary Trees With Factors
+Medium
+2.9K
+Array        Hash Table        
+Dynamic Programming        Sorting
+
+
+
+
+
+
+Leetcode D C
+1220. Count Vowels Permutation
+Hard
+2.9K
+Dynamic Programming
 
 
 
@@ -997,6 +1065,18 @@ Math        Dynamic Programming       Combinatorics
 
 
 
+
+Leetcode D C 
+458. Poor Pigs
+Hard
+1.7K
+3.3K
+Math             Dynamic Programming
+Combinatorics
+
+
+
+
 Leetcode D C 
 1822. Sign of the Product of an Array
 Easy
@@ -1137,6 +1217,15 @@ Monotonic Stack
 
 
 
+Leetcode D C 
+2265. Count Nodes Equal to Average of Subtree
+Medium
+1.4K
+Tree          Depth-First Search          
+Binary Tree
+
+
+
 
 
 
@@ -1150,7 +1239,7 @@ Leetcode D C
 319. Bulb Switcher
 Medium
 1.5K
-Math Brainteaser
+Math    Brainteaser
 
 
 
@@ -1272,11 +1361,29 @@ Array Sorting
 
 
 Leetcode D C 
+1877. Minimize Maximum Pair Sum in Array
+Medium
+1.4K
+Array      Two Pointers      
+Greedy      Sorting
+
+
+Leetcode D C 
 2009. Minimum Number of Operations to Make Array Continuous
 Hard
 1.3K
 Array       Binary Search
 
+
+
+
+
+Leetcode D C 
+1424. Diagonal Traverse II
+Medium
+1.3K
+Array                  Sorting
+Heap (Priority Queue)
 
 
 
@@ -1287,6 +1394,19 @@ Leetcode D C
 Hard
 1.2K
 Array     Dynamic Programming
+
+
+
+
+
+
+
+1814. Count Nice Pairs in an Array
+Medium
+1.2K
+Array       Hash Table           Math        Counting
+
+
 
 
 
@@ -1320,6 +1440,13 @@ Hash Table        Binary Search        Sorting
 Prefix Sum        Ordered Set
 
 
+
+
+
+1743. Restore the Array From Adjacent Pairs
+Medium
+1.1K
+Array        Hash Table
 
 
 
@@ -1368,6 +1495,7 @@ Graph      Topological Sort
 
 
 
+
 Leetcode D C 
 2141. Maximum Running Time of N Computers
 Hard
@@ -1383,6 +1511,14 @@ Medium
 
 
 
+Leetcode D C 
+1759. Count Number of Homogenous Substrings
+Medium
+924
+Math    String
+
+
+
 
 
 Leetcode D C 
@@ -1390,6 +1526,27 @@ Leetcode D C
 Hard
 923
 Dynamic Programming       Prefix Sum
+
+
+
+
+
+
+Leetcode D C 
+1887. Reduction Operations to Make the Array Elements Equal
+Medium
+921
+Array     Sorting
+
+
+
+
+
+Leet D C
+2391. Minimum Amount of Time to Collect Garbage
+Medium
+875
+Array      String     Prefix Sum
 
 
 
@@ -1432,10 +1589,50 @@ Math    Dynamic Programming      Probability and Statistic
 
 
 
+
+Leetcode D C 
+1845. Seat Reservation Manager
+Medium
+774
+Design        Heap (Priority Queue)
+
+
+
+
+
+
+
+
+
+Leetcode D C 
+2433. Find The Original Array of Prefix Xor
+Medium
+747
+Array     Bit Manipulation
+
+
+
+
+
+
+
+
+Leetcode D C 
+1921. Eliminate Maximum Number of Monsters
+Medium
+688
+Array        Greedy        Sorting
+
+
+
+
+
+
 Leetcode D C 
 2616. Minimize the Maximum Difference of Pairs
 Medium
 670
+
 
 
 
@@ -1453,4 +1650,27 @@ Easy
 
 
 
+
+2849. Determine if a Cell Is Reachable at a Given Time
+Medium
+435
+441
+
+
+
+
+2785. Sort Vowels in a String
+Medium
+344
+String    Sorting
+
+
+
+
+Leet D C
+2642. Design Graph With Shortest Path Calculator
+Hard
+306
+Graph           Design           
+Heap (Priority Queue)           Shortest Path
 
