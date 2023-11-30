@@ -306,6 +306,21 @@ Linked List      Two Pointers
 
 
 
+
+191. Number of 1 Bits
+Easy
+6K
+Divide and Conquer
+Bit Manipulation
+
+
+
+
+
+
+
+
+
 LeetCode D C
 673. Number of Longest Increasing Subsequence
 Medium
@@ -900,6 +915,16 @@ Array          Binary Search          Interactive
 
 
 
+Leetcode D C
+935. Knight Dialer
+Medium
+2.6K
+Dynamic Programming
+
+
+
+
+
 Leetcode D C 
 2101. Detonate the Maximum Bombs
 Medium
@@ -1294,6 +1319,18 @@ Hard
 
 
 
+
+
+Leetcode D C 
+1561. Maximum Number of Coins You Can Get
+Medium
+1.4K
+Array     Math
+Greedy    Sorting   Game Theory
+
+
+
+
 Leetcode D C 
 1768. Merge Strings Alternately
 Easy
@@ -1452,6 +1489,17 @@ Array        Hash Table
 
 
 Leetcode D C 
+1727. Largest Submatrix With Rearrangements
+Medium
+1.1K
+Array        Greedy     Sorting
+Matrix
+
+
+
+
+
+Leetcode D C 
 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 Hard
 1K
@@ -1557,7 +1605,7 @@ Leetcode D C
 1964. Find the Longest Valid Obstacle Course at Each Position
 Hard
 829
-Array Binary Search Binary Indexed Tree
+Array     Binary Search       Binary Indexed Tree
 
 
 
@@ -1597,6 +1645,15 @@ Medium
 Design        Heap (Priority Queue)
 
 
+
+
+
+Leetcode D C 
+2147. Number of Ways to Divide a Long Corridor
+Hard
+763
+Math         String
+Dynamic Programming
 
 
 
@@ -1643,6 +1700,22 @@ Hard
 653
 
 
+
+
+
+1611. Minimum One Bit Operations to Make Integers Zero
+Hard
+631
+691
+Dynamic Programming          Bit Manipulation
+Memoization
+
+
+
+
+
+
+
 2404. Most Frequent Even Element
 Easy
 566
@@ -1663,6 +1736,9 @@ Medium
 Medium
 344
 String    Sorting
+
+
+
 
 
 
