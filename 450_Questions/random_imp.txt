@@ -934,6 +934,20 @@ Breadth-First Search  Graph  Geometry
 
 
 
+
+
+
+Leetcode D C
+1662. Check If Two String Arrays are Equivalent
+Easy
+2.5K
+Array       String
+
+
+
+
+
+
 Leetcode D C 
 1572. Matrix Diagonal Sum
 Easy
@@ -1137,6 +1151,20 @@ Hard
 
 
 
+
+
+Leetcode D C
+1266. Minimum Time Visiting All Points
+Easy
+1.8K
+Array       Math       Geometry
+
+
+
+
+
+
+
 Leetcode D C
 2090. K Radius Subarray Averages
 Medium
@@ -1335,6 +1363,17 @@ Leetcode D C
 1768. Merge Strings Alternately
 Easy
 1.3K
+
+
+
+
+
+Leetcode D C 
+1688. Count of Matches in Tournament
+Easy
+1.3K
+Math       Simulation
+
 
 
 
@@ -1716,9 +1755,23 @@ Memoization
 
 
 
+
 2404. Most Frequent Even Element
 Easy
 566
+
+
+
+
+
+
+
+Leetcode D C
+2264. Largest 3-Same-Digit Number in String
+Easy
+545
+String
+
 
 
 
