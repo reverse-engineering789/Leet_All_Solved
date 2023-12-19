@@ -339,6 +339,13 @@ Array Matrix Simulation
 
 
 
+191. Number of 1 Bits
+Easy
+5.1K
+1.1K
+
+
+
 
 
 
@@ -611,13 +618,6 @@ Sorting
 
 
 
-
-1254. Number of Closed Islands
-Medium
-3.2K
-
-
-
 Leetcode D C
 258. Add Digits
 Easy
@@ -631,13 +631,6 @@ Medium
 3.8K
 
 
-
-
-Leetcode D C
-1312. Minimum Insertion Steps to Make a String Palindrome
-Hard
-3.7K
-strings
 
 
 
@@ -671,6 +664,16 @@ Tree   Depth-First Search
 Breadth-First Search
 
 
+
+
+
+
+
+Leetcode D C
+1312. Minimum Insertion Steps to Make a String Palindrome
+Hard
+3.7K
+strings
 
 
 
@@ -767,6 +770,16 @@ Easy
 
 
 
+
+
+1254. Number of Closed Islands
+Medium
+3.2K
+
+
+
+
+
 1431. Kids With the Greatest Number of Candies
 Easy
 3.1K
@@ -786,12 +799,6 @@ Recursion
 
 
 
-
-
-
-827. Making A Large Island
-Hard
-3K
 
 
 
@@ -855,6 +862,16 @@ Dynamic Programming
 
 
 
+
+827. Making A Large Island
+Hard
+3K
+
+
+
+
+
+
 Leetcode D C 
 823. Binary Trees With Factors
 Medium
@@ -879,6 +896,19 @@ Leetcode D C
 #DR 1402. Reducing Dishes
 Hard
 2.8K
+
+
+
+
+Leetcode D C 
+606. Construct String from Binary Tree
+Easy
+2.8K
+3.3K
+String     Tree      Depth-First Search
+Binary Tree
+
+
 
 
 1020. Number of Enclaves
@@ -1105,6 +1135,53 @@ Math        Dynamic Programming       Combinatorics
 
 
 
+
+
+Leetcode D C 
+2439. Minimize Maximum of Array
+Medium
+1.9K
+
+
+
+
+Leetcode D C 
+1491. Average Salary Excluding the Minimum and Maximum Salary
+Easy
+1.9K
+Array Sorting
+
+
+
+
+
+
+
+
+Leetcode D C 
+1436. Destination City
+Easy
+1.9K
+Hash Table     String
+
+
+
+
+
+
+
+Leetcode D C 
+1822. Sign of the Product of an Array
+Easy
+1.8K
+Array Math
+
+
+
+
+
+
+
 Leetcode D C 
 458. Poor Pigs
 Hard
@@ -1115,12 +1192,6 @@ Combinatorics
 
 
 
-
-Leetcode D C 
-1822. Sign of the Product of an Array
-Easy
-1.8K
-Array Math
 
 
 
@@ -1137,10 +1208,19 @@ Math  Dynamic Programming  Sliding Window  Probability and Statistics
 
 
 
+
+
+
+
+
 Leetcode D C 
-2352. Equal Row and Column Pairs
-Medium
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+Hard
 1.7K
+Union Find Graph
+
+
+
 
 
 Leetcode D C
@@ -1165,6 +1245,14 @@ Array       Math       Geometry
 
 
 
+Leetcode D C 
+2352. Equal Row and Column Pairs
+Medium
+1.7K
+
+
+
+
 Leetcode D C
 2090. K Radius Subarray Averages
 Medium
@@ -1178,6 +1266,43 @@ Leetcode D C
 1603. Design Parking System
 Easy
 1.6K
+
+
+
+
+
+
+
+
+
+
+Leetcode D C 
+2542. Maximum Subsequence Score
+Medium
+1.6K
+
+
+
+
+
+Leetcode D C 
+1361. Validate Binary Tree Nodes
+Medium
+1.6K
+Tree                Depth-First Search                
+Breadth-First Search                Union Find                
+Graph                Binary Tree
+
+
+
+
+
+Leetcode D C
+1903. Largest Odd Number in String
+Easy
+1.6K
+Math    String     Greedy
+
 
 
 
@@ -1209,6 +1334,28 @@ Hard
 Array           Dynamic Programming             
 Queue             Sliding Window             
 Heap (Priority Queue)             Monotonic Queue
+
+
+
+
+
+
+Leetcode D C 
+319. Bulb Switcher
+Medium
+1.5K
+Math    Brainteaser
+
+
+
+
+
+
+
+420. Strong Password Checker
+Hard
+689
+1.5K
 
 
 
@@ -1283,67 +1430,19 @@ Binary Tree
 
 
 Leetcode D C 
-1444. Number of Ways of Cutting a Pizza
-Hard
-1.3K
-
-
-Leetcode D C 
-319. Bulb Switcher
-Medium
-1.5K
-Math    Brainteaser
-
-
-
-Leetcode D C 
-2336. Smallest Number in Infinite Set
-Medium
-1K
-
-
-
-191. Number of 1 Bits
-Easy
-5.1K
-1.1K
-
-
-
-2149. Rearrange Array Elements by Sign
-Medium
-1.3K
-
-
-Leetcode D C 
 2300. Successful Pairs of Spells and Potions
 Medium
 1.4K
 
 
 
-Leetcode D C 
-1416. Restore The Array
-Hard
-1.2K
+
 
 
 Leetcode D C 
 2390. Removing Stars From a String
 Medium
 1.4K
-
-
-Leetcode D C 
-1857. Largest Color Value in a Directed Graph
-Hard
-1K
-
-
-420. Strong Password Checker
-Hard
-689
-1.5K
 
 
 
@@ -1357,79 +1456,6 @@ Array     Math
 Greedy    Sorting   Game Theory
 
 
-
-
-Leetcode D C 
-1768. Merge Strings Alternately
-Easy
-1.3K
-
-
-
-
-
-Leetcode D C 
-1688. Count of Matches in Tournament
-Easy
-1.3K
-Math       Simulation
-
-
-
-
-
-
-Leetcode D C 
-2218. Maximum Value of K Coins From Piles
-Hard
-1.2K
-
-
-Leetcode D C 
-2542. Maximum Subsequence Score
-Medium
-1.6K
-
-
-
-
-
-Leetcode D C 
-1361. Validate Binary Tree Nodes
-Medium
-1.6K
-Tree                Depth-First Search                
-Breadth-First Search                Union Find                
-Graph                Binary Tree
-
-
-
-
-
-
-
-Leetcode D C 
-1579. Remove Max Number of Edges to Keep Graph Fully Traversable
-Hard
-1.7K
-Union Find Graph
-
-
-
-
-Leetcode D C 
-2439. Minimize Maximum of Array
-Medium
-1.9K
-
-
-
-
-Leetcode D C 
-1491. Average Salary Excluding the Minimum and Maximum Salary
-Easy
-1.9K
-Array Sorting
 
 
 
@@ -1465,6 +1491,53 @@ Heap (Priority Queue)
 
 
 
+
+
+
+Leetcode D C 
+1768. Merge Strings Alternately
+Easy
+1.3K
+
+
+
+
+
+Leetcode D C 
+1688. Count of Matches in Tournament
+Easy
+1.3K
+Math       Simulation
+
+
+
+
+
+
+
+
+Leetcode D C 
+1444. Number of Ways of Cutting a Pizza
+Hard
+1.3K
+
+
+
+
+
+
+2149. Rearrange Array Elements by Sign
+Medium
+1.3K
+
+
+
+
+
+
+
+
+
 Leetcode D C 
 1458. Max Dot Product of Two Subsequences
 Hard
@@ -1485,6 +1558,25 @@ Array       Hash Table           Math        Counting
 
 
 
+
+
+
+
+
+Leetcode D C 
+1416. Restore The Array
+Hard
+1.2K
+
+
+
+
+
+
+Leetcode D C 
+2218. Maximum Value of K Coins From Piles
+Hard
+1.2K
 
 
 
@@ -1538,6 +1630,25 @@ Matrix
 
 
 
+
+
+1716. Calculate Money in Leetcode Bank
+Easy
+1.1K
+Math
+
+
+
+Leetcode D C 
+1582. Special Positions in a Binary Matrix
+Easy
+1.1K
+Array      Matrix
+
+
+
+
+
 Leetcode D C 
 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 Hard
@@ -1572,12 +1683,49 @@ Dynamic Programming
 
 
 
+
+
+
+
+Leetcode D C 
+2336. Smallest Number in Infinite Set
+Medium
+1K
+
+
+
+
+
+
+Leetcode D C 
+1857. Largest Color Value in a Directed Graph
+Hard
+1K
+
+
+
+
+
+
 Leetcode D C
 2050. Parallel Courses III
 Hard
 995
 Array          Dynamic Programming
 Graph      Topological Sort
+
+
+
+
+
+
+LeetCode D C
+2482. Difference Between Ones and Zeros in Row and Column
+Medium
+974
+Array     Matrix      Simulation
+
+
 
 
 
@@ -1670,6 +1818,17 @@ Leetcode D C
 Medium
 817
 Math    Dynamic Programming      Probability and Statistic 
+
+
+
+
+
+
+Leetcode D C 
+661. Image Smoother
+Easy
+775
+Array         Matrix
 
 
 
