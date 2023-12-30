@@ -488,6 +488,15 @@ Design          Queue          Iterator
 
 
 
+
+1155. Number of Dice Rolls With Target Sum
+Medium
+4.5K
+Dynamic Programming
+
+
+
+
 190. Reverse Bits
 Easy
 4.2K
@@ -713,6 +722,13 @@ Math      Bit Manipulation      Recursion
 
 
 
+Leetcode D C
+1578. Minimum Time to Make Rope Colorful
+Medium
+3.5K
+Array      String      Dynamic Programming
+Greedy
+
 
 
 
@@ -830,6 +846,13 @@ Array         Binary Search         Greedy
 Sliding Window         Sorting         Prefix Sum
 
 
+
+
+
+1335. Minimum Difficulty of a Job Schedule
+Hard
+3.2K
+Array   Dynamic Programming
 
 
 
@@ -1031,6 +1054,13 @@ Leetcode D C
 Hard
 2.3K
 Math        Dynamic Programming        Combinatorics
+
+
+1531. String Compression II
+Hard
+2.3K
+String    Dynamic Programming
+
 
 
 
@@ -1536,6 +1566,16 @@ Medium
 
 
 
+Leetcode D C 
+1758. Minimum Changes To Make Alternating Binary String
+Easy
+1.3K
+String
+
+
+
+
+
 
 
 Leetcode D C 
@@ -1577,6 +1617,17 @@ Leetcode D C
 2218. Maximum Value of K Coins From Piles
 Hard
 1.2K
+
+
+
+
+Leetcode D C 
+1422. Maximum Score After Splitting a String
+Easy
+1.2K
+String
+
+
 
 
 
@@ -1704,6 +1755,14 @@ Hard
 
 
 
+Leetcode D C 
+1758. Minimum Changes To Make Alternating Binary String
+Easy
+1K
+String
+
+
+
 
 
 
@@ -1776,6 +1835,16 @@ Array     Sorting
 
 
 
+2706. Buy Two Chocolates
+Easy
+898
+Array      Sorting
+
+
+
+
+
+
 
 Leet D C
 2391. Minimum Amount of Time to Collect Garbage
@@ -1807,6 +1876,17 @@ Hard
 822
 Array       Dynamic Programming
 
+
+
+
+
+
+
+Leetcode D C
+1897. Redistribute Characters to Make All Strings Equal
+Easy
+822
+Hash Table     String     Counting
 
 
 
@@ -1896,6 +1976,19 @@ Leetcode D C
 1639. Number of Ways to Form a Target String Given a Dictionary
 Hard
 653
+
+
+
+
+
+
+
+Leetcode D C 
+1637. Widest Vertical Area Between Two Points Containing No Points
+Medium
+636
+Array       Sorting
+
 
 
 
