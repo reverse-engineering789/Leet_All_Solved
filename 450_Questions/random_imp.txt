@@ -5,11 +5,24 @@ Medium
 
 
 
-Leet D C
+Leetcode D C
 5. Longest Palindromic Substring
 Medium
 27.8K
 String        Dynamic Programming
+
+
+
+
+
+
+Leetcode D C
+300. Longest Increasing Subsequence
+Medium
+19.7K
+Array           Binary Search
+Dynamic Programming
+
 
 
 
@@ -279,6 +292,28 @@ Monotonic Stack          Ordered Set
 
 
 
+
+
+
+
+
+
+
+1235. Maximum Profit in Job Scheduling
+Hard
+6.4K
+Array          Binary Search        
+Dynamic Programming         Sorting
+
+
+
+
+
+
+
+
+
+
 1004. Max Consecutive Ones III
 Medium
 6.2K
@@ -449,6 +484,18 @@ Binary Search           Depth-First Search
 Breadth-First Search           Union Find           
 Heap (Priority Queue)           Matrix
 
+
+
+
+
+
+
+Leetcode D C
+1026. Maximum Difference Between Node and Ancestor
+Medium
+4.8K
+Tree        Depth-First Search
+Binary Tree
 
 
 
@@ -627,11 +674,33 @@ Sorting
 
 
 
+
+
+
 Leetcode D C
 258. Add Digits
 Easy
 3.9K
 Math Simulation Number Theory
+
+
+
+
+
+
+
+Leetcode D C
+872. Leaf-Similar Trees
+Easy
+3.9K
+Tree        Depth-First Search
+Binary Tree
+
+
+
+
+
+
 
 
 Leetcode D C
@@ -683,6 +752,21 @@ Leetcode D C
 Hard
 3.7K
 strings
+
+
+
+
+
+
+Leetcode
+455. Assign Cookies
+Easy
+3.6K
+Array      Two Pointers      
+Greedy      Sorting
+
+
+
 
 
 
@@ -934,9 +1018,33 @@ Binary Tree
 
 
 
+
+
+
+Leetcode D C 
+446. Arithmetic Slices II - Subsequence
+Hard
+2.7K
+Array       Dynamic Programming
+
+
+
+
+
+
+
+
+
 1020. Number of Enclaves
 Medium
 2.6K
+
+
+
+
+
+
+
 
 
 
@@ -1002,6 +1110,19 @@ Array       String
 
 
 Leetcode D C 
+2385. Amount of Time for Binary Tree to Be Infected
+Medium
+2.5K
+Tree         Depth-First Search
+Breadth-First Search        Binary Tree
+
+
+
+
+
+
+
+Leetcode D C 
 1572. Matrix Diagonal Sum
 Easy
 2.4K
@@ -1020,6 +1141,22 @@ Leetcode D C
 Easy
 2.4K
 Array
+
+
+
+
+
+
+Leetcode D C 
+1347. Minimum Number of Steps to Make Two Strings Anagram
+Medium
+2.4K
+Hash Table       String
+Counting
+
+
+
+
 
 
 
@@ -1093,6 +1230,19 @@ Leetcode D C
 Medium
 2.2K
 String     Stack
+
+
+
+
+
+
+
+Leetcode D C
+1704. Determine if String Halves Are Alike
+Easy
+2.2K
+String       Counting
+
 
 
 
@@ -1338,6 +1488,15 @@ Math    String     Greedy
 
 
 Leetcode D C 
+2125. Number of Laser Beams in a Bank
+Medium
+Array        Math        String        
+Matrix
+
+
+
+
+Leetcode D C 
 1203. Sort Items by Groups Respecting Dependencies
 Hard
 1.5K
@@ -1386,6 +1545,17 @@ Math    Brainteaser
 Hard
 689
 1.5K
+
+
+
+
+
+
+Leetcode D C
+2610. Convert an Array Into a 2D Array With Conditions
+Medium
+1.5K
+Array       Hash Table
 
 
 
@@ -1839,6 +2009,16 @@ Array     Sorting
 Easy
 898
 Array      Sorting
+
+
+
+
+
+
+1624. Largest Substring Between Two Equal Characters
+Easy
+898
+Hash Table      String
 
 
 
